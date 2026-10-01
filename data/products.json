@@ -1,0 +1,2764 @@
+[
+  {
+    "slug": "applicateur-manuel-film-etirable-45cm",
+    "name": "Applicateur manuel film étirable 45 cm",
+    "reference": "FI00AP0001",
+    "category": "Film et palettisation",
+    "kind": "material",
+    "description": "L'applicateur manuel film étirable 45 cm Vianex est une solution économique et pratique pour le banderolage manuel de palettes de petite et moyenne taille. Sa conception compacte le rend particulièrement adapté aux bobines de 450 mm de large, les plus courantes pour les petites palettes ou les emballages secondaires. Fabriqué en plastique ABS léger, cet applicateur pèse seulement 280 g, facilitant les manipulations prolongées sans fatigue excessive.",
+    "features": [
+      "Compatible avec les bobines de film étirable 450 mm",
+      "Corps en plastique ABS léger et résistant",
+      "Poids très faible : 280 g à vide",
+      "Mandrin universel diamètre 50 mm",
+      "Capacité bobine jusqu'à 300 g",
+      "Design compact pour espaces réduits",
+      "Prix d'entrée très accessible — idéal pour équiper plusieurs postes",
+      "Légèreté maximale pour un confort opérateur optimal",
+      "Prise en main intuitive, sans formation nécessaire",
+      "Robustesse adaptée à un usage quotidien en entrepôt",
+      "Compatible avec films transparents et films noirs"
+    ],
+    "image": "images/aplicador_manual_film_estirable_plastico_diametro_interior_50mm_economico.jpg"
+  },
+  {
+    "slug": "applicateur-manuel-film-etirable-50cm",
+    "name": "Applicateur manuel film étirable 50 cm",
+    "reference": "FI00AP0002",
+    "category": "Film et palettisation",
+    "kind": "material",
+    "description": "L'applicateur manuel film étirable 50 cm Vianex est l'outil indispensable pour tout opérateur effectuant le banderolage manuel de palettes. Conçu pour recevoir les bobines de film étirable de 500 mm de large, cet applicateur ergonomique permet de maintenir la bobine en main sans effort, réduisant considérablement la fatigue lors des opérations répétitives. Sa poignée en plastique ABS renforcé offre une prise en main ferme et confortable, même lors de longues sessions de travail.",
+    "features": [
+      "Compatible avec toutes les bobines de film étirable 500 mm",
+      "Poignée ergonomique en plastique ABS renforcé",
+      "Poids léger : seulement 350 g à vide",
+      "Mandrin adapté au diamètre intérieur standard de 50 mm",
+      "Capacité maximale : bobines jusqu'à 500 g",
+      "Système de blocage rapide de la bobine",
+      "Réduit la fatigue opérateur de manière significative",
+      "Améliore la régularité du banderolage et la qualité d'emballage",
+      "Compatible avec les films standard, renforcés et noirs",
+      "Entretien minimal — aucun consommable",
+      "Rapport qualité/prix excellent pour une utilisation quotidienne"
+    ],
+    "image": "images/aplicador_manual_film_estirable_plastico_diametro_interior_50mm_economico.jpg"
+  },
+  {
+    "slug": "betterpack-333eplus",
+    "name": "BetterPack 333ePlus — Humecteur de papier gommé électrique",
+    "reference": "BETTERPACK333EPLUS",
+    "category": "Humecteurs de papier gommé",
+    "kind": "machine",
+    "description": "BetterPack 333ePlus — Humecteur de papier gommé électrique. Distributeur électrique, longueurs préprogrammables 100-999mm, 40 bandes/min, im",
+    "features": [
+      "Distributeur électrique",
+      "Longueurs préprogrammables 100-999mm",
+      "40 bandes/min",
+      "Im"
+    ],
+    "image": "images/humecteur-papier-gomme-semi-auto-avec-papier.jpg"
+  },
+  {
+    "slug": "betterpack-555e",
+    "name": "BetterPack 555e — Humecteur électrique haute cadence",
+    "reference": "BETTERPACK555E",
+    "category": "Humecteurs de papier gommé",
+    "kind": "machine",
+    "description": "BetterPack 555e — Humecteur électrique haute cadence. 60 bandes/min, 5 programmes mémorisés, compteur de production, mémoire des régla",
+    "features": [
+      "60 bandes/min",
+      "5 programmes mémorisés",
+      "Compteur de production",
+      "Mémoire des régla"
+    ],
+    "image": "images/humecteur-papier-gomme-semi-auto-avec-papier.jpg"
+  },
+  {
+    "slug": "boite-americaine-300x300x300",
+    "name": "Boite américaine 300x300x300mm",
+    "reference": "BC00AM0001",
+    "category": "Boites en carton",
+    "kind": "material",
+    "description": "Boîte américaine (RSC) en carton simple cannelure, format 300x300x300mm. Assemblage rapide, solide et économique pour expéditions courantes.",
+    "features": [
+      "Format 300x300x300mm standard",
+      "Carton simple cannelure 3mm",
+      "Assemblage rapide sans outillage",
+      "Vendue par lot de 25",
+      "Expédition e-commerce",
+      "Stockage et emballage courant",
+      "Compatible avec toutes formeuses"
+    ],
+    "image": "images/boite-carton-simple-cannelure.jpeg"
+  },
+  {
+    "slug": "boite-carton-200x150x100",
+    "name": "Boite carton 200x150x100mm",
+    "reference": "BC00ST0001",
+    "category": "Boites en carton",
+    "kind": "material",
+    "description": "Boîte en carton kraft 200x150x100mm, simple cannelure, idéale pour petits colis e-commerce, bijoux et accessoires. Fond automatique ou à coller.",
+    "features": [
+      "Petit format 200x150x100mm",
+      "Kraft simple cannelure léger",
+      "Fond automatique ou à assembler",
+      "Lot de 50 unités",
+      "Bijoux, accessoires, cosmétiques",
+      "E-commerce petits articles",
+      "Cadeaux et présentations"
+    ],
+    "image": "images/boite-carton-categorie.png"
+  },
+  {
+    "slug": "boite-carton-300x200x200",
+    "name": "Boite carton 300x200x200mm",
+    "reference": "BC00ST0002",
+    "category": "Boites en carton",
+    "kind": "material",
+    "description": "Boîte en carton 300x200x200mm, format polyvalent pour la majorité des expéditions e-commerce. Simple cannelure, assemblage rapide.",
+    "features": [
+      "Format polyvalent 300x200x200mm",
+      "Kraft simple cannelure",
+      "Assemblage rapide",
+      "Lot de 25 unités",
+      "E-commerce polyvalent",
+      "Expéditions standard",
+      "Stockage produits divers"
+    ],
+    "image": "images/boite-carton-categorie.png"
+  },
+  {
+    "slug": "boite-carton-400x300x300",
+    "name": "Boite carton 400x300x300mm",
+    "reference": "BC00ST0003",
+    "category": "Boites en carton",
+    "kind": "material",
+    "description": "Boîte en carton 400x300x300mm, format grand volume pour produits encombrants. Kraft double cannelure disponible sur demande.",
+    "features": [
+      "Grand format 400x300x300mm",
+      "Simple ou double cannelure",
+      "Résistance renforcée",
+      "Lot de 15 unités",
+      "Produits encombrants et lourds",
+      "E-commerce volume",
+      "Industrie et logistique"
+    ],
+    "image": "images/boite-carton-categorie.png"
+  },
+  {
+    "slug": "boite-carton-double-cannelure",
+    "name": "Boite carton double cannelure",
+    "reference": "BC00DC0001",
+    "category": "Boites en carton",
+    "kind": "material",
+    "description": "Boîte en carton double cannelure, résistance augmentée pour charges lourdes et produits fragiles nécessitant une protection maximale.",
+    "features": [
+      "Double cannelure 7mm résistance max",
+      "Tenue à l'écrasement élevée",
+      "Protection renforcée produits lourds",
+      "Kraft intérieur blanc disponible",
+      "Industrie et métallurgie",
+      "Machines et équipements",
+      "Export longue distance"
+    ],
+    "image": "images/boite-carton-double-cannelure.jpeg"
+  },
+  {
+    "slug": "boite-carton-kraft-premium",
+    "name": "Boite carton kraft premium",
+    "reference": "BC00PR0001",
+    "category": "Boites en carton",
+    "kind": "material",
+    "description": "Boîte en carton kraft premium, aspect soigné intérieur et extérieur blanc. Idéale pour e-commerce haut de gamme, cadeaux et unboxing qualitatif.",
+    "features": [
+      "Kraft intérieur et extérieur blanc",
+      "Aspect premium, idéal unboxing",
+      "Simple cannelure renforcée",
+      "Compatible avec impression jet d'encre",
+      "E-commerce haut de gamme",
+      "Cadeaux et coffrets",
+      "Cosmétique et luxe"
+    ],
+    "image": "images/boites-carton-menu.png"
+  },
+  {
+    "slug": "boite-carton-personnalisee",
+    "name": "Boite carton personnalisée",
+    "reference": "BC00PE0001",
+    "category": "Boites en carton",
+    "kind": "material",
+    "description": "Boîte en carton personnalisée avec impression de votre logo et identité visuelle. Offset 4 couleurs, minimum 500 pièces, délai 3 semaines.",
+    "features": [
+      "Impression offset 4 couleurs",
+      "Minimum 500 pièces",
+      "Délai 3 semaines avec BAT",
+      "Toutes dimensions disponibles",
+      "Branding et image de marque",
+      "E-commerce et retail",
+      "Coffrets et présentoirs"
+    ],
+    "image": "images/boites-en-carton-personnalisees-ouverte-blanche.jpeg"
+  },
+  {
+    "slug": "boucles-metalliques-13mm",
+    "name": "Boucles métalliques 13mm",
+    "reference": "FE00BM0001",
+    "category": "Feuillard et accessoires",
+    "kind": "material",
+    "description": "Boucles métalliques 13mm pour feuillard PP et PET. Fermeture solide sans sertissage. Boîte de 1000 pièces, acier galvanisé anti-corrosion.",
+    "features": [
+      "Acier galvanisé anti-corrosion",
+      "Compatible feuillard 13mm PP et PET",
+      "Fermeture sans sertissage",
+      "Boîte 1000 pièces",
+      "Cerclage manuel",
+      "Accessoire feuillard 13mm",
+      "Logistique et transport"
+    ],
+    "image": "images/feuillard-metallique-rouleau-2.jpeg"
+  },
+  {
+    "slug": "caisse-palette-carton",
+    "name": "Caisse palette carton 800x1200mm",
+    "reference": "BC00CP0001",
+    "category": "Boites en carton",
+    "kind": "material",
+    "description": "Caisse palette carton 800x1200mm format europalette. Double cannelure renforcée pour stockage et transport de charges importantes.",
+    "features": [
+      "Format europalette 800x1200mm",
+      "Double cannelure renforcée",
+      "Assemblage sans outil",
+      "Recyclable 100%",
+      "Stockage et palettisation en usine",
+      "Transport de pièces lourdes",
+      "Industrie lourde et logistique"
+    ],
+    "image": "images/palette-de-carton-800x1200mm-upalet-1.jpeg"
+  },
+  {
+    "slug": "calage-nid-abeille-kraft",
+    "name": "Calage nid d'abeille kraft",
+    "reference": "CA00NA0001",
+    "category": "Calage et protection",
+    "kind": "material",
+    "description": "Papier nid d'abeille kraft pour calage et intercalaires. Structure alvéolaire haute résistance pour un poids minimal, recyclable.",
+    "features": [
+      "Structure alvéolaire haute résistance",
+      "Poids minimal — amortissement maximal",
+      "Recyclable et biodégradable",
+      "Découpe et pliage faciles",
+      "Calage objets lourds et fragiles",
+      "Intercalaires entre couches",
+      "Alternative carton alvéolaire"
+    ],
+    "image": "images/calage-protection-categorie.png"
+  },
+  {
+    "slug": "chariot-dispenser-film-etirable",
+    "name": "Chariot dispenser film étirable",
+    "reference": "FI00AC0010",
+    "category": "Film et palettisation",
+    "kind": "material",
+    "description": "Le chariot dispenser film étirable Vianex est la solution idéale pour le banderolage manuel de palettes avec des bobines de grande taille (jusqu'à 30 kg). Conçu en acier époxy avec 4 roulettes pivotantes dont 2 avec freins, ce chariot permet de déplacer facilement la bobine autour de la palette sans effort physique. Le système de frein de tension réglable garantit un déroulement régulier du film pour un banderolage homogène et professionnel.",
+    "features": [
+      "Capacité max. 30 kg — compatible bobines jusqu'à 500 mm de large",
+      "Structure acier époxy robuste et légère",
+      "4 roulettes pivotantes dont 2 avec freins de stationnement",
+      "Frein de tension réglable pour contrôle du déroulement du film",
+      "Hauteur du mandrin ajustable de 750 à 1 050 mm",
+      "Compatible avec mandrins 50 mm et 76 mm",
+      "Élimine le port de charges lourdes pour les opérateurs",
+      "Améliore l'ergonomie et réduit les TMS (troubles musculo-squelettiques)",
+      "Banderolage plus rapide et plus régulier qu'avec un applicateur à main",
+      "Mobilité totale grâce aux roulettes pivotantes",
+      "Entretien minimal — robustesse longue durée"
+    ],
+    "image": "images/chariot-devidoir-feuillard.jpeg"
+  },
+  {
+    "slug": "chariot-manutention-600kg",
+    "name": "Chariot de manutention 600kg",
+    "reference": "MA00CH0001",
+    "category": "Manutention et logistique",
+    "kind": "material",
+    "description": "Chariot de manutention 4 roues 600kg, plateau plat acier, idéal déplacement de charges en entrepôt, atelier et zone logistique.",
+    "features": [
+      "Capacité 600 kg",
+      "Plateau acier solide",
+      "4 roues pivotantes dont 2 freinées",
+      "Poignée ergonomique",
+      "Déplacement cartons et marchandises",
+      "Entrepôt et atelier",
+      "Manutention légère quotidienne"
+    ],
+    "image": "images/chariot-devidoir-feuillard.jpeg"
+  },
+  {
+    "slug": "chips-calage-polystyrene",
+    "name": "Chips de calage polystyrène",
+    "reference": "CA00CH0001",
+    "category": "Calage et protection",
+    "kind": "material",
+    "description": "Chips de calage polystyrène expansé en forme de noix. Remplissage rapide de vides dans cartons, protection multi-directionnelle.",
+    "features": [
+      "Forme noix pour emboîtement",
+      "Protection multi-directionnelle",
+      "Ultra-léger, impact poids nul",
+      "Sac 200L",
+      "Remplissage vides dans cartons",
+      "E-commerce et expédition",
+      "Objets irréguliers et fragiles"
+    ],
+    "image": "images/calage-protection-categorie.png"
+  },
+  {
+    "slug": "coussin-air-200x100mm",
+    "name": "Coussins d'air 200x100mm",
+    "reference": "CA00CO0001",
+    "category": "Calage et protection",
+    "kind": "material",
+    "description": "Coussins d'air 200x100mm pour calage et protection en carton. Légèreté maximale, remplissage rapide machine SPK, résistance chocs et vibrations.",
+    "features": [
+      "Format 200x100mm polyvalent",
+      "Légèreté et faible encombrement à plat",
+      "Remplissage rapide machine SPK",
+      "Résistance chocs et vibrations",
+      "Protection e-commerce et retail",
+      "Calage toutes formes de produits",
+      "Remplacement chips polystyrène"
+    ],
+    "image": "images/coussin-air-remplissage-calage-PR00AIA705.jpeg"
+  },
+  {
+    "slug": "coussin-air-200x300mm",
+    "name": "Coussins d'air 200x300mm",
+    "reference": "CA00CO0002",
+    "category": "Calage et protection",
+    "kind": "material",
+    "description": "Coussins d'air 200x300mm pour calage de produits volumineux. Protection renforcée, idéal expéditions fragiles et e-commerce premium.",
+    "features": [
+      "Format 200x300mm grandes cavités",
+      "Protection renforcée",
+      "Remplissage automatique SPK",
+      "Film PE recyclable",
+      "Produits volumineux et fragiles",
+      "E-commerce premium",
+      "Colis lourds et encombrants"
+    ],
+    "image": "images/bobine-coussin-air-protection-calage-carton-spk-7005-1.jpeg"
+  },
+  {
+    "slug": "devidoir-ergonomique",
+    "name": "Dévidoir ergonomique film étirable",
+    "reference": "FI00AP0003",
+    "category": "Film et palettisation",
+    "kind": "material",
+    "description": "Le dévidoir ergonomique Vianex est une version perfectionnée de l'applicateur de film étirable classique, doté d'un frein de tension réglable intégré qui permet de contrôler précisément la tension du film lors du banderolage. Grâce à ce système, l'opérateur obtient un film régulièrement tendu autour de la palette sans effort supplémentaire, garantissant une contention optimale et un résultat professionnel constant. La poignée ABS bimatière absorbante améliore significativement le confort de prise en main.",
+    "features": [
+      "Frein de tension réglable — 3 niveaux de tension",
+      "Compatible avec toutes les bobines de film étirable 500 mm",
+      "Poignée bimatière ABS + TPR pour confort et grip optimal",
+      "Poids total : 520 g à vide",
+      "Mandrin compatible diamètre intérieur 50 mm",
+      "Capacité maximale : bobines jusqu'à 700 g",
+      "Tension de film constante et réglable sans effort",
+      "Contention plus homogène de la palette qu'avec un applicateur standard",
+      "Réduction des TMS (troubles musculo-squelettiques) des poignets",
+      "Compatible avec tous les films manuels 500 mm : standard, renforcé, noir, anti-UV",
+      "Entretien zéro — aucun consommable"
+    ],
+    "image": "img/Film et palettisation/bobine-film-mini-sans-mandrin-applicateur-3.jpeg"
+  },
+  {
+    "slug": "etiqueteuse-manuelle-palette",
+    "name": "Etiqueteuse manuelle palette",
+    "reference": "MA00ET0001",
+    "category": "Manutention et logistique",
+    "kind": "material",
+    "description": "Etiqueteuse manuelle pour application d'étiquettes sur palettes et colis grands formats. Poignée ergonomique, réglage de largeur 50-100mm.",
+    "features": [
+      "Largeur étiquette 50 à 100mm",
+      "Application manuelle précise",
+      "Poignée ergonomique",
+      "Réglage rapide sans outil",
+      "Etiquetage palettes logistique",
+      "Application bons de livraison",
+      "Marquage produits et colis"
+    ],
+    "image": "images/kit-cerclage-spk.jpeg"
+  },
+  {
+    "slug": "etiquette-blanche-105x148",
+    "name": "Etiquette blanche 105x148mm",
+    "reference": "ET00EB0001",
+    "category": "Etiquettes / porte-documents",
+    "kind": "material",
+    "description": "Etiquettes blanches A6 105x148mm en rouleau pour imprimante thermique. Adhésif permanent, papier couché blanc mat.",
+    "features": [
+      "Format A6 — 105x148mm",
+      "Adhésif permanent",
+      "Papier couché blanc mat",
+      "Compatible imprimantes thermiques",
+      "Etiquetage colis et palettes",
+      "Bons de livraison",
+      "E-commerce et logistique"
+    ],
+    "image": "images/enveloppes-porte-documents-blanc-2.jpeg"
+  },
+  {
+    "slug": "etiquette-personnalisee",
+    "name": "Etiquette personnalisée",
+    "reference": "ET00EP0001",
+    "category": "Etiquettes / porte-documents",
+    "kind": "material",
+    "description": "Etiquettes adhésives personnalisées avec votre logo, code-barres et informations produit. Impression offset ou numérique, min. 1000 unités.",
+    "features": [
+      "Impression offset ou numérique",
+      "Toutes formes et formats",
+      "Minimum 1000 unités",
+      "BAT inclus avant production",
+      "Branding et identification produit",
+      "Conformité et traçabilité",
+      "Promotions marketing"
+    ],
+    "image": "images/enveloppes-porte-documents-blanc-2.jpeg"
+  },
+  {
+    "slug": "etiquette-thermique-100x150",
+    "name": "Etiquette thermique 100x150mm",
+    "reference": "ET00TH0001",
+    "category": "Etiquettes / porte-documents",
+    "kind": "material",
+    "description": "Etiquettes thermiques directes 100x150mm sans ruban encreur. Impression par chaleur, format standard transporteurs, compatibles Zebra, Dymo, TSC.",
+    "features": [
+      "Thermique directe — sans ruban",
+      "Format 100x150mm transporteurs",
+      "Noir profond, code-barres garanti",
+      "Compatible Zebra, Dymo, TSC",
+      "Etiquettes expédition e-commerce",
+      "Bons de livraison",
+      "Etiquetage entrepôt"
+    ],
+    "image": "images/enveloppes-porte-documents-blanc-2.jpeg"
+  },
+  {
+    "slug": "etiquette-transparente-105x148",
+    "name": "Etiquette transparente 105x148mm",
+    "reference": "ET00ET0001",
+    "category": "Etiquettes / porte-documents",
+    "kind": "material",
+    "description": "Etiquettes transparentes 105x148mm, aspect discret sur emballages soignés. Adhésif permanent haute transparence, lisibilité code-barres garantie.",
+    "features": [
+      "Transparent — aspect discret",
+      "Adhésif permanent haute transparence",
+      "Lisibilité code-barres garantie",
+      "Compatible laser et jet d'encre",
+      "Emballages haut de gamme",
+      "Produits cosmétiques et luxe",
+      "Etiquetage discret"
+    ],
+    "image": "images/enveloppes-porte-documents-blanc-2.jpeg"
+  },
+  {
+    "slug": "feuillard-acier-16mm",
+    "name": "Feuillard acier 16mm",
+    "reference": "FE00AC0001",
+    "category": "Feuillard et accessoires",
+    "kind": "material",
+    "description": "Feuillard acier galvanisé 16mm pour cerclage de charges très lourdes. Résistance maximale, indéformable, idéal industrie lourde et métallurgie.",
+    "features": [
+      "Acier galvanisé haute résistance",
+      "Indéformable sous charge",
+      "Résistance 8000 N",
+      "Inaltérable chocs et vibrations",
+      "Industrie lourde et métallurgie",
+      "Bois, granite, matériaux lourds",
+      "Export longue distance"
+    ],
+    "image": "images/feuillard-metallique-rouleau-2.jpeg"
+  },
+  {
+    "slug": "feuillard-pet-13mm",
+    "name": "Feuillard PET polyester 13mm",
+    "reference": "FE00PE0001",
+    "category": "Feuillard et accessoires",
+    "kind": "material",
+    "description": "Feuillard PET polyester 13mm à haute résistance et faible élasticité résiduelle. Idéal charges lourdes et stockage longue durée.",
+    "features": [
+      "PET haute résistance",
+      "Faible élasticité résiduelle",
+      "Résistance UV et intempéries",
+      "Remplace feuillard acier sur charges moyennes",
+      "Charges lourdes palettes",
+      "Stockage longue durée",
+      "Industrie bois, pierre, métal"
+    ],
+    "image": "images/feuillard-polyester-vert-pet-fond-gris.jpeg"
+  },
+  {
+    "slug": "feuillard-pp-12mm",
+    "name": "Feuillard PP polypropylène 12mm",
+    "reference": "FE00PP0001",
+    "category": "Feuillard et accessoires",
+    "kind": "material",
+    "description": "Feuillard polypropylène 12mm léger et résistant, idéal cerclage cartons et fardeaux. Compatible cercleuses manuelles et semi-automatiques.",
+    "features": [
+      "PP léger et flexible",
+      "Résistance traction 1800 N",
+      "Couleur naturelle ou bleue",
+      "Compatible toutes cercleuses PP",
+      "Cerclage cartons et fardeaux",
+      "Transport et logistique",
+      "Industrie légère"
+    ],
+    "image": "images/feuillard-pp-polypropylene-fond-gris.jpeg"
+  },
+  {
+    "slug": "feuillard-pp-16mm",
+    "name": "Feuillard PP polypropylène 16mm",
+    "reference": "FE00PP0002",
+    "category": "Feuillard et accessoires",
+    "kind": "material",
+    "description": "Feuillard PP 16mm pour cerclage de charges moyennes à lourdes. Résistance supérieure au 12mm, compatible toutes cercleuses standard.",
+    "features": [
+      "PP renforcé 16mm",
+      "Résistance 2600 N",
+      "Compatible cercleuses standard",
+      "Bobine 2000 m",
+      "Charges moyennes à lourdes",
+      "Palettisation et emballage",
+      "Industrie et logistique"
+    ],
+    "image": "images/feuillard-pp-polypropylene-fond-gris.jpeg"
+  },
+  {
+    "slug": "feuillard-pp-9mm",
+    "name": "Feuillard PP polypropylène 9mm",
+    "reference": "FE00PP0003",
+    "category": "Feuillard et accessoires",
+    "kind": "material",
+    "description": "Feuillard PP 9mm ultra-léger pour cerclage de petits fardeaux, journaux et emballages légers. Idéal cercleuses de table automatiques.",
+    "features": [
+      "Format 9mm ultra-léger",
+      "Résistance 900 N",
+      "Idéal petits fardeaux",
+      "Compatible cercleuses de table",
+      "Presse, édition, imprimerie",
+      "Petits emballages",
+      "Cercleuses automatiques"
+    ],
+    "image": "images/feuillard-pp-polypropylene-fond-gris.jpeg"
+  },
+  {
+    "slug": "film-etirable-biodegradable-pla",
+    "name": "Film étirable biodégradable PLA",
+    "reference": "FI00FM0070",
+    "category": "Film et palettisation",
+    "kind": "material",
+    "description": "Le film étirable biodégradable PLA Vianex est la solution d'emballage éco-responsable pour les entreprises souhaitant réduire leur empreinte plastique. Fabriqué à base d'acide polylactique (PLA) issu de ressources renouvelables (amidon de maïs), ce film est certifié compostable industriellement en moins de 90 jours selon la norme EN 13432. Ses performances mécaniques sont équivalentes au film PE standard : même facilité d'utilisation, même pré-étirage, même transparence.",
+    "features": [
+      "Matière biosourcée PLA — ressources renouvelables 100%",
+      "Compostabilité industrielle certifiée EN 13432 — moins de 90 jours",
+      "Épaisseur 23 µm, largeur 500 mm, longueur 250 m",
+      "Pré-étirage 150 %, transparent",
+      "Performances mécaniques équivalentes au film PE",
+      "Compatible avec les applicateurs manuels 500 mm existants",
+      "Réduction de l'empreinte carbone de vos opérations d'emballage",
+      "Démarche RSE valorisable auprès de vos clients et partenaires",
+      "Aucune adaptation des équipements existants nécessaire",
+      "Compostable — réducteur de déchets plastiques en décharge",
+      "Certifié conforme aux normes européennes de compostabilité"
+    ],
+    "image": "img/Film et palettisation/bobine-film-etirable-manuel-biodegradable-1.jpeg"
+  },
+  {
+    "slug": "film-etirable-imprime-personnalise",
+    "name": "Film étirable imprimé personnalisé",
+    "reference": "FI00FM0060",
+    "category": "Film et palettisation",
+    "kind": "material",
+    "description": "Le film étirable imprimé personnalisé Vianex transforme vos opérations de palettisation en vecteur de communication de marque. Imprimé en flexographie avec votre logo, slogan ou informations réglementaires, ce film assure une visibilité maximale de votre identité visuelle tout au long de la chaîne logistique. Les propriétés mécaniques du film de base sont conservées intégralement : pré-étirage 150 %, épaisseur 23 µm, largeur 500 mm.",
+    "features": [
+      "Impression flexographique 1 à 3 couleurs sur film 23 µm",
+      "Largeur 500 mm, longueur 300 m par bobine",
+      "Commande minimum : 50 bobines",
+      "Délai de fabrication : 3 semaines après validation BAT",
+      "Fichiers acceptés : AI, PDF, EPS vectoriel",
+      "Disponible en version manuelle et machine",
+      "Visibilité de votre marque sur toute la palette banderolée",
+      "Communication réglementaire intégrée (avertissements, instructions de manutention)",
+      "Identification rapide des palettes en entrepôt ou sur quai",
+      "Outil anti-contrefaçon pour les produits de marque",
+      "Aucun surcoût d'étiquetage supplémentaire"
+    ],
+    "image": "images/film-impreso.png"
+  },
+  {
+    "slug": "film-etirable-machine-17my",
+    "name": "Film étirable machine 17 µm",
+    "reference": "FI00FM0040",
+    "category": "Film et palettisation",
+    "kind": "material",
+    "description": "Le film étirable machine 17 µm Vianex est conçu pour les banderoleuses automatiques et semi-automatiques à haute cadence. Avec un pré-étirage pouvant atteindre 300 %, ce film de grande longueur (1 500 m par bobine) permet de réduire drastiquement la consommation de film tout en maintenant une contention optimale des palettes. Sa formulation LLDPE de haute qualité assure une excellente régularité de pré-étirage et une faible tolérance aux ruptures, essentielle pour les lignes de production automatisées.",
+    "features": [
+      "Épaisseur 17 µm optimisée pour le pré-étirage machine",
+      "Largeur 500 mm, longueur 1 500 m — grande autonomie",
+      "Pré-étirage jusqu'à 300 % pour une économie de film maximale",
+      "Bobine d'environ 17 kg sur mandrin 76 mm",
+      "Compatible avec toutes les banderoleuses à bras tournant et plateau tournant",
+      "Très faible taux de casse — adapté aux cadences élevées",
+      "Économie de film jusqu'à 70 % par rapport à un film manuel 23 µm",
+      "Réduction des arrêts machine grâce aux grandes bobines 1 500 m",
+      "Régularité d'étirage garantissant une contention homogène",
+      "Coût d'emballage par palette nettement inférieur",
+      "Compatible avec les principales marques de banderoleuses du marché"
+    ],
+    "image": "img/Film et palettisation/film-etirable-preetire-42cm-367x367.jpeg"
+  },
+  {
+    "slug": "film-etirable-machine-power-stretch",
+    "name": "Film machine Power Stretch",
+    "reference": "FI00FM0050",
+    "category": "Film et palettisation",
+    "kind": "material",
+    "description": "Le film machine Power Stretch Vianex représente le haut de gamme des films étirables pour banderoleuses automatiques. Sa formulation LLDPE ultra-renforcée lui confère une résistance à la déchirure et à la perforation exceptionnelle, tout en maintenant un pré-étirage élevé jusqu'à 300 %. Conçu pour les charges très lourdes (plus de 1 000 kg) et les produits avec angles saillants, ce film garantit une contention maximale même dans les conditions de transport les plus exigeantes.",
+    "features": [
+      "Formulation LLDPE ultra-renforcée — résistance à la déchirure maximale",
+      "Largeur 500 mm, longueur 1 000 m par bobine",
+      "Pré-étirage jusqu'à 300 % pour une contention renforcée",
+      "Bobine de 17 kg sur mandrin 76 mm",
+      "Compatible avec toutes les banderoleuses automatiques",
+      "Résistance aux perforations par arêtes vives",
+      "Contention supérieure pour les palettes de charges très lourdes",
+      "Zéro rupture film sur ligne automatique — pas d'arrêt de production",
+      "Idéal pour les produits avec angles saillants : profilés, tubes, palettes bois",
+      "Protection renforcée contre les chocs et vibrations lors du transport",
+      "Économie globale grâce à la réduction du nombre de tours de film"
+    ],
+    "image": "img/Film et palettisation/film-etirable-bobine-film-carton-367x367.jpeg"
+  },
+  {
+    "slug": "film-etirable-noir-23my",
+    "name": "Film étirable noir opaque 23 µm",
+    "reference": "FI00FM0030",
+    "category": "Film et palettisation",
+    "kind": "material",
+    "description": "Le film étirable noir opaque 23 µm Vianex offre une opacité totale pour la protection et la confidentialité de vos marchandises palettisées. Fabriqué en LLDPE avec pigmentation noire intégrale, ce film assure une occultation complète du contenu, idéale pour les produits sensibles ou de haute valeur dont l'identité ne doit pas être visible lors du transport et du stockage. Ses propriétés mécaniques sont équivalentes à celles du film standard transparent.",
+    "features": [
+      "Opacité totale — contenu invisible de l'extérieur",
+      "Épaisseur 23 µm, largeur 500 mm, longueur 300 m",
+      "Pré-étirage 150 %, compatible avec les applicateurs manuels 500 mm",
+      "Pigmentation noire intégrale dans la masse du film",
+      "Résistance mécanique équivalente au film standard transparent",
+      "Bobine d'environ 2,3 kg",
+      "Confidentialité totale du contenu des palettes",
+      "Protection contre la lumière et les rayons UV pour produits photosensibles",
+      "Dissuasion visuelle contre la dépose clandestine de colis",
+      "Identification rapide des palettes sécurisées dans un entrepôt",
+      "Même facilité d'utilisation que le film standard"
+    ],
+    "image": "img/Film et palettisation/bobines-film-etirable-noir-manuel-367x367.jpeg"
+  },
+  {
+    "slug": "film-etirable-pre-etire-8my",
+    "name": "Film étirable pré-étiré 8µ",
+    "reference": "FP00PE0001",
+    "category": "Film et palettisation",
+    "kind": "material",
+    "description": "Film étirable pré-étiré 8µ haute performance, étiré en usine pour une résistance optimale avec moins de matière. Idéal palettisation automatique.",
+    "features": [
+      "Pré-étiré en usine — 8µ seulement",
+      "Résistance équivalente à un 23µ classique",
+      "Économie de matière -60%",
+      "Idéal banderoleuses automatiques",
+      "Palettisation automatique haute cadence",
+      "Logistique et transport",
+      "Réduction des coûts emballage"
+    ],
+    "image": "images/film-etirable-automatique-categories.jpeg"
+  },
+  {
+    "slug": "film-etirable-renforce-30my",
+    "name": "Film étirable renforcé 30 µm",
+    "reference": "FI00FM0020",
+    "category": "Film et palettisation",
+    "kind": "material",
+    "description": "Le film étirable renforcé 30 µm Vianex est la solution haute performance pour la palettisation manuelle de charges lourdes, volumineuses ou à arêtes vives. Sa formulation LLDPE renforcée lui confère une résistance à la déchirure et à la perforation nettement supérieure au film standard 23 µm. Avec un pré-étirage de 200 %, ce film garantit une contention maximale de vos palettes tout en réduisant la consommation globale de film grâce à son excellent taux d'allongement.",
+    "features": [
+      "Épaisseur 30 µm pour charges lourdes et irrégulières",
+      "Largeur 500 mm, longueur 300 m par bobine",
+      "Pré-étirage 200 % pour une contention optimale",
+      "Film LLDPE haute résistance, transparent",
+      "Bobine d'environ 3,2 kg, compatible avec les applicateurs manuels 500 mm",
+      "Résistance supérieure aux perforations et arêtes vives",
+      "Contention renforcée pour palettes lourdes (jusqu'à 1 000 kg)",
+      "Résistance élevée aux déchirures et aux chocs durant le transport",
+      "Moins de tours de film nécessaires grâce au pré-étirage 200 %",
+      "Excellente adhérence film sur film sans colle",
+      "Compatible avec tous les applicateurs manuels 500 mm"
+    ],
+    "image": "img/Film et palettisation/bobine-film-etirable-blanc-manuel-5-367x367.jpeg"
+  },
+  {
+    "slug": "film-etirable-standard-23my",
+    "name": "Film étirable standard 23 µm",
+    "reference": "FI00FM0010",
+    "category": "Film et palettisation",
+    "kind": "material",
+    "description": "Le film étirable standard 23 µm Vianex est la solution de référence pour la palettisation manuelle dans les entrepôts et centres de distribution. Fabriqué en polyéthylène basse densité linéaire (LLDPE) de haute qualité, ce film transparent de 500 mm de large offre un pré-étirage de 150 %, garantissant une stabilisation efficace des palettes tout en maîtrisant la consommation de film. La transparence totale du film permet le contrôle visuel de la marchandise sans débanderolage.",
+    "features": [
+      "Épaisseur 23 µm pour un usage polyvalent",
+      "Largeur 500 mm, longueur 300 m par bobine",
+      "Pré-étirage 150 % pour une utilisation économique",
+      "Film LLDPE haute qualité, transparent",
+      "Bobine d'environ 2,3 kg, maniable à la main",
+      "Compatible avec les applicateurs manuels 500 mm",
+      "Excellent rapport solidité/coût pour usage quotidien",
+      "Bonne adhérence film sur film sans colle",
+      "Transparence totale pour contrôle visuel des palettes",
+      "Résistance suffisante pour charges légères à moyennes",
+      "Stockage facile, bobines légères et compactes"
+    ],
+    "image": "img/Film et palettisation/bobine-film-etirable-blanc-manuel-4-367x367.jpeg"
+  },
+  {
+    "slug": "film-etirable-uv-protection",
+    "name": "Film étirable anti-UV",
+    "reference": "FI00FM0080",
+    "category": "Film et palettisation",
+    "kind": "material",
+    "description": "Le film étirable anti-UV Vianex est formulé avec des additifs stabilisateurs aux UV intégrés dans la masse du film, lui conférant une résistance à la dégradation solaire supérieure à 12 mois en exposition directe. Contrairement à un film standard qui jaunit et se fragilise rapidement à l'extérieur, ce film conserve ses propriétés mécaniques et son intégrité visuelle pour des durées de stockage prolongées en plein air. Ses caractéristiques d'utilisation sont identiques au film standard 23 µm.",
+    "features": [
+      "Additifs anti-UV intégrés dans la masse du film",
+      "Protection solaire garantie 12 mois en exposition directe",
+      "Épaisseur 23 µm, largeur 500 mm, longueur 300 m",
+      "Pré-étirage 150 %, compatible applicateurs manuels 500 mm",
+      "Transparence maintenue après exposition prolongée",
+      "Résistance aux variations de température (-20°C à +60°C)",
+      "Maintien de la contention des palettes stockées en extérieur jusqu'à 12 mois",
+      "Pas de fragilisation ni de rupture prématurée du film sous l'effet du soleil",
+      "Protection des marchandises sensibles à la lumière",
+      "Réduction des reprises de banderolage pour les palettes longue durée",
+      "Même manipulation qu'un film standard — aucune formation spécifique"
+    ],
+    "image": "img/Film et palettisation/bobines-film-etirable-bleu-367x367.jpeg"
+  },
+  {
+    "slug": "film-mousse-polyethylene",
+    "name": "Film mousse polyéthylène",
+    "reference": "CA00FM0001",
+    "category": "Calage et protection",
+    "kind": "material",
+    "description": "Film mousse PE expansé pour protection de surfaces sensibles, objets polis et pièces techniques. Doux, non abrasif, antistatique possible.",
+    "features": [
+      "Mousse PE expansé non abrasif",
+      "Protection surfaces sensibles",
+      "Antistatique sur demande",
+      "Découpable à la forme",
+      "Pièces optiques et électroniques",
+      "Meubles et mobilier",
+      "Automobiles et aéronautique"
+    ],
+    "image": "images/mousse-expanse-cartons.jpeg"
+  },
+  {
+    "slug": "film-retractable-pof-polyolefine",
+    "name": "Film POF polyoléfine alimentaire",
+    "reference": "FR00PO0001",
+    "category": "Films rétractables",
+    "kind": "material",
+    "description": "Film POF polyoléfine bi-orienté, contact alimentaire direct autorisé. Excellente transparence, rétraction uniforme, sans odeur ni chlore.",
+    "features": [
+      "Contact alimentaire direct autorisé",
+      "Sans odeur, sans chlore",
+      "Excellente transparence",
+      "Rétraction uniforme toutes directions",
+      "Agroalimentaire et traiteur",
+      "Emballage produits frais",
+      "Alternative éco au PVC"
+    ],
+    "image": "images/bobine-film-retractable-pof-30-cm-2.jpeg"
+  },
+  {
+    "slug": "film-retractable-pre-decoupe",
+    "name": "Film PE rétractable prédécoupé",
+    "reference": "FR00PE0001",
+    "category": "Films rétractables",
+    "kind": "material",
+    "description": "Film PE rétractable prédécoupé en format standard. Rétrécit à chaud pour coiffer produits et palettes. Compatible thermofilmeuses semi-auto.",
+    "features": [
+      "Prédécoupé format standard",
+      "Rétraction uniforme à chaud",
+      "Transparent ou pigmenté",
+      "Compatible thermofilmeuses",
+      "Emballage produits unitaires",
+      "Coiffage de palettes",
+      "Présentation et protection"
+    ],
+    "image": "images/film-retractable-categorie.jpg"
+  },
+  {
+    "slug": "film-retractable-pvc-300mm",
+    "name": "Film PVC rétractable 300mm",
+    "reference": "FR00PV0001",
+    "category": "Films rétractables",
+    "kind": "material",
+    "description": "Film PVC rétractable 300mm pour thermofilmeuses manuelles. Rétraction bi-orientée, transparent, haute brillance, aspect premium.",
+    "features": [
+      "PVC bi-orienté haute brillance",
+      "Rétraction symétrique",
+      "Transparent et brillant",
+      "Compatible thermofilmeuses manuelles",
+      "Emballage cadeau et retail",
+      "Protection produits unitaires",
+      "Présentation soignée"
+    ],
+    "image": "images/bobine-film-retractable-1.jpeg"
+  },
+  {
+    "slug": "film-vci-controlox-100m",
+    "name": "Film VCI Controlox 100m",
+    "reference": "VC00FV0001",
+    "category": "Films VCI anticorrosion",
+    "kind": "material",
+    "description": "Film VCI Controlox anticorrosion 100m pour protection pièces métalliques. Inhibe la corrosion en phase vapeur, transparent pour contrôle visuel.",
+    "features": [
+      "Technologie VCI Controlox phase vapeur",
+      "Protection 24 mois sans contact",
+      "Transparent — contrôle visuel",
+      "Largeur 100cm — bobine 100m",
+      "Pièces métalliques usinées",
+      "Composants et assemblages métal",
+      "Stockage et transport longue durée"
+    ],
+    "image": "images/film-etirable-VCI.jpeg"
+  },
+  {
+    "slug": "film-vci-controlox-200m",
+    "name": "Film VCI Controlox 200m",
+    "reference": "VC00FV0002",
+    "category": "Films VCI anticorrosion",
+    "kind": "material",
+    "description": "Film VCI Controlox anticorrosion 200m grande longueur pour protection en série de pièces métalliques. Protection 24 mois garantie.",
+    "features": [
+      "Grande longueur 200m économique",
+      "VCI Controlox phase vapeur",
+      "Protection 24 mois",
+      "Transparent — contrôle visuel",
+      "Production en série de pièces métal",
+      "Stockage grande quantité",
+      "Export et transit longue durée"
+    ],
+    "image": "images/film-etirable-VCI.jpeg"
+  },
+  {
+    "slug": "film-vci-noir-100m",
+    "name": "Film VCI noir opaque 100m",
+    "reference": "VC00FN0001",
+    "category": "Films VCI anticorrosion",
+    "kind": "material",
+    "description": "Film VCI noir opaque 100m pour protection anticorrosion et isolation lumineuse. Protège les pièces photosensibles et les composants électroniques.",
+    "features": [
+      "Noir opaque — protection lumière",
+      "VCI anticorrosion intégré",
+      "Protection pièces photosensibles",
+      "Largeur 100cm",
+      "Composants électroniques",
+      "Pièces photosensibles",
+      "Stockage sous faible luminosité"
+    ],
+    "image": "images/film-bulle-vci-anticorrosion.jpeg"
+  },
+  {
+    "slug": "gaine-retractable-pe-100mm",
+    "name": "Gaine PE rétractable 100mm",
+    "reference": "FR00GA0001",
+    "category": "Films rétractables",
+    "kind": "material",
+    "description": "Gaine tubulaire PE rétractable 100mm de diamètre, idéale pour protéger produits cylindriques, tubes et profilés.",
+    "features": [
+      "Format tubulaire 100mm de diamètre",
+      "Protection produits cylindriques",
+      "Rétraction uniforme",
+      "Transparent ou coloré",
+      "Tubes, profilés, barres",
+      "Produits cylindriques",
+      "Protection stockage et transport"
+    ],
+    "image": "images/film-retractable-semi-tube.jpeg"
+  },
+  {
+    "slug": "gaine-retractable-pe-200mm",
+    "name": "Gaine PE rétractable 200mm",
+    "reference": "FR00GA0002",
+    "category": "Films rétractables",
+    "kind": "material",
+    "description": "Gaine PE rétractable 200mm pour protection de grandes pièces, groupage de produits et stockage longue durée.",
+    "features": [
+      "Format tubulaire 200mm de diamètre",
+      "Groupage de multiples produits",
+      "Protection renforcée",
+      "Longueur au choix",
+      "Protection grandes pièces",
+      "Groupage multi-produits",
+      "Stockage et transport longue durée"
+    ],
+    "image": "images/quatre-bobine-retractable.jpg"
+  },
+  {
+    "slug": "gaine-vci-200mm",
+    "name": "Gaine VCI 200mm anticorrosion",
+    "reference": "VC00GV0001",
+    "category": "Films VCI anticorrosion",
+    "kind": "material",
+    "description": "Gaine tubulaire VCI 200mm pour protection anticorrosion de barres, tubes et profilés métalliques. Découpe à la longueur souhaitée.",
+    "features": [
+      "Gaine tubulaire 200mm de diamètre",
+      "VCI phase vapeur intégré",
+      "Découpe à la longueur voulue",
+      "Protection 18 mois",
+      "Barres et profilés métalliques",
+      "Tubes et canalisations",
+      "Stockage longue durée pièces longues"
+    ],
+    "image": "images/demitube-plasttique-vci-100cm-2.jpeg"
+  },
+  {
+    "slug": "graco-invisipac-hm25c",
+    "name": "Graco InvisiPac HM25C — Système hot melt 25cc",
+    "reference": "GRACO-HM25C",
+    "category": "Systèmes Hot Melt",
+    "kind": "machine",
+    "description": "Système d'application de colle thermofusible Graco InvisiPac HM25C, 25cc par cycle. Technologie fondoir à grilles pour fusion rapide et sans carbonisation.",
+    "features": [
+      "Fondoir à grilles — fusion rapide et propre",
+      "Pas de carbonisation de la colle",
+      "Débit 25cc par cycle",
+      "Intégration facile en ligne existante",
+      "Collage de cartons et emballages",
+      "Fermeture de boîtes en fin de ligne",
+      "Industries agroalimentaires et pharmaceutiques"
+    ],
+    "image": "images/Sistema_aplicador_cola_cajas-1.jpg"
+  },
+  {
+    "slug": "graco-invisipac-hm50c",
+    "name": "Graco InvisiPac HM50C — Système hot melt 50cc",
+    "reference": "GRACO-HM50C",
+    "category": "Systèmes Hot Melt",
+    "kind": "machine",
+    "description": "Système Graco InvisiPac HM50C, débit doublé 50cc, pour lignes à cadence plus élevée. Même technologie fondoir propre sans carbonisation, compatible EVA et polyoléfines.",
+    "features": [
+      "Débit 50cc — cadence élevée",
+      "Fondoir à grilles sans carbonisation",
+      "Montée en température rapide",
+      "Diagnostic intégré et alarmes",
+      "Lignes haute cadence",
+      "Fermeture de cartons grande série",
+      "Secteur pharmaceutique et FMCG"
+    ],
+    "image": "images/systeme-application-colle-graco-hot-melt-thermofusible.jpeg"
+  },
+  {
+    "slug": "hsm-compacteur-c200",
+    "name": "HSM Compacteur C200 — Compacteur de déchets",
+    "reference": "HSMCOMPACTEURC200",
+    "category": "Presses à balles",
+    "kind": "machine",
+    "description": "HSM Compacteur C200 — Compacteur de déchets. Compacteur déchets mélangés, ratio 5:1, conteneur 1100L, vidage automatique.",
+    "features": [
+      "Compacteur déchets mélangés",
+      "Ratio 5:1",
+      "Conteneur 1100L",
+      "Vidage automatique."
+    ],
+    "image": "img/Presses à balles/presse-compacteur-v-press-503-1.jpeg"
+  },
+  {
+    "slug": "hsm-compacteur-c500",
+    "name": "HSM Compacteur C500 — Compacteur industriel haute capacité",
+    "reference": "HSMCOMPACTEURC500",
+    "category": "Presses à balles",
+    "kind": "machine",
+    "description": "HSM Compacteur C500 — Compacteur industriel haute capacité. 500L/h, ratio 8:1, pour grande distribution et industrie, report de données IoT.",
+    "features": [
+      "500L/h",
+      "Ratio 8:1",
+      "Pour grande distribution et industrie",
+      "Report de données IoT."
+    ],
+    "image": "img/Presses à balles/presse-compacteur-v-press-818-plus-1-367x367.jpeg"
+  },
+  {
+    "slug": "hsm-h-press-200",
+    "name": "HSM H-Press 200 — Presse horizontale automatique",
+    "reference": "HSMH-PRESS200",
+    "category": "Presses à balles",
+    "kind": "machine",
+    "description": "HSM H-Press 200 — Presse horizontale automatique. Alimentation automatique, 200 kg/h, balles de 300kg, idéale industrie continue.",
+    "features": [
+      "Alimentation automatique",
+      "200 kg/h",
+      "Balles de 300kg",
+      "Idéale industrie continue."
+    ],
+    "image": "img/Presses à balles/v-press-60-hsm.jpeg"
+  },
+  {
+    "slug": "hsm-profipack-c400",
+    "name": "HSM ProfiPack C400 — Broyeur carton",
+    "reference": "HSM-C400",
+    "category": "Broyeurs de cartons",
+    "kind": "machine",
+    "description": "Broyeur de carton HSM ProfiPack C400, transforme les cartons usagés en matériau de calage. Débit 400 kg/h, coupes régulières pour rembourrage homogène.",
+    "features": [
+      "Débit 400 kg/h de carton broyé",
+      "Coupes régulières pour calage homogène",
+      "Réduction volume cartons -80%",
+      "Alimentation simple table ou tapis",
+      "Centres logistiques e-commerce",
+      "Entrepôts grande distribution",
+      "Remplacement calage plastique par carton recyclé"
+    ],
+    "image": "images/broyeur-cartons-industries-profipack.jpg"
+  },
+  {
+    "slug": "hsm-profipack-p425",
+    "name": "HSM ProfiPack P425 — Broyeur professionnel",
+    "reference": "HSM-P425",
+    "category": "Broyeurs de cartons",
+    "kind": "machine",
+    "description": "Broyeur professionnel HSM ProfiPack P425, haute capacité 800 kg/h avec tapis d'alimentation. Idéal grandes surfaces, centres de distribution et usines.",
+    "features": [
+      "Haute capacité 800 kg/h",
+      "Tapis d'alimentation intégré",
+      "Coupe fine pour calage premium",
+      "Interface tactile intuitive",
+      "Grandes surfaces et hypermarchés",
+      "Centres de distribution industriels",
+      "E-commerce grande échelle"
+    ],
+    "image": "images/broyeur-carton-industriel-profipack425-2.jpeg"
+  },
+  {
+    "slug": "hsm-v-press-1160",
+    "name": "HSM V-Press 1160 — Presse à balles verticale industrielle",
+    "reference": "HSMV-PRESS1160",
+    "category": "Presses à balles",
+    "kind": "machine",
+    "description": "HSM V-Press 1160 — Presse à balles verticale industrielle. 1160 kg force, balles 150kg carton, 70kg plastique, compacteur idéal grande surf",
+    "features": [
+      "1160 kg force",
+      "Balles 150kg carton",
+      "70kg plastique",
+      "Compacteur idéal grande surf"
+    ],
+    "image": "img/Presses à balles/presse-compacteur-v-press-1160-eco-367x367.jpeg"
+  },
+  {
+    "slug": "hsm-v-press-504",
+    "name": "HSM V-Press 504 — Presse à balles verticale compacte",
+    "reference": "HSMV-PRESS504",
+    "category": "Presses à balles",
+    "kind": "machine",
+    "description": "HSM V-Press 504 — Presse à balles verticale compacte. 500kg force de compression, balles 65kg, carton/plastique, 230V, pour PME.",
+    "features": [
+      "500kg force de compression",
+      "Balles 65kg",
+      "Carton/plastique",
+      "230V",
+      "Pour PME."
+    ],
+    "image": "img/Presses à balles/v-press-504.jpeg"
+  },
+  {
+    "slug": "manchon-retractable-pe",
+    "name": "Manchon PE rétractable",
+    "reference": "FR00MA0001",
+    "category": "Films rétractables",
+    "kind": "material",
+    "description": "Manchon PE rétractable découpé à longueur pour coiffer produits de forme régulière. Application manuelle ou en tunnel de rétraction.",
+    "features": [
+      "Longueur découpée à la demande",
+      "Coiffe tout type de produit régulier",
+      "Application manuelle ou automatique",
+      "Transparent ou imprimable",
+      "Emballage unitaire de précision",
+      "Bouteilles, boîtes, conserves",
+      "Présentation et protection"
+    ],
+    "image": "images/quatre-bobine-retractable.jpg"
+  },
+  {
+    "slug": "marsh-td2100",
+    "name": "Marsh TD2100 — Humecteur manuel entrée de gamme",
+    "reference": "MARSHTD2100",
+    "category": "Humecteurs de papier gommé",
+    "kind": "machine",
+    "description": "Marsh TD2100 — Humecteur manuel entrée de gamme. Manuel simple, coupe manuelle, idéal pour faible volume, compatible papier kraft",
+    "features": [
+      "Manuel simple",
+      "Coupe manuelle",
+      "Idéal pour faible volume",
+      "Compatible papier kraft"
+    ],
+    "image": "images/humecteur-papier-gommé-manuel.jpg"
+  },
+  {
+    "slug": "marsh-td2200",
+    "name": "Marsh TD2200 — Humecteur semi-automatique",
+    "reference": "MARSHTD2200",
+    "category": "Humecteurs de papier gommé",
+    "kind": "machine",
+    "description": "Marsh TD2200 — Humecteur semi-automatique. Coupe automatique, longueur réglable, 20 bandes/min, économique.",
+    "features": [
+      "Coupe automatique",
+      "Longueur réglable",
+      "20 bandes/min",
+      "Économique."
+    ],
+    "image": "images/humecteur-papier-gomme-semi-auto-avec-papier.jpg"
+  },
+  {
+    "slug": "mousse-polyethylene-2mm",
+    "name": "Mousse PE 2mm feuille",
+    "reference": "CA00MP0001",
+    "category": "Calage et protection",
+    "kind": "material",
+    "description": "Feuille de mousse PE 2mm pour interfoliage entre produits et couches de stockage. Légère, réutilisable, découpe facile.",
+    "features": [
+      "Épaisseur fine 2mm légère",
+      "Interfoliage entre produits",
+      "Découpe facile ciseaux ou cutter",
+      "Réutilisable",
+      "Interfoliage produits stockés",
+      "Protection vitres et miroirs",
+      "Séparation couches palettes"
+    ],
+    "image": "images/mousse-expanse-cartons.jpeg"
+  },
+  {
+    "slug": "papier-bulle-50cm",
+    "name": "Film à bulles 50cm",
+    "reference": "CA00PB0001",
+    "category": "Calage et protection",
+    "kind": "material",
+    "description": "Film à bulles 50cm en rouleau, bulles Ø25mm pour protection d'objets fragiles. Léger et souple, usage manuel ou distributeur.",
+    "features": [
+      "Bulles Ø25mm protection efficace",
+      "Film 50cm de large en rouleau",
+      "Léger et souple",
+      "2 épaisseurs : simple et double",
+      "Protection d'objets fragiles",
+      "Rembourrage colis",
+      "Vitres, céramiques, électronique"
+    ],
+    "image": "images/enveloppe-matelassee-bulles-17x22-1.jpeg"
+  },
+  {
+    "slug": "papier-kraft-calage-70g",
+    "name": "Papier kraft calage 70g",
+    "reference": "CA00PK0001",
+    "category": "Calage et protection",
+    "kind": "material",
+    "description": "Papier kraft 70g pour calage manuel ou machine. Recyclable, biodégradable, alternative éco aux plastiques de calage.",
+    "features": [
+      "Kraft 70g certifié recyclable",
+      "Froissage manuel ou machine",
+      "Excellent amortissement des chocs",
+      "Alternative éco aux plastiques",
+      "E-commerce éco-responsable",
+      "Calage léger à moyen",
+      "Rembourrage recyclable"
+    ],
+    "image": "images/machines-coussins-papier-kraft-8001.png"
+  },
+  {
+    "slug": "papier-kraft-vci-90g",
+    "name": "Papier kraft VCI anticorrosion 90g",
+    "reference": "VC00PK0001",
+    "category": "Films VCI anticorrosion",
+    "kind": "material",
+    "description": "Papier kraft VCI 90g imprégné d'inhibiteurs de corrosion Controlox. Recyclable, intercalaire entre pièces métalliques ou emballage de pièces isolées.",
+    "features": [
+      "Kraft 90g imprégné VCI Controlox",
+      "Recyclable et biodégradable",
+      "Intercalaire ou emballage complet",
+      "Protection 12 mois",
+      "Intercalaire entre pièces métal stockées",
+      "Emballage de pièces isolées",
+      "Alternative éco aux films plastiques VCI"
+    ],
+    "image": "images/papier-kraft-anticorrosion-VCI-controlox.jpeg"
+  },
+  {
+    "slug": "pince-cerclage-manuelle",
+    "name": "Pince de cerclage manuelle PP",
+    "reference": "FE00PC0001",
+    "category": "Feuillard et accessoires",
+    "kind": "material",
+    "description": "Pince de cerclage manuelle pour feuillard PP 12-16mm. Tension et sertissage en une seule opération, poignée ergonomique anti-fatigue.",
+    "features": [
+      "Tension et sertissage intégrés",
+      "Poignée ergonomique anti-fatigue",
+      "Acier traité durci",
+      "Compatible feuillard PP 12-16mm",
+      "Cerclage manuel de fardeaux",
+      "Sans source d'énergie",
+      "Entrepôt et expédition"
+    ],
+    "image": "images/chariot-devidoir-feuillard.jpeg"
+  },
+  {
+    "slug": "plateau-tournant-manuel",
+    "name": "Plateau tournant manuel",
+    "reference": "FI00AC0020",
+    "category": "Film et palettisation",
+    "kind": "material",
+    "description": "Le plateau tournant manuel Vianex est l'accessoire indispensable pour améliorer l'ergonomie et la vitesse du banderolage manuel de palettes. Avec un diamètre de 600 mm et une capacité de charge de 500 kg, ce plateau à roulements à billes en acier galvanisé permet de faire pivoter facilement la palette pendant que l'opérateur reste en position fixe avec son applicateur de film. Le résultat : un banderolage plus rapide, plus régulier et moins fatigant.",
+    "features": [
+      "Diamètre plateau : 600 mm",
+      "Charge maximale : 500 kg",
+      "Hauteur : 150 mm (plateforme basse)",
+      "Roulements à billes haute résistance pour rotation fluide",
+      "Structure acier galvanisé anti-corrosion",
+      "Surface antidérapante pour maintien de la palette",
+      "Réduit le temps de banderolage manuel de 30 à 40 %",
+      "Améliore la qualité et la régularité du banderolage",
+      "Élimine les déplacements autour de la palette — moins de fatigue",
+      "Rotation fluide et silencieuse grâce aux roulements à billes",
+      "Robustesse longue durée — structure acier galvanisé"
+    ],
+    "image": "img/Film et palettisation/bobine-transparente-applicateur-367x367.jpeg"
+  },
+  {
+    "slug": "pochette-matelassee-b5",
+    "name": "Pochette matelassée B5",
+    "reference": "ET00PM0001",
+    "category": "Etiquettes / porte-documents",
+    "kind": "material",
+    "description": "Pochette matelassée B5 (170x245mm) doublée bulles d'air. Protection envois fragiles par courrier. Fermeture auto-adhésive, kraft brun extérieur.",
+    "features": [
+      "Format B5 — 170x245mm",
+      "Doublée bulles d'air protectrices",
+      "Fermeture auto-adhésive",
+      "Kraft brun extérieur résistant",
+      "Envois fragiles par courrier",
+      "Documents, photos, livres",
+      "E-commerce objets délicats"
+    ],
+    "image": "images/enveloppe-matelassee-bulles-17x22-1.jpeg"
+  },
+  {
+    "slug": "porte-documents-adhesif-c4",
+    "name": "Pochette porte-documents C4 adhésive",
+    "reference": "ET00PD0001",
+    "category": "Etiquettes / porte-documents",
+    "kind": "material",
+    "description": "Pochette porte-documents C4 auto-adhésive à coller sur colis. Protège bon de livraison et facture de l'humidité. Transparente, peel and seal.",
+    "features": [
+      "Format C4 — 240x320mm",
+      "Auto-adhésive sur carton",
+      "Transparente — lecture sans ouvrir",
+      "Fermeture peel and seal",
+      "Bon de livraison sur colis",
+      "Documents de transport",
+      "Logistique e-commerce"
+    ],
+    "image": "images/enveloppe-blanche-porte-documents.jpeg"
+  },
+  {
+    "slug": "porte-documents-adhesif-c5",
+    "name": "Pochette porte-documents C5 adhésive",
+    "reference": "ET00PD0002",
+    "category": "Etiquettes / porte-documents",
+    "kind": "material",
+    "description": "Pochette porte-documents C5 auto-adhésive format A5 pour bons de livraison sur colis moyens. Transparente et étanche à l'eau.",
+    "features": [
+      "Format C5 — 165x230mm (A5)",
+      "Auto-adhésive sur carton et PE",
+      "Transparente et étanche",
+      "Fermeture peel and seal",
+      "Bon de livraison colis e-commerce",
+      "Documents A5 de transport",
+      "Etiquetage entrepôt"
+    ],
+    "image": "images/enveloppe-blanche-porte-documents.jpeg"
+  },
+  {
+    "slug": "rolls-plateau-roulant",
+    "name": "Rolls plateau roulant 400kg",
+    "reference": "MA00RO0001",
+    "category": "Manutention et logistique",
+    "kind": "material",
+    "description": "Rolls plateau roulant 400kg, plateau bois ou acier sur 4 roulettes pivotantes. Déplacement doux de charges sans effort, idéal atelier et entrepôt.",
+    "features": [
+      "Capacité 400 kg",
+      "Plateau bois ou acier au choix",
+      "4 roulettes pivotantes silencieuses",
+      "Plateau bas pour chargement facile",
+      "Déplacement doux de charges fragiles",
+      "Atelier et production",
+      "Logistique courte distance"
+    ],
+    "image": "images/table-preparation-commande-spk-2.jpeg"
+  },
+  {
+    "slug": "ruban-double-face-50mm",
+    "name": "Ruban double face 50mm",
+    "reference": "RU00DF0001",
+    "category": "Rubans adhésifs",
+    "kind": "material",
+    "description": "Ruban double face tissu, adhésif acrylique deux faces. Fixation invisible, haute résistance au pelage. Montage display, calage, assemblage.",
+    "features": [
+      "Double adhésif — fixation invisible",
+      "Haute résistance au pelage",
+      "Support tissu non tissé",
+      "Découpe facile main ou cutter",
+      "Montage PLV et signalétique",
+      "Fixation moquette et mousses",
+      "Assemblage cartons secondaires"
+    ],
+    "image": "images/ruban-adhesif-double-face-categories.jpeg"
+  },
+  {
+    "slug": "ruban-kraft-gomme-70mm",
+    "name": "Ruban kraft gommé 70mm",
+    "reference": "RU00KG0001",
+    "category": "Rubans adhésifs",
+    "kind": "material",
+    "description": "Ruban kraft papier gommé activé à l'eau, 70mm de large. Haute résistance traction, excellente adhérence carton ondulé, recyclable.",
+    "features": [
+      "Papier kraft naturel recyclable",
+      "Adhésif activé à l'eau",
+      "Très haute résistance traction",
+      "Compatible recyclage carton",
+      "Expéditions export",
+      "E-commerce éco-responsable",
+      "Joints et renforts cartons"
+    ],
+    "image": "images/ruban-papier-krepp-peintre-masquage.jpeg"
+  },
+  {
+    "slug": "ruban-kraft-papier-personnalise",
+    "name": "Ruban kraft papier personnalisé",
+    "reference": "RU00KP0001",
+    "category": "Rubans adhésifs",
+    "kind": "material",
+    "description": "Ruban kraft personnalisé avec votre logo en 1 à 3 couleurs. Min. 50 rouleaux, délai 3 semaines. Renforce l'image de marque à chaque expédition.",
+    "features": [
+      "Impression 1 à 3 couleurs",
+      "Minimum 50 rouleaux",
+      "Délai 3 semaines",
+      "Adhésif acrylique haute perf.",
+      "BAT inclus avant impression",
+      "E-commerce et retail",
+      "Branding à l'expédition",
+      "Kraft brun ou blanc"
+    ],
+    "image": "images/montage-rubans-adhesifs-imprimes-personnalise-categorie.jpeg"
+  },
+  {
+    "slug": "ruban-large-75mm",
+    "name": "Ruban adhésif large 75mm",
+    "reference": "RU00LA0001",
+    "category": "Rubans adhésifs",
+    "kind": "material",
+    "description": "Ruban PP acrylique 75mm pour renfort grosses boîtes et palettes. Moins de poses, résistance accrue, compatible distributeur 75mm.",
+    "features": [
+      "Largeur 75mm pour grandes surfaces",
+      "Adhésif acrylique fiable",
+      "Moins de poses nécessaires",
+      "Résistance traction élevée",
+      "Emballage industriel",
+      "Fixation calages et protections",
+      "Renfort joints boîtes lourdes"
+    ],
+    "image": "images/applicateur-ruban-adhesif-categories.jpeg"
+  },
+  {
+    "slug": "ruban-pp-acrylique-48mm-beige",
+    "name": "Ruban PP acrylique 48mm beige",
+    "reference": "RU00PP0002",
+    "category": "Rubans adhésifs",
+    "kind": "material",
+    "description": "Ruban PP acrylique coloris beige pour identification rapide des colis. Mêmes performances que le transparent, avec résistance UV améliorée.",
+    "features": [
+      "Coloris beige identification colis",
+      "Adhésif acrylique haute perf.",
+      "Résistance UV améliorée",
+      "Compatible distributeur standard",
+      "Logistique et entrepôt",
+      "Fermeture cartons courants",
+      "Conforme normes EU"
+    ],
+    "image": "images/ruban-adhesif-pvc-categorie.jpeg"
+  },
+  {
+    "slug": "ruban-pp-acrylique-48mm-transparent",
+    "name": "Ruban PP acrylique 48mm transparent",
+    "reference": "RU00PP0001",
+    "category": "Rubans adhésifs",
+    "kind": "material",
+    "description": "Ruban adhésif PP bi-orienté enduction acrylique aqueux. Transparent, résistance 35 N/25mm, déroulage silencieux. Usage universel fermeture cartons.",
+    "features": [
+      "Adhésif acrylique prise rapide",
+      "Transparent, déroulage silencieux",
+      "Compatible distributeur standard",
+      "Résistance 35 N/25mm",
+      "Logistique et e-commerce",
+      "Stockage 12 mois",
+      "Conforme normes EU"
+    ],
+    "image": "images/ruban-adhesif-acrylique-transp.jpeg"
+  },
+  {
+    "slug": "ruban-pp-hot-melt-48mm",
+    "name": "Ruban PP hot melt 48mm",
+    "reference": "RU00HM0001",
+    "category": "Rubans adhésifs",
+    "kind": "material",
+    "description": "Ruban PP enduction hot melt caoutchouc thermofusible. Prise ultra-rapide, très forte résistance au pelage, excellent comportement au froid.",
+    "features": [
+      "Prise ultra-rapide hot melt",
+      "Très forte résistance au pelage",
+      "Excellent comportement au froid",
+      "Déroulage régulier et précis",
+      "Cartons lourds et chargés",
+      "Entrepôts frigorifiques",
+      "Industrie et e-commerce"
+    ],
+    "image": "images/ruban-adhesif-renforce-2.jpeg"
+  },
+  {
+    "slug": "ruban-pp-solvant-48mm",
+    "name": "Ruban PP solvant 48mm",
+    "reference": "RU00SO0001",
+    "category": "Rubans adhésifs",
+    "kind": "material",
+    "description": "Ruban PP enduction solvant pour adhérence forte et immédiate sur surfaces froides ou grasses. Idéal entrepôts frigorifiques et agroalimentaire.",
+    "features": [
+      "Adhésif solvant prise immédiate",
+      "Tient sur surfaces froides à -5°C",
+      "Résistance humidité élevée",
+      "Déroulage souple et régulier",
+      "Entrepôts frigorifiques",
+      "Agroalimentaire",
+      "Fermeture cartons lourds"
+    ],
+    "image": "images/ruban-adhesif-variete.jpeg"
+  },
+  {
+    "slug": "ruban-pvc-premium-50mm",
+    "name": "Ruban PVC premium 50mm",
+    "reference": "RU00PV0001",
+    "category": "Rubans adhésifs",
+    "kind": "material",
+    "description": "Ruban PVC souple enduction acrylique haute performance. Résistance mécanique et étanchéité élevées, de -10°C à +60°C. Idéal expéditions exigeantes.",
+    "features": [
+      "PVC souple haute résistance",
+      "Étanche à l'air et humidité",
+      "Résiste -10°C à +60°C",
+      "Bon allongement avant rupture",
+      "Emballages export",
+      "Industries chimique et auto",
+      "Fermeture étanche"
+    ],
+    "image": "images/ruban-adhesif-pvc-categorie.jpeg"
+  },
+  {
+    "slug": "ruban-signalisation-50mm",
+    "name": "Ruban de signalisation 50mm",
+    "reference": "RU00SI0001",
+    "category": "Rubans adhésifs",
+    "kind": "material",
+    "description": "Ruban balisage bicolore haute visibilité pour zones de sécurité, marquage sol et identification colis spéciaux. Jaune/noir ou rouge/blanc.",
+    "features": [
+      "Bandes bicolores haute visibilité",
+      "Résistant à l'abrasion",
+      "Conforme sécurité entrepôt",
+      "Disponible jaune/noir et rouge/blanc",
+      "Balisage zones de danger",
+      "Marquage sol temporaire",
+      "Identification colis spéciaux"
+    ],
+    "image": "images/applicateur-rubans-adhesifs-renforce-2.jpeg"
+  },
+  {
+    "slug": "sac-kraft-sos",
+    "name": "Sac kraft papier SOS",
+    "reference": "SA00KR0001",
+    "category": "Sacs en plastique",
+    "kind": "material",
+    "description": "Sac kraft papier SOS à fond carré, autoportant. Double feuille kraft brun, recyclable et biodégradable. Idéal vrac alimentaire et épicerie.",
+    "features": [
+      "Fond carré autoportant",
+      "Double feuille kraft résistante",
+      "Recyclable et biodégradable",
+      "Plusieurs tailles disponibles",
+      "Vrac alimentaire et épicerie",
+      "Boulangerie et traiteur",
+      "Pharmacie et herboristerie"
+    ],
+    "image": "images/sac-ldpe-plastique-menu.jpeg"
+  },
+  {
+    "slug": "sac-pe-gaine-rouleau",
+    "name": "Sac PE gaine en rouleau",
+    "reference": "SA00GR0001",
+    "category": "Sacs en plastique",
+    "kind": "material",
+    "description": "Gaine PE en rouleau perforée pour confection de sacs à la demande. Economique, adapté conditionnement petites séries. Usage alimentaire possible.",
+    "features": [
+      "Gaine en rouleau — longueur au choix",
+      "Perforée tous les X cm",
+      "Economique, pas de suremballage",
+      "Contact alimentaire possible",
+      "Conditionnement produits irréguliers",
+      "Boulangerie, traiteur, primeur",
+      "Petites séries flexibles"
+    ],
+    "image": "images/sachet-plastique-categorie.jpeg"
+  },
+  {
+    "slug": "sac-pe-noir-opaque",
+    "name": "Sac PE noir opaque",
+    "reference": "SA00NO0001",
+    "category": "Sacs en plastique",
+    "kind": "material",
+    "description": "Sac PE noir opaque pour protection des produits sensibles à la lumière, confidentialité et usage industriel. Grande résistance mécanique.",
+    "features": [
+      "Noir opaque — protection lumière",
+      "Grande résistance mécanique",
+      "Confidentialité envois",
+      "Utilisable sous vide",
+      "Produits photosensibles",
+      "Envois confidentiels",
+      "Déchets industriels"
+    ],
+    "image": "images/sachet-plastique-categorie.jpeg"
+  },
+  {
+    "slug": "sac-pe-renforce-100my",
+    "name": "Sac PE renforcé 100µ",
+    "reference": "SA00RE0001",
+    "category": "Sacs en plastique",
+    "kind": "material",
+    "description": "Sac PE haute épaisseur 100µ pour charges lourdes et produits abrasifs. Résistance maximale à la déchirure et perforation.",
+    "features": [
+      "Épaisseur 100µ haute résistance",
+      "Résistance maximale déchirure",
+      "Produits abrasifs et lourds",
+      "Grande contenance",
+      "Industrie lourde et métallurgie",
+      "Granulés et poudres",
+      "Produits lourds et coupants"
+    ],
+    "image": "images/sachet-plastique-categorie.jpeg"
+  },
+  {
+    "slug": "sac-pe-transparent-50my",
+    "name": "Sac PE transparent 50µ",
+    "reference": "SA00TR0001",
+    "category": "Sacs en plastique",
+    "kind": "material",
+    "description": "Sac polyéthylène transparent 50µ, étanche et résistant. Conditionnement alimentaire ou industriel. Fermeture à soudure ou en liasse.",
+    "features": [
+      "PE transparent 50µ",
+      "Étanche et résistant à la déchirure",
+      "Conforme contact alimentaire",
+      "Disponible en plusieurs formats",
+      "Conditionnement alimentaire",
+      "Stockage pièces industrielles",
+      "Emballage produits secs"
+    ],
+    "image": "images/sachet-plastique-2.jpeg"
+  },
+  {
+    "slug": "sac-zipper-pe",
+    "name": "Sac zip PE refermable",
+    "reference": "SA00ZP0001",
+    "category": "Sacs en plastique",
+    "kind": "material",
+    "description": "Sac PE avec fermeture zip press-to-close, refermable et réutilisable. Etanche à l'air et l'humidité. Nombreux formats disponibles.",
+    "features": [
+      "Fermeture zip press-to-close",
+      "Refermable et réutilisable",
+      "Etanche à l'air et humidité",
+      "Nombreux formats disponibles",
+      "Stockage pièces détachées",
+      "Alimentation et pharmacie",
+      "Transport échantillons"
+    ],
+    "image": "images/sachet-plastique-2.jpeg"
+  },
+  {
+    "slug": "sachet-bulle-145x215",
+    "name": "Sachet à bulles 145x215mm",
+    "reference": "SA00SB0001",
+    "category": "Sacs en plastique",
+    "kind": "material",
+    "description": "Sachet matelassé 145x215mm couche de bulles d'air intérieure. Protection optimale objets fragiles par courrier ou colis. Fermeture auto-adhésive.",
+    "features": [
+      "Format 145x215mm pratique",
+      "Doublé bulles d'air intérieures",
+      "Fermeture auto-adhésive",
+      "Kraft brun ou blanc extérieur",
+      "Envois fragiles par courrier",
+      "E-commerce bijoux et accessoires",
+      "Cadeaux et objets délicats"
+    ],
+    "image": "images/enveloppe-matelassee-bulles-17x22-1.jpeg"
+  },
+  {
+    "slug": "sachet-zip-vci-200x300",
+    "name": "Sachet zip VCI 200x300mm",
+    "reference": "SA00ZV0001",
+    "category": "Sacs en plastique",
+    "kind": "material",
+    "description": "Sachet zip VCI 200x300mm pour protection anticorrosion de pièces métalliques. Film VCI diffuse inhibiteurs de corrosion en phase vapeur pendant 24 mois.",
+    "features": [
+      "Film VCI anticorrosion phase vapeur",
+      "Fermeture zip refermable",
+      "Protection 24 mois garantie",
+      "Transparent — contrôle visuel",
+      "Pièces métalliques usinées",
+      "Composants électroniques",
+      "Stockage et export longue durée"
+    ],
+    "image": "images/sachet-vci-zip-anticorrosion-150x250-1.jpeg"
+  },
+  {
+    "slug": "sachet-zip-vci-400x600",
+    "name": "Sachet zip VCI 400x600mm",
+    "reference": "SA00ZV0002",
+    "category": "Sacs en plastique",
+    "kind": "material",
+    "description": "Sachet zip VCI grand format 400x600mm pour pièces volumineuses. Protection anticorrosion longue durée, fermeture zip renforcée.",
+    "features": [
+      "Grand format 400x600mm",
+      "VCI protection 24 mois",
+      "Fermeture zip renforcée",
+      "Pièces volumineuses et assemblages",
+      "Grandes pièces usinées",
+      "Assemblages mécaniques",
+      "Export longue durée"
+    ],
+    "image": "images/sachet-vci-zip-anticorrosion-150x250-1.jpeg"
+  },
+  {
+    "slug": "spk-1600-cercleuse-de-table",
+    "name": "SPK 1600 — Cercleuse de table",
+    "reference": "SPK1600",
+    "category": "Cercleuses",
+    "kind": "machine",
+    "description": "Cercleuse de table SPK 1600 semi-automatique pour feuillard PP 9-16mm. Compact, idéale petites et moyennes séries. Tension et soudure automatiques.",
+    "features": [
+      "Semi-automatique feuillard PP 9-16mm",
+      "Compact et encombrement réduit",
+      "Tension et soudure automatiques",
+      "Cadence jusqu'à 35 cycles/min",
+      "PME et artisans",
+      "Cerclage petites et moyennes séries",
+      "Presse, imprimerie, industrie légère"
+    ],
+    "image": "images/cercleuse-automatique-spk-1600-lateral.jpeg"
+  },
+  {
+    "slug": "spk-1650",
+    "name": "SPK 1650 — Cercleuse de table semi-automatique",
+    "reference": "SPK1650",
+    "category": "Cercleuses de table",
+    "kind": "machine",
+    "description": "SPK 1650 — Cercleuse de table semi-automatique. Semi-automatique, tension automatique du feuillard, soudure par friction, PP 5-1",
+    "features": [
+      "Semi-automatique",
+      "Tension automatique du feuillard",
+      "Soudure par friction",
+      "PP 5-1"
+    ],
+    "image": "img/Cercleuses/cercleuse-spk-1602.jpeg"
+  },
+  {
+    "slug": "spk-1700-air",
+    "name": "SPK 1700 Air — Cercleuse de table pneumatique",
+    "reference": "SPK1700AIR",
+    "category": "Cercleuses de table",
+    "kind": "machine",
+    "description": "SPK 1700 Air — Cercleuse de table pneumatique. Pneumatique haute cadence, 30 cycles/min, PP/PET 5-19mm, table inox, idéale mili",
+    "features": [
+      "Pneumatique haute cadence",
+      "30 cycles/min",
+      "PP/PET 5-19mm",
+      "Table inox",
+      "Idéale mili"
+    ],
+    "image": "img/Cercleuses/cercleuse-Semi-automatique-Spk-1402-367x367.jpeg"
+  },
+  {
+    "slug": "spk-1800-pro",
+    "name": "SPK 1800 Pro — Cercleuse de table professionnelle renforcée",
+    "reference": "SPK1800PRO",
+    "category": "Cercleuses de table",
+    "kind": "machine",
+    "description": "SPK 1800 Pro — Cercleuse de table professionnelle renforcée. Renforcée acier inox, PP/PET 5-19mm, 35 cycles/min, pour usage intensif 8h/jour.",
+    "features": [
+      "Renforcée acier inox",
+      "PP/PET 5-19mm",
+      "35 cycles/min",
+      "Pour usage intensif 8h/jour."
+    ],
+    "image": "img/Cercleuses/cercleuse-automatique-spk-1600-1.png"
+  },
+  {
+    "slug": "spk-2200-cercleuse-semi-automatique",
+    "name": "SPK 2200 — Cercleuse semi-automatique",
+    "reference": "SPK2200",
+    "category": "Cercleuses",
+    "kind": "machine",
+    "description": "Cercleuse semi-automatique SPK 2200 pour cerclage palettes et fardeaux. Tête de cerclage pivotante 360°, feuillard PP 12-19mm, interface simple.",
+    "features": [
+      "Tête pivotante 360° pour palettes",
+      "Feuillard PP 12-19mm",
+      "Tension électronique réglable",
+      "Interface simple et intuitive",
+      "Cerclage palettes et fardeaux",
+      "Logistique et distribution",
+      "Industrie et production"
+    ],
+    "image": "images/machine-cercleuse-palette-tete-superieure.jpeg"
+  },
+  {
+    "slug": "spk-3600-cercleuse-automatique",
+    "name": "SPK 3600 — Cercleuse automatique",
+    "reference": "SPK3600",
+    "category": "Cercleuses",
+    "kind": "machine",
+    "description": "Cercleuse automatique SPK 3600 haute cadence pour cerclage en ligne ou en îlot. Tête de cerclage auto, guidage feuillard motorisé, PLC intégré.",
+    "features": [
+      "Cerclage 100% automatique",
+      "PLC et interface HMI tactile",
+      "Cadence haute — 40 cycles/min",
+      "Intégrable dans ligne de production",
+      "Production industrielle haute cadence",
+      "Intégration ligne automatisée",
+      "Grande distribution et logistique"
+    ],
+    "image": "images/machine-cercleuse-palette-tete-superieure.jpeg"
+  },
+  {
+    "slug": "spk-7005",
+    "name": "SPK 7005 — Machine de remplissage coussins d'air",
+    "reference": "SPK7005",
+    "category": "Remplissage et protection",
+    "kind": "machine",
+    "description": "SPK 7005 — Machine de remplissage coussins d'air. Production coussins air à la demande, 20m/min, formats 100x150 à 300x400mm, film",
+    "features": [
+      "Production coussins air à la demande",
+      "20m/min",
+      "Formats 100x150 à 300x400mm",
+      "Film"
+    ],
+    "image": "images/SPK-7005-remplissage-coussins-air_detalle.jpg"
+  },
+  {
+    "slug": "spk-7010-plus",
+    "name": "SPK 7010 Plus — Machine remplissage air grande capacité",
+    "reference": "SPK7010PLUS",
+    "category": "Remplissage et protection",
+    "kind": "machine",
+    "description": "SPK 7010 Plus — Machine remplissage air grande capacité. Double bobine, 40m/min, 4 formats de coussins programmables, IHM tactile, coupur",
+    "features": [
+      "Double bobine",
+      "40m/min",
+      "4 formats de coussins programmables",
+      "IHM tactile",
+      "Coupur"
+    ],
+    "image": "images/SPK-7005-remplissage-coussins-air_detalle.jpg"
+  },
+  {
+    "slug": "spk-a-3000",
+    "name": "SPK A-3000 — Cercleuse automatique en ligne",
+    "reference": "SPKA-3000",
+    "category": "Cercleuses automatiques",
+    "kind": "machine",
+    "description": "SPK A-3000 — Cercleuse automatique en ligne. Intégration ligne de production, 60 cycles/min, PP 5-15mm, détection automatique",
+    "features": [
+      "Intégration ligne de production",
+      "60 cycles/min",
+      "PP 5-15mm",
+      "Détection automatique"
+    ],
+    "image": "img/Cercleuses/cercleuse-automatique-de-palettes-spk-2903.jpeg"
+  },
+  {
+    "slug": "spk-a-5000",
+    "name": "SPK A-5000 — Cercleuse automatique haute cadence",
+    "reference": "SPKA-5000",
+    "category": "Cercleuses automatiques",
+    "kind": "machine",
+    "description": "SPK A-5000 — Cercleuse automatique haute cadence. 80 cycles/min, PP/PET 9-15mm, arch 1000x700mm, IHM tactile, gestion multi-progra",
+    "features": [
+      "80 cycles/min",
+      "PP/PET 9-15mm",
+      "Arch 1000x700mm",
+      "IHM tactile",
+      "Gestion multi-progra"
+    ],
+    "image": "img/Cercleuses/cercleuse-automatique-palettes-spk-2100.jpeg"
+  },
+  {
+    "slug": "spk-a-6000-pet",
+    "name": "SPK A-6000 PET — Cercleuse automatique PET industrielle",
+    "reference": "SPKA-6000PET",
+    "category": "Cercleuses automatiques",
+    "kind": "machine",
+    "description": "SPK A-6000 PET — Cercleuse automatique PET industrielle. Dédiée feuillard PET haute résistance, 50 cycles/min, charges jusqu'à 2000kg.",
+    "features": [
+      "Dédiée feuillard PET haute résistance",
+      "50 cycles/min",
+      "Charges jusqu'à 2000kg."
+    ],
+    "image": "img/Cercleuses/cercleuse-laterale-automatique-spk-2000-367x367.jpeg"
+  },
+  {
+    "slug": "spk-acier-m200",
+    "name": "SPK Acier M200 — Cercleuse manuelle feuillard acier",
+    "reference": "SPKACIERM200",
+    "category": "Cercleuses manuelles à batterie",
+    "kind": "machine",
+    "description": "SPK Acier M200 — Cercleuse manuelle feuillard acier. Cerclage acier haute résistance, tendeur à cliquet, clips en acier, pour charges",
+    "features": [
+      "Cerclage acier haute résistance",
+      "Tendeur à cliquet",
+      "Clips en acier",
+      "Pour charges"
+    ],
+    "image": "img/Cercleuses/cercleuse-pneumatique-spk-271.jpeg"
+  },
+  {
+    "slug": "spk-arm-banderoleuse-bras-tournant",
+    "name": "SPK ARM — Banderoleuse bras tournant",
+    "reference": "SPKARM",
+    "category": "Banderoleuses",
+    "kind": "machine",
+    "description": "Banderoleuse bras tournant SPK ARM, le film tourne autour de la palette fixe. Solution idéale pour palettes instables ou produits fragiles ne supportant pas la rotation.",
+    "features": [
+      "Bras tournant — palette reste fixe",
+      "Idéal palettes instables ou fragiles",
+      "Pré-étirement 250%",
+      "Cadence élevée",
+      "Produits fragiles ou instables",
+      "Palettes hautes et légères",
+      "Industries pharmaceutiques et agroalimentaires"
+    ],
+    "image": "img/Banderoleuses/banderoleuse-horizontale-pluripack-easy-367x367.jpg"
+  },
+  {
+    "slug": "spk-bs-100",
+    "name": "SPK BS-100 — Ensacheuse de sacs plats semi-auto",
+    "reference": "SPKBS-100",
+    "category": "Ensacheuses",
+    "kind": "machine",
+    "description": "SPK BS-100 — Ensacheuse de sacs plats semi-auto. Sacs plats et à soufflets, ouverture-remplissage-fermeture, 15 sacs/min.",
+    "features": [
+      "Sacs plats et à soufflets",
+      "Ouverture-remplissage-fermeture",
+      "15 sacs/min."
+    ],
+    "image": "img/Ensacheuses/soudeuses-sacs-avec-table-C-420.jpeg"
+  },
+  {
+    "slug": "spk-combi-2",
+    "name": "SPK Combi 2 — Cerclage double tête automatique",
+    "reference": "SPKCOMBI2",
+    "category": "Cercleuses automatiques",
+    "kind": "machine",
+    "description": "SPK Combi 2 — Cerclage double tête automatique. Pose deux feuillards simultanément, 50 cycles/min, gain de temps 50% vs deux mac",
+    "features": [
+      "Pose deux feuillards simultanément",
+      "50 cycles/min",
+      "Gain de temps 50% vs deux mac"
+    ],
+    "image": "img/Cercleuses/cercleuse-horizontale-semi-automatique-spk-2800-367x367.jpeg"
+  },
+  {
+    "slug": "spk-compact-100",
+    "name": "SPK Compact 100 — Mini banderoleuse compacte",
+    "reference": "SPKCOMPACT100",
+    "category": "Banderoleuses de palettes",
+    "kind": "machine",
+    "description": "SPK Compact 100 — Mini banderoleuse compacte. Solution ultra-compacte pour espaces restreints, plateau 1200mm, vitesse 6 tr/mi",
+    "features": [
+      "Solution ultra-compacte pour espaces restreints",
+      "Plateau 1200mm",
+      "Vitesse 6 tr/mi"
+    ],
+    "image": "img/Banderoleuses/maquina-envolvedora-controlwrap-.jpg"
+  },
+  {
+    "slug": "spk-ecover",
+    "name": "SPK eCover — Système de couverture de palettes",
+    "reference": "SPKECOVER",
+    "category": "Banderoleuses horizontales",
+    "kind": "machine",
+    "description": "SPK eCover — Système de couverture de palettes. Pose automatique d'un film de couverture sur le dessus des palettes avant bander",
+    "features": [
+      "Pose automatique d'un film de couverture sur le dessus des palettes avant bander"
+    ],
+    "image": "img/Banderoleuses/Ecover-photo-face-1.jpg"
+  },
+  {
+    "slug": "spk-evo",
+    "name": "SPK EVO+ — Cercleuse manuelle à batterie renforcée",
+    "reference": "SPKEVO+",
+    "category": "Cercleuses manuelles à batterie",
+    "kind": "machine",
+    "description": "SPK EVO+ — Cercleuse manuelle à batterie renforcée. Version Pro avec batterie 19.2V, 1500 cycles/charge, PP/PET 9-19mm, afficheur LC",
+    "features": [
+      "Version Pro avec batterie 19.2V",
+      "1500 cycles/charge",
+      "PP/PET 9-19mm",
+      "Afficheur LC"
+    ],
+    "image": "images/machine-cercleuse-palette-tete-superieure.jpeg"
+  },
+  {
+    "slug": "spk-evo-cercleuse-batterie-lithium",
+    "name": "SPK EVO — Cercleuse batterie lithium",
+    "reference": "SPKEVO",
+    "category": "Cercleuses",
+    "kind": "machine",
+    "description": "Cercleuse portable SPK EVO à batterie lithium. Sans fil, légère, tension et soudure automatiques. Parfaite pour cerclage terrain et zones sans électricité.",
+    "features": [
+      "Batterie lithium — sans fil",
+      "Légère et ergonomique — 2,8 kg",
+      "Tension et soudure automatiques",
+      "Autonomie 1500 cycles par charge",
+      "Cerclage terrain et zones éloignées",
+      "Entrepôts et chargement camions",
+      "BTP, agriculture, industrie mobile"
+    ],
+    "image": "images/CERCLEUSE-SPK_EVO-scaled-e1708961412217.jpg"
+  },
+  {
+    "slug": "spk-fanfold",
+    "name": "SPK Fanfold — Système calage papier fanfold",
+    "reference": "SPKFANFOLD",
+    "category": "Remplissage et protection",
+    "kind": "machine",
+    "description": "SPK Fanfold — Système calage papier fanfold. Transforme le papier kraft en calage nid d'abeille résistant, remplace la mousse",
+    "features": [
+      "Transforme le papier kraft en calage nid d'abeille résistant",
+      "Remplace la mousse"
+    ],
+    "image": "images/SPK-7005-remplissage-coussins-air_detalle.jpg"
+  },
+  {
+    "slug": "spk-fc-200",
+    "name": "SPK FC-200 — Formeuse de cartons semi-automatique",
+    "reference": "SPKFC-200",
+    "category": "Formeuses de cartons",
+    "kind": "machine",
+    "description": "SPK FC-200 — Formeuse de cartons semi-automatique. Formage et fermeture du fond de caisse par hot melt, 8 formats, 12 caisses/min.",
+    "features": [
+      "Formage et fermeture du fond de caisse par hot melt",
+      "8 formats",
+      "12 caisses/min."
+    ],
+    "image": "images/formeuses-cartons-starbox-50-60.jpg"
+  },
+  {
+    "slug": "spk-fc-350-auto",
+    "name": "SPK FC-350 Auto — Formeuse de cartons automatique",
+    "reference": "SPKFC-350AUTO",
+    "category": "Formeuses de cartons",
+    "kind": "machine",
+    "description": "SPK FC-350 Auto — Formeuse de cartons automatique. 25 caisses/min, magasin 100 flans, changement format motorisé, intégration ligne",
+    "features": [
+      "25 caisses/min",
+      "Magasin 100 flans",
+      "Changement format motorisé",
+      "Intégration ligne"
+    ],
+    "image": "images/formeuses-cartons-starbox-50-60.jpg"
+  },
+  {
+    "slug": "spk-fc-500",
+    "name": "SPK FC-500 — Formeuse haute cadence",
+    "reference": "SPKFC-500",
+    "category": "Formeuses de cartons",
+    "kind": "machine",
+    "description": "SPK FC-500 — Formeuse haute cadence. 40 caisses/min, 6 formats, colle hot melt Graco intégrée, IHM tactile.",
+    "features": [
+      "40 caisses/min",
+      "6 formats",
+      "Colle hot melt Graco intégrée",
+      "IHM tactile."
+    ],
+    "image": "images/formeuses-cartons-starbox-50-60.jpg"
+  },
+  {
+    "slug": "spk-fe-150-manuel",
+    "name": "SPK FE-150 Manuel — Fermeuse manuelle à ruban",
+    "reference": "SPKFE-150MANUEL",
+    "category": "Fermeuses de cartons",
+    "kind": "machine",
+    "description": "SPK FE-150 Manuel — Fermeuse manuelle à ruban. Fermeuse manuelle à ruban pour faible volume, réglage rapide, encombrement minim",
+    "features": [
+      "Fermeuse manuelle à ruban pour faible volume",
+      "Réglage rapide",
+      "Encombrement minim"
+    ],
+    "image": "images/fermeuse-automatique-robotape-tbda.jpg"
+  },
+  {
+    "slug": "spk-fe-200",
+    "name": "SPK FE-200 — Fermeuse de cartons scotcheuse",
+    "reference": "SPKFE-200",
+    "category": "Fermeuses de cartons",
+    "kind": "machine",
+    "description": "SPK FE-200 — Fermeuse de cartons scotcheuse. Fermeture dessus/dessous par ruban adhésif, réglage largeur 200-500mm, 15 caisse",
+    "features": [
+      "Fermeture dessus/dessous par ruban adhésif",
+      "Réglage largeur 200-500mm",
+      "15 caisse"
+    ],
+    "image": "images/fermeuse-automatique-robotape-tbda.jpg"
+  },
+  {
+    "slug": "spk-fe-220-gomme",
+    "name": "SPK FE-220 Gommé — Fermeuse papier gommé humecté",
+    "reference": "SPKFE-220GOMMÉ",
+    "category": "Fermeuses de cartons",
+    "kind": "machine",
+    "description": "SPK FE-220 Gommé — Fermeuse papier gommé humecté. Fermeture écologique par papier kraft gommé, 12 caisses/min, 100% recyclable.",
+    "features": [
+      "Fermeture écologique par papier kraft gommé",
+      "12 caisses/min",
+      "100% recyclable."
+    ],
+    "image": "images/fermeuse-automatique-robotape-tbda.jpg"
+  },
+  {
+    "slug": "spk-fe-300-hm",
+    "name": "SPK FE-300 HM — Fermeuse hot melt automatique",
+    "reference": "SPKFE-300HM",
+    "category": "Fermeuses de cartons",
+    "kind": "machine",
+    "description": "SPK FE-300 HM — Fermeuse hot melt automatique. Fermeture par colle hot melt Graco, 25 caisses/min, format réglable motorisé.",
+    "features": [
+      "Fermeture par colle hot melt Graco",
+      "25 caisses/min",
+      "Format réglable motorisé."
+    ],
+    "image": "images/fermeuse-automatique-robotape-tbda.jpg"
+  },
+  {
+    "slug": "spk-fe-400-combi",
+    "name": "SPK FE-400 Combi — Fermeuse combinée ruban + hot melt",
+    "reference": "SPKFE-400COMBI",
+    "category": "Fermeuses de cartons",
+    "kind": "machine",
+    "description": "SPK FE-400 Combi — Fermeuse combinée ruban + hot melt. Double fermeture ruban + hot melt pour sécurité maximale, 20 caisses/min.",
+    "features": [
+      "Double fermeture ruban + hot melt pour sécurité maximale",
+      "20 caisses/min."
+    ],
+    "image": "images/fermeuse-automatique-robotape-tbda.jpg"
+  },
+  {
+    "slug": "spk-flowpack-500",
+    "name": "SPK Flowpack 500 — Ensacheuse flowpack automatique",
+    "reference": "SPKFLOWPACK500",
+    "category": "Ensacheuses",
+    "kind": "machine",
+    "description": "SPK Flowpack 500 — Ensacheuse flowpack automatique. Flowpack haute cadence 100 produits/min, servo-motorisée, changement format rapi",
+    "features": [
+      "Flowpack haute cadence 100 produits/min",
+      "Servo-motorisée",
+      "Changement format rapi"
+    ],
+    "image": "img/Ensacheuses/soudeuse-sacs-C-420.jpeg"
+  },
+  {
+    "slug": "spk-foam-200",
+    "name": "SPK Foam-200 — Machine découpe mousse PE",
+    "reference": "SPKFOAM-200",
+    "category": "Remplissage et protection",
+    "kind": "machine",
+    "description": "SPK Foam-200 — Machine découpe mousse PE. Coupe la mousse PE en feuilles calibrées pour calage précis de pièces fragiles.",
+    "features": [
+      "Coupe la mousse PE en feuilles calibrées pour calage précis de pièces fragiles."
+    ],
+    "image": "images/SPK-7005-remplissage-coussins-air_detalle.jpg"
+  },
+  {
+    "slug": "spk-h-150-compact",
+    "name": "SPK H-150 Compact — Banderoleuse horizontale compacte",
+    "reference": "SPKH-150COMPACT",
+    "category": "Banderoleuses horizontales",
+    "kind": "machine",
+    "description": "SPK H-150 Compact — Banderoleuse horizontale compacte. Solution économique pour petits ateliers, anneau 600mm, dédiée aux produits de f",
+    "features": [
+      "Solution économique pour petits ateliers",
+      "Anneau 600mm",
+      "Dédiée aux produits de f"
+    ],
+    "image": "img/Banderoleuses/banderoleuse-horizontale-pluripack-automatique.jpg"
+  },
+  {
+    "slug": "spk-h-200",
+    "name": "SPK H-200 — Banderoleuse horizontale semi-automatique",
+    "reference": "SPKH-200",
+    "category": "Banderoleuses horizontales",
+    "kind": "machine",
+    "description": "SPK H-200 — Banderoleuse horizontale semi-automatique. Pour produits longs (tuyaux, profilés, planches), anneau 800mm, vitesse réglable",
+    "features": [
+      "Pour produits longs (tuyaux",
+      "Profilés",
+      "Planches)",
+      "Anneau 800mm",
+      "Vitesse réglable"
+    ],
+    "image": "img/Banderoleuses/banderoleuse-horizontale-compacta-spg-1.jpg"
+  },
+  {
+    "slug": "spk-h-250-baggage",
+    "name": "SPK H-250 Baggage — Banderoleuse de bagages",
+    "reference": "SPKH-250BAGGAGE",
+    "category": "Banderoleuses horizontales",
+    "kind": "machine",
+    "description": "SPK H-250 Baggage — Banderoleuse de bagages. Spéciale aéroports et hôtels, anneau 700mm, interface simple, tarification au cy",
+    "features": [
+      "Spéciale aéroports et hôtels",
+      "Anneau 700mm",
+      "Interface simple",
+      "Tarification au cy"
+    ],
+    "image": "img/Banderoleuses/envolvedora-de-maletas-controlwrap-advanced.jpg"
+  },
+  {
+    "slug": "spk-h-350",
+    "name": "SPK H-350 — Banderoleuse horizontale automatique",
+    "reference": "SPKH-350",
+    "category": "Banderoleuses horizontales",
+    "kind": "machine",
+    "description": "SPK H-350 — Banderoleuse horizontale automatique. Anneau 1000mm, cadence 18 cycles/min, détection automatique de longueur, coupe-f",
+    "features": [
+      "Anneau 1000mm",
+      "Cadence 18 cycles/min",
+      "Détection automatique de longueur",
+      "Coupe-f"
+    ],
+    "image": "img/Banderoleuses/banderoleuse-horizontale-compacta-tires-1-367x367.jpg"
+  },
+  {
+    "slug": "spk-h-500",
+    "name": "SPK H-500 — Banderoleuse horizontale haute capacité",
+    "reference": "SPKH-500",
+    "category": "Banderoleuses horizontales",
+    "kind": "machine",
+    "description": "SPK H-500 — Banderoleuse horizontale haute capacité. Anneau 1200mm, produits jusqu'à 800kg, convoyeurs motorisés, IHM tactile 7 pouce",
+    "features": [
+      "Anneau 1200mm",
+      "Produits jusqu'à 800kg",
+      "Convoyeurs motorisés",
+      "IHM tactile 7 pouce"
+    ],
+    "image": "img/Banderoleuses/banderoleuse-horizontale-compacta.jpg"
+  },
+  {
+    "slug": "spk-h-800-industrial",
+    "name": "SPK H-800 Industrial — Banderoleuse horizontale industrielle",
+    "reference": "SPKH-800INDUSTRIAL",
+    "category": "Banderoleuses horizontales",
+    "kind": "machine",
+    "description": "SPK H-800 Industrial — Banderoleuse horizontale industrielle. Anneau 1500mm, pour charges lourdes jusqu'à 2000kg, vitesse anneau 100 tr/min.",
+    "features": [
+      "Anneau 1500mm",
+      "Pour charges lourdes jusqu'à 2000kg",
+      "Vitesse anneau 100 tr/min."
+    ],
+    "image": "img/Banderoleuses/banderoleuse-horizontale-spiror-367x367.jpg"
+  },
+  {
+    "slug": "spk-horizontal-banderoleuse",
+    "name": "SPK Horizontal — Banderoleuse horizontale",
+    "reference": "SPKHOR",
+    "category": "Banderoleuses",
+    "kind": "machine",
+    "description": "Banderoleuse horizontale SPK pour emballage de produits longs : barres, tubes, profilés, planches. Enveloppement en spirale par anneau tournant.",
+    "features": [
+      "Anneau tournant enveloppement horizontal",
+      "Idéal produits longs et profilés",
+      "Film en spirale régulier",
+      "Vitesse anneau réglable",
+      "Barres, tubes et profilés métalliques",
+      "Bois, fenêtres, portes",
+      "Textiles et tapis en rouleau"
+    ],
+    "image": "images/banderoleuse-horizontale-compacta.jpg"
+  },
+  {
+    "slug": "spk-hs-300",
+    "name": "SPK HS-300 — Ensacheuse horizontale HFFS",
+    "reference": "SPKHS-300",
+    "category": "Ensacheuses",
+    "kind": "machine",
+    "description": "SPK HS-300 — Ensacheuse horizontale HFFS. HFFS pour produits solides (savons, fromages, pièces), 30 pcs/min, film PE/OPP.",
+    "features": [
+      "HFFS pour produits solides (savons",
+      "Fromages",
+      "Pièces)",
+      "30 pcs/min",
+      "Film PE/OPP."
+    ],
+    "image": "img/Ensacheuses/formeuse-de-sacs-simplicita-baggy.jpeg"
+  },
+  {
+    "slug": "spk-macroplat",
+    "name": "SPK Macroplat — Système de fabrication film macroperforé",
+    "reference": "SPKMACROPLAT",
+    "category": "Banderoleuses horizontales",
+    "kind": "machine",
+    "description": "SPK Macroplat — Système de fabrication film macroperforé. Accessoire adaptable sur banderoleuse existante, perfore le film pour ventilatio",
+    "features": [
+      "Accessoire adaptable sur banderoleuse existante",
+      "Perfore le film pour ventilatio"
+    ],
+    "image": "images/banderoleuse-macroplat.jpg"
+  },
+  {
+    "slug": "spk-orbital-400",
+    "name": "SPK Orbital 400 — Banderoleuse à bras tournant semi-automatique",
+    "reference": "SPKORBITAL400",
+    "category": "Banderoleuses de palettes",
+    "kind": "machine",
+    "description": "SPK Orbital 400 — Banderoleuse à bras tournant semi-automatique. Idéale pour palettes instables ou fragiles, bras tourne autour de la palette fix",
+    "features": [
+      "Idéale pour palettes instables ou fragiles",
+      "Bras tourne autour de la palette fix"
+    ],
+    "image": "img/Banderoleuses/banderoleuse-horizontale-orbit-r-lateral-367x367.jpg"
+  },
+  {
+    "slug": "spk-orbital-600",
+    "name": "SPK Orbital 600 — Banderoleuse à bras tournant automatique",
+    "reference": "SPKORBITAL600",
+    "category": "Banderoleuses de palettes",
+    "kind": "machine",
+    "description": "SPK Orbital 600 — Banderoleuse à bras tournant automatique. Bras tournant automatique, coupe-film auto, 45 cycles/h, compatible avec ligne a",
+    "features": [
+      "Bras tournant automatique",
+      "Coupe-film auto",
+      "45 cycles/h",
+      "Compatible avec ligne a"
+    ],
+    "image": "img/Banderoleuses/Ecowrap-XL-Controlpack.jpg"
+  },
+  {
+    "slug": "spk-palettiseur-1",
+    "name": "SPK Palettiseur 1 — Palettiseur automatique de cartons",
+    "reference": "SPKPALETTISEUR1",
+    "category": "Remplissage et protection",
+    "kind": "machine",
+    "description": "SPK Palettiseur 1 — Palettiseur automatique de cartons. Palettisation automatique de caisses carton, 600 colis/h, programmation multi-co",
+    "features": [
+      "Palettisation automatique de caisses carton",
+      "600 colis/h",
+      "Programmation multi-co"
+    ],
+    "image": "images/stockage_palette_entrepot-250x250.png"
+  },
+  {
+    "slug": "spk-palettiseur-2",
+    "name": "SPK Palettiseur 2 — Robot palettiseur 6 axes",
+    "reference": "SPKPALETTISEUR2",
+    "category": "Remplissage et protection",
+    "kind": "machine",
+    "description": "SPK Palettiseur 2 — Robot palettiseur 6 axes. Robot 6 axes 100kg charge utile, vitesse 1400mm/s, polyvalent tous formats de co",
+    "features": [
+      "Robot 6 axes 100kg charge utile",
+      "Vitesse 1400mm/s",
+      "Polyvalent tous formats de co"
+    ],
+    "image": "images/stockage_palette_entrepot-250x250.png"
+  },
+  {
+    "slug": "spk-paper-fill",
+    "name": "SPK Paper Fill — Machine de remplissage papier kraft",
+    "reference": "SPKPAPERFILL",
+    "category": "Remplissage et protection",
+    "kind": "machine",
+    "description": "SPK Paper Fill — Machine de remplissage papier kraft. Produit du papier froissé comme calage écologique, 5m/min, 100% recyclable.",
+    "features": [
+      "Produit du papier froissé comme calage écologique",
+      "5m/min",
+      "100% recyclable."
+    ],
+    "image": "images/SPK-7005-remplissage-coussins-air_detalle.jpg"
+  },
+  {
+    "slug": "spk-pneumatique-p100",
+    "name": "SPK Pneumatique P100 — Cercleuse manuelle pneumatique",
+    "reference": "SPKPNEUMATIQUEP100",
+    "category": "Cercleuses manuelles à batterie",
+    "kind": "machine",
+    "description": "SPK Pneumatique P100 — Cercleuse manuelle pneumatique. Pneumatique légère 1.8kg, PP 9-16mm, 30 cycles/min, idéale milieux avec réseau d",
+    "features": [
+      "Pneumatique légère 1.8kg",
+      "PP 9-16mm",
+      "30 cycles/min",
+      "Idéale milieux avec réseau d"
+    ],
+    "image": "img/Cercleuses/cercleuse-pneumatique-spk-244.jpeg"
+  },
+  {
+    "slug": "spk-r-310",
+    "name": "SPK R-310 — Banderoleuse semi-automatique à plateau tournant",
+    "reference": "SPKR-310",
+    "category": "Banderoleuses de palettes",
+    "kind": "machine",
+    "description": "SPK R-310 — Banderoleuse semi-automatique à plateau tournant. Modèle d'entrée de gamme, plateau tournant Ø1500mm, 0-12 tr/min, film pré-étiré",
+    "features": [
+      "Modèle d'entrée de gamme",
+      "Plateau tournant Ø1500mm",
+      "0-12 tr/min",
+      "Film pré-étiré"
+    ],
+    "image": "img/Banderoleuses/masterplat-plus-frontal_.jpg"
+  },
+  {
+    "slug": "spk-r-320",
+    "name": "SPK R-320 — Banderoleuse semi-automatique plateau tournant renforcée",
+    "reference": "SPKR-320",
+    "category": "Banderoleuses de palettes",
+    "kind": "machine",
+    "description": "SPK R-320 — Banderoleuse semi-automatique plateau tournant renforcée. Plateau Ø1650mm, mât 2m20, pré-étirage motorisé 270%, potence réglable en hauteu",
+    "features": [
+      "Plateau Ø1650mm",
+      "Mât 2m20",
+      "Pré-étirage motorisé 270%",
+      "Potence réglable en hauteu"
+    ],
+    "image": "img/Banderoleuses/masterplat-plus-frontal_.jpg"
+  },
+  {
+    "slug": "spk-r-500-auto",
+    "name": "SPK R-500 Auto — Banderoleuse automatique plateau tournant",
+    "reference": "SPKR-500AUTO",
+    "category": "Banderoleuses de palettes",
+    "kind": "machine",
+    "description": "SPK R-500 Auto — Banderoleuse automatique plateau tournant. Banderoleuse automatique avec coupe-film automatique, 35-40 palettes/heure, conv",
+    "features": [
+      "Banderoleuse automatique avec coupe-film automatique",
+      "35-40 palettes/heure",
+      "Conv"
+    ],
+    "image": "img/Banderoleuses/masterplat-plus-frontal_.jpg"
+  },
+  {
+    "slug": "spk-r-700-auto",
+    "name": "SPK R-700 Auto — Banderoleuse automatique haute cadence",
+    "reference": "SPKR-700AUTO",
+    "category": "Banderoleuses de palettes",
+    "kind": "machine",
+    "description": "SPK R-700 Auto — Banderoleuse automatique haute cadence. 60 palettes/heure, plateau 1800mm, intégration convoyeur, programmation cycles v",
+    "features": [
+      "60 palettes/heure",
+      "Plateau 1800mm",
+      "Intégration convoyeur",
+      "Programmation cycles v"
+    ],
+    "image": "img/Banderoleuses/Ecoplat-base-plataforma-1500-mm.jpg"
+  },
+  {
+    "slug": "spk-ring-2000",
+    "name": "SPK Ring 2000 — Banderoleuse anneau tournant horizontale-verticale",
+    "reference": "SPKRING2000",
+    "category": "Banderoleuses de palettes",
+    "kind": "machine",
+    "description": "SPK Ring 2000 — Banderoleuse anneau tournant horizontale-verticale. Anneau tournant pour emballage mixte horizontal et vertical, 60 cycles/h, format",
+    "features": [
+      "Anneau tournant pour emballage mixte horizontal et vertical",
+      "60 cycles/h",
+      "Format"
+    ],
+    "image": "img/Banderoleuses/envolvedora-horizontal-compacta.jpg"
+  },
+  {
+    "slug": "spk-robot-cercleuse",
+    "name": "SPK Robot Cercleuse — Robot de cerclage mobile",
+    "reference": "SPKROBOTCERCLEUSE",
+    "category": "Cercleuses automatiques",
+    "kind": "machine",
+    "description": "SPK Robot Cercleuse — Robot de cerclage mobile. Robot autonome se déplaçant entre les postes, cerclage sur mesure sans convoyeur",
+    "features": [
+      "Robot autonome se déplaçant entre les postes",
+      "Cerclage sur mesure sans convoyeur"
+    ],
+    "image": "img/Cercleuses/cercleuse-banderoleuse-Wrapster-367x367.jpeg"
+  },
+  {
+    "slug": "spk-robot-connect",
+    "name": "SPK Robot Connect — Robot banderoleuse connecté SPK Connect",
+    "reference": "SPKROBOTCONNECT",
+    "category": "Banderoleuses de palettes",
+    "kind": "machine",
+    "description": "SPK Robot Connect — Robot banderoleuse connecté SPK Connect. Robot avec module WiFi SPK Connect pour suivi à distance, statistiques et alerte",
+    "features": [
+      "Robot avec module WiFi SPK Connect pour suivi à distance",
+      "Statistiques et alerte"
+    ],
+    "image": "images/spk_connect_controle_distance_banderoleuse_palette-250x250.png"
+  },
+  {
+    "slug": "spk-robot-evo",
+    "name": "SPK Robot EVO — Robot banderoleuse de palettes manuel",
+    "reference": "SPKROBOTEVO",
+    "category": "Banderoleuses de palettes",
+    "kind": "machine",
+    "description": "SPK Robot EVO — Robot banderoleuse de palettes manuel. Robot portable qui tourne autour de la palette, batterie lithium 8h d'autonomie,",
+    "features": [
+      "Robot portable qui tourne autour de la palette",
+      "Batterie lithium 8h d'autonomie"
+    ],
+    "image": "img/Banderoleuses/Robot-banderoleuse-S7.jpg"
+  },
+  {
+    "slug": "spk-rotate-banderoleuse-plateau-tournant",
+    "name": "SPK Rotate — Banderoleuse plateau tournant",
+    "reference": "SPKROT",
+    "category": "Banderoleuses",
+    "kind": "machine",
+    "description": "Banderoleuse automatique plateau tournant SPK Rotate pour palettisation. Plateau tournant 1500mm, bras film motorisé, réglage vitesse et tours.",
+    "features": [
+      "Plateau tournant 1500mm standard palette",
+      "Bras film motorisé hauteur variable",
+      "Vitesse et nombre de tours réglables",
+      "Pré-étirement film 200-300%",
+      "Palettisation automatique entrepôt",
+      "Grande distribution et logistique",
+      "Production industrielle",
+      "E-commerce et transport"
+    ],
+    "image": "images/banderoleuse-film-macro-robopac.jpeg"
+  },
+  {
+    "slug": "spk-tf-150-compact",
+    "name": "SPK TF-150 Compact — Thermofilmeuse compacte de table",
+    "reference": "SPKTF-150COMPACT",
+    "category": "Thermofilmeuses",
+    "kind": "machine",
+    "description": "SPK TF-150 Compact — Thermofilmeuse compacte de table. Table, format jusqu'à 350mm largeur, 6 cycles/min, idéale boutiques et PME.",
+    "features": [
+      "Table",
+      "Format jusqu'à 350mm largeur",
+      "6 cycles/min",
+      "Idéale boutiques et PME."
+    ],
+    "image": "img/Thermofilmeuses/thermofilmeuse-manuelle-spk-1554.jpeg"
+  },
+  {
+    "slug": "spk-tf-200-i-bar",
+    "name": "SPK TF-200 I-bar — Thermofilmeuse I-bar manuelle",
+    "reference": "SPKTF-200I-BAR",
+    "category": "Thermofilmeuses",
+    "kind": "machine",
+    "description": "SPK TF-200 I-bar — Thermofilmeuse I-bar manuelle. Scelleuse I-bar avec rétracteur incorporé, format libre, idéale pour petits volu",
+    "features": [
+      "Scelleuse I-bar avec rétracteur incorporé",
+      "Format libre",
+      "Idéale pour petits volu"
+    ],
+    "image": "img/Thermofilmeuses/thermofilmeuse-automatique-spk-3554-tbd.jpg"
+  },
+  {
+    "slug": "spk-tf-300-l",
+    "name": "SPK TF-300 L — Thermofilmeuse L-bar semi-automatique",
+    "reference": "SPKTF-300L",
+    "category": "Thermofilmeuses",
+    "kind": "machine",
+    "description": "SPK TF-300 L — Thermofilmeuse L-bar semi-automatique. Scelleuse L-bar + tunnel 600mm, film PE/POF/PVC jusqu'à 600mm largeur, 8-12 cycl",
+    "features": [
+      "Scelleuse L-bar + tunnel 600mm",
+      "Film PE/POF/PVC jusqu'à 600mm largeur",
+      "8-12 cycl"
+    ],
+    "image": "img/Thermofilmeuses/thermofilmeuse-manuelle-spk-1554.jpeg"
+  },
+  {
+    "slug": "spk-tf-350-side-seal",
+    "name": "SPK TF-350 Side-Seal — Thermofilmeuse latérale automatique",
+    "reference": "SPKTF-350SIDE-SEAL",
+    "category": "Thermofilmeuses",
+    "kind": "machine",
+    "description": "SPK TF-350 Side-Seal — Thermofilmeuse latérale automatique. Scellage latéral pour produits multi-packs, 30 produits/min, format réglable mot",
+    "features": [
+      "Scellage latéral pour produits multi-packs",
+      "30 produits/min",
+      "Format réglable mot"
+    ],
+    "image": "img/Thermofilmeuses/soudeuse-en-l-SPK-2907A-2.png"
+  },
+  {
+    "slug": "spk-tf-400-l",
+    "name": "SPK TF-400 L — Thermofilmeuse L-bar professionnelle",
+    "reference": "SPKTF-400L",
+    "category": "Thermofilmeuses",
+    "kind": "machine",
+    "description": "SPK TF-400 L — Thermofilmeuse L-bar professionnelle. Tunnel 800mm, 15 cycles/min, contrôle température digital, format jusqu'à 700mm",
+    "features": [
+      "Tunnel 800mm",
+      "15 cycles/min",
+      "Contrôle température digital",
+      "Format jusqu'à 700mm"
+    ],
+    "image": "img/Thermofilmeuses/thermofilmeuse-automatique-spk-3554-tbd.jpg"
+  },
+  {
+    "slug": "spk-tf-500-auto",
+    "name": "SPK TF-500 Auto — Thermofilmeuse automatique",
+    "reference": "SPKTF-500AUTO",
+    "category": "Thermofilmeuses",
+    "kind": "machine",
+    "description": "SPK TF-500 Auto — Thermofilmeuse automatique. Automatique complète, 25 cycles/min, photocellule détection produit, IHM tactile",
+    "features": [
+      "Automatique complète",
+      "25 cycles/min",
+      "Photocellule détection produit",
+      "IHM tactile"
+    ],
+    "image": "img/Thermofilmeuses/tunnel-retraction-spk-9503-lx.png"
+  },
+  {
+    "slug": "spk-tf-600-flow",
+    "name": "SPK TF-600 Flow — Thermofilmeuse flowpack horizontal",
+    "reference": "SPKTF-600FLOW",
+    "category": "Thermofilmeuses",
+    "kind": "machine",
+    "description": "SPK TF-600 Flow — Thermofilmeuse flowpack horizontal. Flowpack horizontal pour produits alimentaires, 80 sachets/min, film PE multicou",
+    "features": [
+      "Flowpack horizontal pour produits alimentaires",
+      "80 sachets/min",
+      "Film PE multicou"
+    ],
+    "image": "img/Thermofilmeuses/soudeuse-en-l-SPK-2907A-2.png"
+  },
+  {
+    "slug": "spk-tf-700-auto",
+    "name": "SPK TF-700 Auto — Thermofilmeuse automatique haute cadence",
+    "reference": "SPKTF-700AUTO",
+    "category": "Thermofilmeuses",
+    "kind": "machine",
+    "description": "SPK TF-700 Auto — Thermofilmeuse automatique haute cadence. 45 cycles/min, tunnel 1000mm, multi-formats, changement de bobine rapide 3 min.",
+    "features": [
+      "45 cycles/min",
+      "Tunnel 1000mm",
+      "Multi-formats",
+      "Changement de bobine rapide 3 min."
+    ],
+    "image": "img/Thermofilmeuses/fardeleuse-spk-4603-a.jpg"
+  },
+  {
+    "slug": "spk-tf-800-tunnel",
+    "name": "SPK TF-800 Tunnel — Tunnel de rétraction seul",
+    "reference": "SPKTF-800TUNNEL",
+    "category": "Thermofilmeuses",
+    "kind": "machine",
+    "description": "SPK TF-800 Tunnel — Tunnel de rétraction seul. Tunnel 1200mm de large à associer à votre scelleuse existante, température 0-300",
+    "features": [
+      "Tunnel 1200mm de large à associer à votre scelleuse existante",
+      "Température 0-300"
+    ],
+    "image": "img/Thermofilmeuses/tunnel-retraction-spk-9503-lx.png"
+  },
+  {
+    "slug": "spk-tf-900-coex",
+    "name": "SPK TF-900 Coex — Thermofilmeuse film coextrudé alimentaire",
+    "reference": "SPKTF-900COEX",
+    "category": "Thermofilmeuses",
+    "kind": "machine",
+    "description": "SPK TF-900 Coex — Thermofilmeuse film coextrudé alimentaire. Certifiée contact alimentaire, film POF coextrudé, 20 cycles/min, nettoyage faci",
+    "features": [
+      "Certifiée contact alimentaire",
+      "Film POF coextrudé",
+      "20 cycles/min",
+      "Nettoyage faci"
+    ],
+    "image": "img/Thermofilmeuses/fardeleuse-spk-4603-a.jpg"
+  },
+  {
+    "slug": "spk-tray-100",
+    "name": "SPK Tray-100 — Formeuse de plateaux",
+    "reference": "SPKTRAY-100",
+    "category": "Formeuses de cartons",
+    "kind": "machine",
+    "description": "SPK Tray-100 — Formeuse de plateaux. Formage plateaux et barquettes carton, 20 pièces/min, 4 formats.",
+    "features": [
+      "Formage plateaux et barquettes carton",
+      "20 pièces/min",
+      "4 formats."
+    ],
+    "image": "images/formeuses-cartons-starbox-50-60.jpg"
+  },
+  {
+    "slug": "spk-void-fill",
+    "name": "SPK Void-Fill — Machine remplissage vide-d'air continu",
+    "reference": "SPKVOID-FILL",
+    "category": "Remplissage et protection",
+    "kind": "machine",
+    "description": "SPK Void-Fill — Machine remplissage vide-d'air continu. Production de coussins en continu, idéale e-commerce fort volume, 30m/min.",
+    "features": [
+      "Production de coussins en continu",
+      "Idéale e-commerce fort volume",
+      "30m/min."
+    ],
+    "image": "images/SPK-7005-remplissage-coussins-air_detalle.jpg"
+  },
+  {
+    "slug": "spk-vs-200",
+    "name": "SPK VS-200 — Ensacheuse verticale VFFS semi-automatique",
+    "reference": "SPKVS-200",
+    "category": "Ensacheuses",
+    "kind": "machine",
+    "description": "SPK VS-200 — Ensacheuse verticale VFFS semi-automatique. VFFS pour produits en vrac, sachets de 100-1000g, 20-40 sachets/min, doseur volu",
+    "features": [
+      "VFFS pour produits en vrac",
+      "Sachets de 100-1000g",
+      "20-40 sachets/min",
+      "Doseur volu"
+    ],
+    "image": "img/Ensacheuses/ensacheuse-Simplicita-Bag-Smart-400H.jpeg"
+  },
+  {
+    "slug": "spk-vs-400-auto",
+    "name": "SPK VS-400 Auto — Ensacheuse verticale automatique",
+    "reference": "SPKVS-400AUTO",
+    "category": "Ensacheuses",
+    "kind": "machine",
+    "description": "SPK VS-400 Auto — Ensacheuse verticale automatique. VFFS automatique, 60 sachets/min, format de sachet motorisé, doseur pondéral int",
+    "features": [
+      "VFFS automatique",
+      "60 sachets/min",
+      "Format de sachet motorisé",
+      "Doseur pondéral int"
+    ],
+    "image": "img/Ensacheuses/ensacheuse-verticale-spk-x-bag.jpeg"
+  },
+  {
+    "slug": "spk-zip-200",
+    "name": "SPK Zip-200 — Ensacheuse sacs ZIP refermables",
+    "reference": "SPKZIP-200",
+    "category": "Ensacheuses",
+    "kind": "machine",
+    "description": "SPK Zip-200 — Ensacheuse sacs ZIP refermables. Spéciale sachets ZIP, refermeables, idéale alimentaire haut de gamme et cosmétiq",
+    "features": [
+      "Spéciale sachets ZIP",
+      "Refermeables",
+      "Idéale alimentaire haut de gamme et cosmétiq"
+    ],
+    "image": "img/Ensacheuses/thermosoudeuse-plateau-inox-5.jpeg"
+  },
+  {
+    "slug": "table-elevatrice-500kg",
+    "name": "Table élévatrice 500kg",
+    "reference": "MA00TE0001",
+    "category": "Manutention et logistique",
+    "kind": "material",
+    "description": "Table élévatrice ciseaux 500kg, hauteur de 300 à 1000mm. Plateau 1200x800mm, descente et montée par pompe hydraulique à pédale.",
+    "features": [
+      "Charge max. 500 kg",
+      "Hauteur 300 à 1000mm",
+      "Plateau 1200x800mm",
+      "Pompe hydraulique à pédale",
+      "Ergonomie poste de travail",
+      "Chargement / déchargement de palettes",
+      "Préparation de commandes",
+      "Logistique entrepôt"
+    ],
+    "image": "images/table-preparation-commande-spk-2.jpeg"
+  },
+  {
+    "slug": "tendeur-feuillard-manuel",
+    "name": "Tendeur feuillard manuel",
+    "reference": "FE00TM0001",
+    "category": "Feuillard et accessoires",
+    "kind": "material",
+    "description": "Tendeur manuel à rochet pour feuillard PP et PET 12-19mm. Tension constante et régulière avant fermeture, poignée antidérapante.",
+    "features": [
+      "Tension constante par rochet",
+      "Compatible PP et PET 12-19mm",
+      "Poignée antidérapante",
+      "Construction acier robuste",
+      "Cerclage semi-manuel",
+      "Palettes et fardeaux",
+      "Logistique et distribution"
+    ],
+    "image": "images/chariot-devidoir-feuillard.jpeg"
+  },
+  {
+    "slug": "transpalette-manuel-2500kg",
+    "name": "Transpalette manuel 2500kg",
+    "reference": "MA00TM0001",
+    "category": "Manutention et logistique",
+    "kind": "material",
+    "description": "Transpalette manuel à fourches 2500kg de charge nominale. Fourches 1150mm, hauteur levée 200mm, pompe hydraulique fiable et robuste.",
+    "features": [
+      "Charge nominale 2500 kg",
+      "Fourches 1150mm standard palette",
+      "Hauteur levée 115-195mm",
+      "Pompe hydraulique robuste",
+      "Manutention palettes en entrepôt",
+      "Déplacement charges lourdes",
+      "Compatible europalettes 800x1200mm"
+    ],
+    "image": "images/transpalette-categorie.jpg"
+  },
+  {
+    "slug": "transpalette-peseur-2500kg",
+    "name": "Transpalette peseur 2500kg",
+    "reference": "MA00TP0001",
+    "category": "Manutention et logistique",
+    "kind": "material",
+    "description": "Transpalette manuel peseur 2500kg avec balance intégrée. Affichage numérique de la charge, précision ±1kg. Pesée directe lors de la manutention.",
+    "features": [
+      "Pesée intégrée précision ±1 kg",
+      "Affichage numérique tare/brut/net",
+      "Charge max. 2500 kg",
+      "Mémorisation dernier poids",
+      "Logistique avec pesée à la manutention",
+      "Expéditions nécessitant facturation au poids",
+      "Entrepôts et quais de chargement"
+    ],
+    "image": "images/transpalette-categorie.jpg"
+  },
+  {
+    "slug": "vianex-line-100",
+    "name": "Vianex Line 100 — Ligne d'emballage complète e-commerce",
+    "reference": "VIANEXLINE100",
+    "category": "Lignes automatiques",
+    "kind": "machine",
+    "description": "Vianex Line 100 — Ligne d'emballage complète e-commerce. Convoyeur + thermofilmeuse + banderoleuse intégrés, cadence 500 colis/h, gestion",
+    "features": [
+      "Convoyeur + thermofilmeuse + banderoleuse intégrés",
+      "Cadence 500 colis/h",
+      "Gestion"
+    ],
+    "image": "img/Lignes d’emballage automatiques/plan-pack-and-box.jpg"
+  },
+  {
+    "slug": "vianex-line-200",
+    "name": "Vianex Line 200 — Ligne automatique industrielle",
+    "reference": "VIANEXLINE200",
+    "category": "Lignes automatiques",
+    "kind": "machine",
+    "description": "Vianex Line 200 — Ligne automatique industrielle. Ligne complète : formage carton + remplissage + fermeture + étiquetage + paletti",
+    "features": [
+      "Ligne complète : formage carton + remplissage + fermeture + étiquetage + paletti"
+    ],
+    "image": "img/Lignes d’emballage automatiques/PACK-BOX-5-150x150.jpg"
+  }
+]
