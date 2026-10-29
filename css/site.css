@@ -163,6 +163,7 @@ h1,h2,h3,p{margin-top:0;}
 .product-reference{margin:24px 0;padding:14px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line);display:flex;justify-content:space-between;gap:12px;font-size:10px;}
 .product-reference span:first-child{color:var(--muted);font-weight:700;letter-spacing:.1em;}
 .product-reference strong{font-size:11px;}
+.product-reference+.product-reference{margin-top:-24px;border-top:0;}
 .product-info .button{margin-top:8px;}
 .feature-list-section{margin-top:74px;display:grid;grid-template-columns:.7fr 1.3fr;gap:60px;border-top:1px solid var(--line);padding-top:32px;}
 .feature-list-section h2{font:600 30px/1.15 var(--font-display);}

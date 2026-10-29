@@ -1,45 +1,24 @@
 [
   {
-    "slug": "applicateur-manuel-film-etirable-45cm",
-    "name": "Applicateur manuel film étirable 45 cm",
+    "slug": "applicateur-manuel-film-etirable",
+    "name": "Applicateur manuel film étirable",
     "reference": "FI00AP0001",
     "category": "Film et palettisation",
     "kind": "material",
-    "description": "L'applicateur manuel film étirable 45 cm Vianex est une solution économique et pratique pour le banderolage manuel de palettes de petite et moyenne taille. Sa conception compacte le rend particulièrement adapté aux bobines de 450 mm de large, les plus courantes pour les petites palettes ou les emballages secondaires. Fabriqué en plastique ABS léger, cet applicateur pèse seulement 280 g, facilitant les manipulations prolongées sans fatigue excessive.",
+    "description": "L'applicateur manuel film étirable Vianex est l'outil indispensable pour le banderolage manuel de palettes. Il maintient la bobine en main sans effort et réduit considérablement la fatigue lors des opérations répétitives. Disponible sur mesure selon la largeur de vos bobines.",
     "features": [
-      "Compatible avec les bobines de film étirable 450 mm",
       "Corps en plastique ABS léger et résistant",
-      "Poids très faible : 280 g à vide",
-      "Mandrin universel diamètre 50 mm",
-      "Capacité bobine jusqu'à 300 g",
-      "Design compact pour espaces réduits",
-      "Prix d'entrée très accessible — idéal pour équiper plusieurs postes",
-      "Légèreté maximale pour un confort opérateur optimal",
-      "Prise en main intuitive, sans formation nécessaire",
-      "Robustesse adaptée à un usage quotidien en entrepôt",
-      "Compatible avec films transparents et films noirs"
-    ],
-    "image": "images/aplicador_manual_film_estirable_plastico_diametro_interior_50mm_economico.jpg"
-  },
-  {
-    "slug": "applicateur-manuel-film-etirable-50cm",
-    "name": "Applicateur manuel film étirable 50 cm",
-    "reference": "FI00AP0002",
-    "category": "Film et palettisation",
-    "kind": "material",
-    "description": "L'applicateur manuel film étirable 50 cm Vianex est l'outil indispensable pour tout opérateur effectuant le banderolage manuel de palettes. Conçu pour recevoir les bobines de film étirable de 500 mm de large, cet applicateur ergonomique permet de maintenir la bobine en main sans effort, réduisant considérablement la fatigue lors des opérations répétitives. Sa poignée en plastique ABS renforcé offre une prise en main ferme et confortable, même lors de longues sessions de travail.",
-    "features": [
-      "Compatible avec toutes les bobines de film étirable 500 mm",
-      "Poignée ergonomique en plastique ABS renforcé",
-      "Poids léger : seulement 350 g à vide",
       "Mandrin adapté au diamètre intérieur standard de 50 mm",
-      "Capacité maximale : bobines jusqu'à 500 g",
-      "Système de blocage rapide de la bobine",
       "Réduit la fatigue opérateur de manière significative",
       "Améliore la régularité du banderolage et la qualité d'emballage",
+      "Prise en main intuitive, sans formation nécessaire",
       "Compatible avec les films standard, renforcés et noirs",
-      "Entretien minimal — aucun consommable",
-      "Rapport qualité/prix excellent pour une utilisation quotidienne"
+      "Entretien minimal — aucun consommable"
+    ],
+    "customSize": true,
+    "aliases": [
+      "applicateur-manuel-film-etirable-45cm",
+      "applicateur-manuel-film-etirable-50cm"
     ],
     "image": "images/aplicador_manual_film_estirable_plastico_diametro_interior_50mm_economico.jpg"
   },
@@ -74,130 +53,33 @@
     "image": "images/humecteur-papier-gomme-semi-auto-avec-papier.jpg"
   },
   {
-    "slug": "boite-americaine-300x300x300",
-    "name": "Boite américaine 300x300x300mm",
-    "reference": "BC00AM0001",
-    "category": "Boites en carton",
-    "kind": "material",
-    "description": "Boîte américaine (RSC) en carton simple cannelure, format 300x300x300mm. Assemblage rapide, solide et économique pour expéditions courantes.",
-    "features": [
-      "Format 300x300x300mm standard",
-      "Carton simple cannelure 3mm",
-      "Assemblage rapide sans outillage",
-      "Vendue par lot de 25",
-      "Expédition e-commerce",
-      "Stockage et emballage courant",
-      "Compatible avec toutes formeuses"
-    ],
-    "image": "images/boite-carton-simple-cannelure.jpeg"
-  },
-  {
-    "slug": "boite-carton-200x150x100",
-    "name": "Boite carton 200x150x100mm",
-    "reference": "BC00ST0001",
-    "category": "Boites en carton",
-    "kind": "material",
-    "description": "Boîte en carton kraft 200x150x100mm, simple cannelure, idéale pour petits colis e-commerce, bijoux et accessoires. Fond automatique ou à coller.",
-    "features": [
-      "Petit format 200x150x100mm",
-      "Kraft simple cannelure léger",
-      "Fond automatique ou à assembler",
-      "Lot de 50 unités",
-      "Bijoux, accessoires, cosmétiques",
-      "E-commerce petits articles",
-      "Cadeaux et présentations"
-    ],
-    "image": "images/boite-carton-categorie.png"
-  },
-  {
-    "slug": "boite-carton-300x200x200",
-    "name": "Boite carton 300x200x200mm",
-    "reference": "BC00ST0002",
-    "category": "Boites en carton",
-    "kind": "material",
-    "description": "Boîte en carton 300x200x200mm, format polyvalent pour la majorité des expéditions e-commerce. Simple cannelure, assemblage rapide.",
-    "features": [
-      "Format polyvalent 300x200x200mm",
-      "Kraft simple cannelure",
-      "Assemblage rapide",
-      "Lot de 25 unités",
-      "E-commerce polyvalent",
-      "Expéditions standard",
-      "Stockage produits divers"
-    ],
-    "image": "images/boite-carton-categorie.png"
-  },
-  {
-    "slug": "boite-carton-400x300x300",
-    "name": "Boite carton 400x300x300mm",
-    "reference": "BC00ST0003",
-    "category": "Boites en carton",
-    "kind": "material",
-    "description": "Boîte en carton 400x300x300mm, format grand volume pour produits encombrants. Kraft double cannelure disponible sur demande.",
-    "features": [
-      "Grand format 400x300x300mm",
-      "Simple ou double cannelure",
-      "Résistance renforcée",
-      "Lot de 15 unités",
-      "Produits encombrants et lourds",
-      "E-commerce volume",
-      "Industrie et logistique"
-    ],
-    "image": "images/boite-carton-categorie.png"
-  },
-  {
-    "slug": "boite-carton-double-cannelure",
-    "name": "Boite carton double cannelure",
-    "reference": "BC00DC0001",
-    "category": "Boites en carton",
-    "kind": "material",
-    "description": "Boîte en carton double cannelure, résistance augmentée pour charges lourdes et produits fragiles nécessitant une protection maximale.",
-    "features": [
-      "Double cannelure 7mm résistance max",
-      "Tenue à l'écrasement élevée",
-      "Protection renforcée produits lourds",
-      "Kraft intérieur blanc disponible",
-      "Industrie et métallurgie",
-      "Machines et équipements",
-      "Export longue distance"
-    ],
-    "image": "images/boite-carton-double-cannelure.jpeg"
-  },
-  {
-    "slug": "boite-carton-kraft-premium",
-    "name": "Boite carton kraft premium",
-    "reference": "BC00PR0001",
-    "category": "Boites en carton",
-    "kind": "material",
-    "description": "Boîte en carton kraft premium, aspect soigné intérieur et extérieur blanc. Idéale pour e-commerce haut de gamme, cadeaux et unboxing qualitatif.",
-    "features": [
-      "Kraft intérieur et extérieur blanc",
-      "Aspect premium, idéal unboxing",
-      "Simple cannelure renforcée",
-      "Compatible avec impression jet d'encre",
-      "E-commerce haut de gamme",
-      "Cadeaux et coffrets",
-      "Cosmétique et luxe"
-    ],
-    "image": "images/boites-carton-menu.png"
-  },
-  {
-    "slug": "boite-carton-personnalisee",
-    "name": "Boite carton personnalisée",
+    "slug": "boite-carton",
+    "name": "Boite en carton",
     "reference": "BC00PE0001",
     "category": "Boites en carton",
     "kind": "material",
-    "description": "Boîte en carton personnalisée avec impression de votre logo et identité visuelle. Offset 4 couleurs, minimum 500 pièces, délai 3 semaines.",
+    "description": "Boîte en carton kraft pour expéditions e-commerce, stockage et transport, fabriquée sur mesure dans toutes les dimensions, de la petite boîte à la caisse palette. Simple ou double cannelure, kraft brun ou blanc premium, et impression de votre logo.",
     "features": [
-      "Impression offset 4 couleurs",
-      "Minimum 500 pièces",
-      "Délai 3 semaines avec BAT",
-      "Toutes dimensions disponibles",
-      "Branding et image de marque",
-      "E-commerce et retail",
-      "Coffrets et présentoirs"
+      "Simple cannelure 3 mm ou double cannelure 7 mm",
+      "Kraft brun ou blanc premium, idéal unboxing",
+      "Assemblage rapide sans outillage",
+      "Compatible avec toutes formeuses",
+      "Impression logo offset 4 couleurs (min. 500 pcs, 3 semaines avec BAT)",
+      "Recyclable 100%",
+      "E-commerce, industrie et logistique"
     ],
-    "image": "images/boites-en-carton-personnalisees-ouverte-blanche.jpeg"
+    "customSize": true,
+    "aliases": [
+      "boite-americaine-300x300x300",
+      "boite-carton-200x150x100",
+      "boite-carton-300x200x200",
+      "boite-carton-400x300x300",
+      "boite-carton-double-cannelure",
+      "boite-carton-kraft-premium",
+      "boite-carton-personnalisee",
+      "caisse-palette-carton"
+    ],
+    "image": "images/boite-carton-categorie.png"
   },
   {
     "slug": "boucles-metalliques-13mm",
@@ -216,24 +98,6 @@
       "Logistique et transport"
     ],
     "image": "images/feuillard-metallique-rouleau-2.jpeg"
-  },
-  {
-    "slug": "caisse-palette-carton",
-    "name": "Caisse palette carton 800x1200mm",
-    "reference": "BC00CP0001",
-    "category": "Boites en carton",
-    "kind": "material",
-    "description": "Caisse palette carton 800x1200mm format europalette. Double cannelure renforcée pour stockage et transport de charges importantes.",
-    "features": [
-      "Format europalette 800x1200mm",
-      "Double cannelure renforcée",
-      "Assemblage sans outil",
-      "Recyclable 100%",
-      "Stockage et palettisation en usine",
-      "Transport de pièces lourdes",
-      "Industrie lourde et logistique"
-    ],
-    "image": "images/palette-de-carton-800x1200mm-upalet-1.jpeg"
   },
   {
     "slug": "calage-nid-abeille-kraft",
@@ -312,40 +176,26 @@
     "image": "images/calage-protection-categorie.png"
   },
   {
-    "slug": "coussin-air-200x100mm",
-    "name": "Coussins d'air 200x100mm",
+    "slug": "coussin-air",
+    "name": "Coussins d'air",
     "reference": "CA00CO0001",
     "category": "Calage et protection",
     "kind": "material",
-    "description": "Coussins d'air 200x100mm pour calage et protection en carton. Légèreté maximale, remplissage rapide machine SPK, résistance chocs et vibrations.",
+    "description": "Coussins d'air pour le calage et la protection en carton. Légèreté maximale, remplissage rapide sur machine SPK, résistance aux chocs et vibrations. Disponibles sur mesure, du calage courant aux produits volumineux.",
     "features": [
-      "Format 200x100mm polyvalent",
       "Légèreté et faible encombrement à plat",
       "Remplissage rapide machine SPK",
       "Résistance chocs et vibrations",
+      "Film PE recyclable",
       "Protection e-commerce et retail",
-      "Calage toutes formes de produits",
       "Remplacement chips polystyrène"
     ],
-    "image": "images/coussin-air-remplissage-calage-PR00AIA705.jpeg"
-  },
-  {
-    "slug": "coussin-air-200x300mm",
-    "name": "Coussins d'air 200x300mm",
-    "reference": "CA00CO0002",
-    "category": "Calage et protection",
-    "kind": "material",
-    "description": "Coussins d'air 200x300mm pour calage de produits volumineux. Protection renforcée, idéal expéditions fragiles et e-commerce premium.",
-    "features": [
-      "Format 200x300mm grandes cavités",
-      "Protection renforcée",
-      "Remplissage automatique SPK",
-      "Film PE recyclable",
-      "Produits volumineux et fragiles",
-      "E-commerce premium",
-      "Colis lourds et encombrants"
+    "customSize": true,
+    "aliases": [
+      "coussin-air-200x100mm",
+      "coussin-air-200x300mm"
     ],
-    "image": "images/bobine-coussin-air-protection-calage-carton-spk-7005-1.jpeg"
+    "image": "images/coussin-air-remplissage-calage-PR00AIA705.jpeg"
   },
   {
     "slug": "devidoir-ergonomique",
@@ -388,74 +238,27 @@
     "image": "images/kit-cerclage-spk.jpeg"
   },
   {
-    "slug": "etiquette-blanche-105x148",
-    "name": "Etiquette blanche 105x148mm",
-    "reference": "ET00EB0001",
-    "category": "Etiquettes / porte-documents",
-    "kind": "material",
-    "description": "Etiquettes blanches A6 105x148mm en rouleau pour imprimante thermique. Adhésif permanent, papier couché blanc mat.",
-    "features": [
-      "Format A6 — 105x148mm",
-      "Adhésif permanent",
-      "Papier couché blanc mat",
-      "Compatible imprimantes thermiques",
-      "Etiquetage colis et palettes",
-      "Bons de livraison",
-      "E-commerce et logistique"
-    ],
-    "image": "images/enveloppes-porte-documents-blanc-2.jpeg"
-  },
-  {
-    "slug": "etiquette-personnalisee",
-    "name": "Etiquette personnalisée",
+    "slug": "etiquette",
+    "name": "Etiquette adhésive",
     "reference": "ET00EP0001",
     "category": "Etiquettes / porte-documents",
     "kind": "material",
-    "description": "Etiquettes adhésives personnalisées avec votre logo, code-barres et informations produit. Impression offset ou numérique, min. 1000 unités.",
+    "description": "Etiquettes adhésives en rouleau pour l'expédition, l'entrepôt et l'identification produit, fabriquées sur mesure dans toutes les dimensions et formes. Papier blanc mat, thermique directe sans ruban ou transparent, avec impression de votre logo et code-barres en option.",
     "features": [
-      "Impression offset ou numérique",
-      "Toutes formes et formats",
-      "Minimum 1000 unités",
-      "BAT inclus avant production",
-      "Branding et identification produit",
-      "Conformité et traçabilité",
-      "Promotions marketing"
+      "Papier couché blanc mat, thermique directe ou transparent",
+      "Adhésif permanent",
+      "Compatible Zebra, Dymo, TSC, laser et jet d'encre",
+      "Noir profond, lisibilité code-barres garantie",
+      "Impression personnalisée offset ou numérique (min. 1000 unités, BAT inclus)",
+      "Etiquetage colis, palettes et entrepôt",
+      "E-commerce, logistique et branding"
     ],
-    "image": "images/enveloppes-porte-documents-blanc-2.jpeg"
-  },
-  {
-    "slug": "etiquette-thermique-100x150",
-    "name": "Etiquette thermique 100x150mm",
-    "reference": "ET00TH0001",
-    "category": "Etiquettes / porte-documents",
-    "kind": "material",
-    "description": "Etiquettes thermiques directes 100x150mm sans ruban encreur. Impression par chaleur, format standard transporteurs, compatibles Zebra, Dymo, TSC.",
-    "features": [
-      "Thermique directe — sans ruban",
-      "Format 100x150mm transporteurs",
-      "Noir profond, code-barres garanti",
-      "Compatible Zebra, Dymo, TSC",
-      "Etiquettes expédition e-commerce",
-      "Bons de livraison",
-      "Etiquetage entrepôt"
-    ],
-    "image": "images/enveloppes-porte-documents-blanc-2.jpeg"
-  },
-  {
-    "slug": "etiquette-transparente-105x148",
-    "name": "Etiquette transparente 105x148mm",
-    "reference": "ET00ET0001",
-    "category": "Etiquettes / porte-documents",
-    "kind": "material",
-    "description": "Etiquettes transparentes 105x148mm, aspect discret sur emballages soignés. Adhésif permanent haute transparence, lisibilité code-barres garantie.",
-    "features": [
-      "Transparent — aspect discret",
-      "Adhésif permanent haute transparence",
-      "Lisibilité code-barres garantie",
-      "Compatible laser et jet d'encre",
-      "Emballages haut de gamme",
-      "Produits cosmétiques et luxe",
-      "Etiquetage discret"
+    "customSize": true,
+    "aliases": [
+      "etiquette-blanche-105x148",
+      "etiquette-personnalisee",
+      "etiquette-thermique-100x150",
+      "etiquette-transparente-105x148"
     ],
     "image": "images/enveloppes-porte-documents-blanc-2.jpeg"
   },
@@ -496,56 +299,25 @@
     "image": "images/feuillard-polyester-vert-pet-fond-gris.jpeg"
   },
   {
-    "slug": "feuillard-pp-12mm",
-    "name": "Feuillard PP polypropylène 12mm",
-    "reference": "FE00PP0001",
-    "category": "Feuillard et accessoires",
-    "kind": "material",
-    "description": "Feuillard polypropylène 12mm léger et résistant, idéal cerclage cartons et fardeaux. Compatible cercleuses manuelles et semi-automatiques.",
-    "features": [
-      "PP léger et flexible",
-      "Résistance traction 1800 N",
-      "Couleur naturelle ou bleue",
-      "Compatible toutes cercleuses PP",
-      "Cerclage cartons et fardeaux",
-      "Transport et logistique",
-      "Industrie légère"
-    ],
-    "image": "images/feuillard-pp-polypropylene-fond-gris.jpeg"
-  },
-  {
-    "slug": "feuillard-pp-16mm",
-    "name": "Feuillard PP polypropylène 16mm",
-    "reference": "FE00PP0002",
-    "category": "Feuillard et accessoires",
-    "kind": "material",
-    "description": "Feuillard PP 16mm pour cerclage de charges moyennes à lourdes. Résistance supérieure au 12mm, compatible toutes cercleuses standard.",
-    "features": [
-      "PP renforcé 16mm",
-      "Résistance 2600 N",
-      "Compatible cercleuses standard",
-      "Bobine 2000 m",
-      "Charges moyennes à lourdes",
-      "Palettisation et emballage",
-      "Industrie et logistique"
-    ],
-    "image": "images/feuillard-pp-polypropylene-fond-gris.jpeg"
-  },
-  {
-    "slug": "feuillard-pp-9mm",
-    "name": "Feuillard PP polypropylène 9mm",
+    "slug": "feuillard-pp",
+    "name": "Feuillard PP polypropylène",
     "reference": "FE00PP0003",
     "category": "Feuillard et accessoires",
     "kind": "material",
-    "description": "Feuillard PP 9mm ultra-léger pour cerclage de petits fardeaux, journaux et emballages légers. Idéal cercleuses de table automatiques.",
+    "description": "Feuillard polypropylène léger et résistant pour le cerclage de cartons, fardeaux et charges palettisées. Compatible avec les cercleuses manuelles, de table et semi-automatiques. Disponible sur mesure selon la charge à cercler.",
     "features": [
-      "Format 9mm ultra-léger",
-      "Résistance 900 N",
-      "Idéal petits fardeaux",
-      "Compatible cercleuses de table",
-      "Presse, édition, imprimerie",
-      "Petits emballages",
-      "Cercleuses automatiques"
+      "PP léger et flexible",
+      "Couleur naturelle ou bleue",
+      "Compatible toutes cercleuses PP",
+      "Cerclage cartons et fardeaux",
+      "Palettisation et emballage",
+      "Transport et logistique"
+    ],
+    "customSize": true,
+    "aliases": [
+      "feuillard-pp-9mm",
+      "feuillard-pp-12mm",
+      "feuillard-pp-16mm"
     ],
     "image": "images/feuillard-pp-polypropylene-fond-gris.jpeg"
   },
@@ -816,38 +588,23 @@
     "image": "images/bobine-film-retractable-1.jpeg"
   },
   {
-    "slug": "film-vci-controlox-100m",
-    "name": "Film VCI Controlox 100m",
+    "slug": "film-vci-controlox",
+    "name": "Film VCI Controlox",
     "reference": "VC00FV0001",
     "category": "Films VCI anticorrosion",
     "kind": "material",
-    "description": "Film VCI Controlox anticorrosion 100m pour protection pièces métalliques. Inhibe la corrosion en phase vapeur, transparent pour contrôle visuel.",
+    "description": "Film VCI Controlox anticorrosion pour la protection des pièces métalliques. Inhibe la corrosion en phase vapeur, transparent pour le contrôle visuel. Disponible sur mesure, en toutes largeurs et longueurs de bobine.",
     "features": [
       "Technologie VCI Controlox phase vapeur",
       "Protection 24 mois sans contact",
       "Transparent — contrôle visuel",
-      "Largeur 100cm — bobine 100m",
       "Pièces métalliques usinées",
-      "Composants et assemblages métal",
-      "Stockage et transport longue durée"
+      "Export et stockage longue durée"
     ],
-    "image": "images/film-etirable-VCI.jpeg"
-  },
-  {
-    "slug": "film-vci-controlox-200m",
-    "name": "Film VCI Controlox 200m",
-    "reference": "VC00FV0002",
-    "category": "Films VCI anticorrosion",
-    "kind": "material",
-    "description": "Film VCI Controlox anticorrosion 200m grande longueur pour protection en série de pièces métalliques. Protection 24 mois garantie.",
-    "features": [
-      "Grande longueur 200m économique",
-      "VCI Controlox phase vapeur",
-      "Protection 24 mois",
-      "Transparent — contrôle visuel",
-      "Production en série de pièces métal",
-      "Stockage grande quantité",
-      "Export et transit longue durée"
+    "customSize": true,
+    "aliases": [
+      "film-vci-controlox-100m",
+      "film-vci-controlox-200m"
     ],
     "image": "images/film-etirable-VCI.jpeg"
   },
@@ -870,40 +627,26 @@
     "image": "images/film-bulle-vci-anticorrosion.jpeg"
   },
   {
-    "slug": "gaine-retractable-pe-100mm",
-    "name": "Gaine PE rétractable 100mm",
+    "slug": "gaine-retractable-pe",
+    "name": "Gaine PE rétractable",
     "reference": "FR00GA0001",
     "category": "Films rétractables",
     "kind": "material",
-    "description": "Gaine tubulaire PE rétractable 100mm de diamètre, idéale pour protéger produits cylindriques, tubes et profilés.",
+    "description": "Gaine tubulaire PE rétractable pour protéger produits cylindriques, tubes, profilés et grandes pièces, ou grouper plusieurs produits. Disponible sur mesure, dans tous les diamètres.",
     "features": [
-      "Format tubulaire 100mm de diamètre",
-      "Protection produits cylindriques",
+      "Format tubulaire",
       "Rétraction uniforme",
       "Transparent ou coloré",
+      "Longueur au choix",
       "Tubes, profilés, barres",
-      "Produits cylindriques",
       "Protection stockage et transport"
     ],
-    "image": "images/film-retractable-semi-tube.jpeg"
-  },
-  {
-    "slug": "gaine-retractable-pe-200mm",
-    "name": "Gaine PE rétractable 200mm",
-    "reference": "FR00GA0002",
-    "category": "Films rétractables",
-    "kind": "material",
-    "description": "Gaine PE rétractable 200mm pour protection de grandes pièces, groupage de produits et stockage longue durée.",
-    "features": [
-      "Format tubulaire 200mm de diamètre",
-      "Groupage de multiples produits",
-      "Protection renforcée",
-      "Longueur au choix",
-      "Protection grandes pièces",
-      "Groupage multi-produits",
-      "Stockage et transport longue durée"
+    "customSize": true,
+    "aliases": [
+      "gaine-retractable-pe-100mm",
+      "gaine-retractable-pe-200mm"
     ],
-    "image": "images/quatre-bobine-retractable.jpg"
+    "image": "images/film-retractable-semi-tube.jpeg"
   },
   {
     "slug": "gaine-vci-200mm",
@@ -1250,38 +993,24 @@
     "image": "images/enveloppe-matelassee-bulles-17x22-1.jpeg"
   },
   {
-    "slug": "porte-documents-adhesif-c4",
-    "name": "Pochette porte-documents C4 adhésive",
-    "reference": "ET00PD0001",
-    "category": "Etiquettes / porte-documents",
-    "kind": "material",
-    "description": "Pochette porte-documents C4 auto-adhésive à coller sur colis. Protège bon de livraison et facture de l'humidité. Transparente, peel and seal.",
-    "features": [
-      "Format C4 — 240x320mm",
-      "Auto-adhésive sur carton",
-      "Transparente — lecture sans ouvrir",
-      "Fermeture peel and seal",
-      "Bon de livraison sur colis",
-      "Documents de transport",
-      "Logistique e-commerce"
-    ],
-    "image": "images/enveloppe-blanche-porte-documents.jpeg"
-  },
-  {
-    "slug": "porte-documents-adhesif-c5",
-    "name": "Pochette porte-documents C5 adhésive",
+    "slug": "porte-documents-adhesif",
+    "name": "Pochette porte-documents adhésive",
     "reference": "ET00PD0002",
     "category": "Etiquettes / porte-documents",
     "kind": "material",
-    "description": "Pochette porte-documents C5 auto-adhésive format A5 pour bons de livraison sur colis moyens. Transparente et étanche à l'eau.",
+    "description": "Pochette porte-documents auto-adhésive à coller sur colis. Protège bon de livraison et facture de l'humidité. Transparente, fermeture peel and seal. Disponible sur mesure, dans tous les formats.",
     "features": [
-      "Format C5 — 165x230mm (A5)",
       "Auto-adhésive sur carton et PE",
-      "Transparente et étanche",
+      "Transparente — lecture sans ouvrir",
+      "Étanche à l'eau",
       "Fermeture peel and seal",
-      "Bon de livraison colis e-commerce",
-      "Documents A5 de transport",
-      "Etiquetage entrepôt"
+      "Bon de livraison sur colis",
+      "Logistique e-commerce"
+    ],
+    "customSize": true,
+    "aliases": [
+      "porte-documents-adhesif-c5",
+      "porte-documents-adhesif-c4"
     ],
     "image": "images/enveloppe-blanche-porte-documents.jpeg"
   },
@@ -1503,92 +1232,28 @@
     "image": "images/sac-ldpe-plastique-menu.jpeg"
   },
   {
-    "slug": "sac-pe-gaine-rouleau",
-    "name": "Sac PE gaine en rouleau",
-    "reference": "SA00GR0001",
-    "category": "Sacs en plastique",
-    "kind": "material",
-    "description": "Gaine PE en rouleau perforée pour confection de sacs à la demande. Economique, adapté conditionnement petites séries. Usage alimentaire possible.",
-    "features": [
-      "Gaine en rouleau — longueur au choix",
-      "Perforée tous les X cm",
-      "Economique, pas de suremballage",
-      "Contact alimentaire possible",
-      "Conditionnement produits irréguliers",
-      "Boulangerie, traiteur, primeur",
-      "Petites séries flexibles"
-    ],
-    "image": "images/sachet-plastique-categorie.jpeg"
-  },
-  {
-    "slug": "sac-pe-noir-opaque",
-    "name": "Sac PE noir opaque",
-    "reference": "SA00NO0001",
-    "category": "Sacs en plastique",
-    "kind": "material",
-    "description": "Sac PE noir opaque pour protection des produits sensibles à la lumière, confidentialité et usage industriel. Grande résistance mécanique.",
-    "features": [
-      "Noir opaque — protection lumière",
-      "Grande résistance mécanique",
-      "Confidentialité envois",
-      "Utilisable sous vide",
-      "Produits photosensibles",
-      "Envois confidentiels",
-      "Déchets industriels"
-    ],
-    "image": "images/sachet-plastique-categorie.jpeg"
-  },
-  {
-    "slug": "sac-pe-renforce-100my",
-    "name": "Sac PE renforcé 100µ",
-    "reference": "SA00RE0001",
-    "category": "Sacs en plastique",
-    "kind": "material",
-    "description": "Sac PE haute épaisseur 100µ pour charges lourdes et produits abrasifs. Résistance maximale à la déchirure et perforation.",
-    "features": [
-      "Épaisseur 100µ haute résistance",
-      "Résistance maximale déchirure",
-      "Produits abrasifs et lourds",
-      "Grande contenance",
-      "Industrie lourde et métallurgie",
-      "Granulés et poudres",
-      "Produits lourds et coupants"
-    ],
-    "image": "images/sachet-plastique-categorie.jpeg"
-  },
-  {
-    "slug": "sac-pe-transparent-50my",
-    "name": "Sac PE transparent 50µ",
+    "slug": "sac-pe",
+    "name": "Sac PE polyéthylène",
     "reference": "SA00TR0001",
     "category": "Sacs en plastique",
     "kind": "material",
-    "description": "Sac polyéthylène transparent 50µ, étanche et résistant. Conditionnement alimentaire ou industriel. Fermeture à soudure ou en liasse.",
+    "description": "Sac en polyéthylène étanche et résistant pour le conditionnement alimentaire, industriel ou logistique. Fabriqué sur mesure : transparent ou noir opaque, épaisseur standard 50µ ou renforcée 100µ, fermeture zip refermable, ou en gaine rouleau perforée pour confectionner vos sacs à la demande.",
     "features": [
-      "PE transparent 50µ",
-      "Étanche et résistant à la déchirure",
+      "Transparent ou noir opaque (protection lumière, confidentialité)",
+      "Épaisseur 50µ standard ou 100µ renforcée",
+      "Fermeture zip press-to-close refermable en option",
+      "Gaine en rouleau perforée, longueur au choix",
       "Conforme contact alimentaire",
-      "Disponible en plusieurs formats",
-      "Conditionnement alimentaire",
-      "Stockage pièces industrielles",
-      "Emballage produits secs"
+      "Étanche, résistant à la déchirure et à la perforation",
+      "Alimentaire, industrie, pièces détachées et logistique"
     ],
-    "image": "images/sachet-plastique-2.jpeg"
-  },
-  {
-    "slug": "sac-zipper-pe",
-    "name": "Sac zip PE refermable",
-    "reference": "SA00ZP0001",
-    "category": "Sacs en plastique",
-    "kind": "material",
-    "description": "Sac PE avec fermeture zip press-to-close, refermable et réutilisable. Etanche à l'air et l'humidité. Nombreux formats disponibles.",
-    "features": [
-      "Fermeture zip press-to-close",
-      "Refermable et réutilisable",
-      "Etanche à l'air et humidité",
-      "Nombreux formats disponibles",
-      "Stockage pièces détachées",
-      "Alimentation et pharmacie",
-      "Transport échantillons"
+    "customSize": true,
+    "aliases": [
+      "sac-pe-transparent-50my",
+      "sac-pe-renforce-100my",
+      "sac-pe-noir-opaque",
+      "sac-zipper-pe",
+      "sac-pe-gaine-rouleau"
     ],
     "image": "images/sachet-plastique-2.jpeg"
   },
@@ -1611,38 +1276,24 @@
     "image": "images/enveloppe-matelassee-bulles-17x22-1.jpeg"
   },
   {
-    "slug": "sachet-zip-vci-200x300",
-    "name": "Sachet zip VCI 200x300mm",
+    "slug": "sachet-zip-vci",
+    "name": "Sachet zip VCI",
     "reference": "SA00ZV0001",
     "category": "Sacs en plastique",
     "kind": "material",
-    "description": "Sachet zip VCI 200x300mm pour protection anticorrosion de pièces métalliques. Film VCI diffuse inhibiteurs de corrosion en phase vapeur pendant 24 mois.",
+    "description": "Sachet zip VCI pour la protection anticorrosion de pièces métalliques. Le film VCI diffuse des inhibiteurs de corrosion en phase vapeur pendant 24 mois. Disponible sur mesure, dans tous les formats.",
     "features": [
       "Film VCI anticorrosion phase vapeur",
       "Fermeture zip refermable",
       "Protection 24 mois garantie",
       "Transparent — contrôle visuel",
       "Pièces métalliques usinées",
-      "Composants électroniques",
       "Stockage et export longue durée"
     ],
-    "image": "images/sachet-vci-zip-anticorrosion-150x250-1.jpeg"
-  },
-  {
-    "slug": "sachet-zip-vci-400x600",
-    "name": "Sachet zip VCI 400x600mm",
-    "reference": "SA00ZV0002",
-    "category": "Sacs en plastique",
-    "kind": "material",
-    "description": "Sachet zip VCI grand format 400x600mm pour pièces volumineuses. Protection anticorrosion longue durée, fermeture zip renforcée.",
-    "features": [
-      "Grand format 400x600mm",
-      "VCI protection 24 mois",
-      "Fermeture zip renforcée",
-      "Pièces volumineuses et assemblages",
-      "Grandes pièces usinées",
-      "Assemblages mécaniques",
-      "Export longue durée"
+    "customSize": true,
+    "aliases": [
+      "sachet-zip-vci-200x300",
+      "sachet-zip-vci-400x600"
     ],
     "image": "images/sachet-vci-zip-anticorrosion-150x250-1.jpeg"
   },
