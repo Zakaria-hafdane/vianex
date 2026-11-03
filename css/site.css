@@ -277,8 +277,8 @@ textarea.field{resize:vertical;}
 /* Footer */
 .site-footer{background:var(--navy-deep);padding:5rem 0 2rem;color:var(--navy-foreground);}
 .footer-grid{display:grid;gap:3rem;}
-.footer-logo{display:inline-block;border-radius:calc(var(--radius) - 2px);background:var(--background);padding:.75rem 1rem;}
-.footer-logo img{height:2.25rem;width:auto;}
+.footer-logo{display:inline-block;}
+.footer-logo img{height:2.75rem;width:auto;}
 .footer-tag{margin-top:1.25rem;font-size:.875rem;line-height:1.25rem;color:var(--nf-70);}
 .site-footer h4{font-weight:700;}
 .footer-list{margin-top:1.25rem;font-size:.875rem;line-height:1.25rem;color:var(--nf-70);}

@@ -83,7 +83,7 @@ function renderShell() {
     footer.innerHTML = `<footer class="site-footer">
       <div class="container footer-grid">
         <div>
-          <div class="footer-logo"><img src="assets/vianex-logo-new.png" alt="VIANEX" loading="lazy" width="900" height="174"></div>
+          <div class="footer-logo"><img src="assets/vianex-logo-light.png" alt="VIANEX" loading="lazy" width="900" height="174"></div>
           <p class="footer-tag">Machines &amp; Emballages — Des solutions adaptées à tous vos besoins.</p>
         </div>
         <div><h4>Navigation</h4><ul class="footer-list">${NAV.map(([l, h]) => `<li><a href="${href(h)}">${l}</a></li>`).join('')}<li><a href="catalog.html">Catalogue</a></li></ul></div>
