@@ -564,3 +564,4 @@ textarea.field{resize:vertical;}
   .footer-grid>div:first-child,.footer-grid>div:last-child{grid-column:1/-1;}
   .footer-bottom{margin-top:2.5rem;padding-top:1.5rem;}
 }
+.about-media img{width:100%;}
