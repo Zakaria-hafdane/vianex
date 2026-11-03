@@ -571,3 +571,11 @@ textarea.field{resize:vertical;}
 .kind-tile-product img{object-fit:contain;padding:.5rem .5rem 3.75rem;}
 .kind-tile-product::after{background:linear-gradient(180deg,transparent 55%,color-mix(in oklab,var(--navy-deep) 92%,transparent) 100%);}
 @media(max-width:767px){.kind-tile-product img{padding:.5rem .5rem 3rem;}}
+
+/* ---------- Language switch ---------- */
+.i18n-wait body{visibility:hidden;}
+.lang-switch{display:inline-flex;align-items:center;gap:2px;padding:2px;border:1px solid var(--border);border-radius:999px;background:var(--background);}
+.lang-switch a{display:inline-grid;place-items:center;min-width:2rem;height:1.75rem;padding:0 .4rem;border-radius:999px;font-size:.75rem;font-weight:700;letter-spacing:.02em;color:var(--muted-foreground);transition:color .15s,background .15s;}
+.lang-switch a:hover{color:var(--navy);}
+.lang-switch a[aria-current="true"]{background:var(--navy);color:#fff;}
+@media(max-width:380px){.lang-switch a{min-width:1.7rem;padding:0 .25rem;font-size:.7rem;}}
