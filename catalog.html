@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Parcourez les machines et matériaux d'emballage industriel du catalogue VIANEX.">
+  <title>Catalogue | VIANEX</title>
+  <link rel="icon" type="image/png" href="assets/home/favicon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Montserrat:wght@600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/site.css?v=42">
+  <script>document.documentElement.classList.add('js');</script>
+  <script src="https://unpkg.com/lucide@0.469.0/dist/umd/lucide.min.js" defer></script>
+  <script src="js/site.js?v=42" defer></script>
+</head>
+<body data-page="catalog">
+  <a class="skip-link" href="#main-content">Aller au contenu</a>
+  <div id="site-header"></div>
+  <main id="main-content" class="page-main catalog-page">
+    <section class="catalog-heading">
+      <div class="container">
+        <p class="eyebrow">Catalogue produits</p>
+        <div class="catalog-title-row"><h1>Trouvez la bonne<br><em>solution d'emballage.</em></h1><p>Machines et matériaux pour préparer, fermer, protéger et expédier.</p></div>
+        <div class="catalog-rule"><span></span><span>143 PRODUITS INDEXÉS</span></div>
+      </div>
+    </section>
+    <section class="container catalog-browser" aria-label="Catalogue produits">
+      <aside class="catalog-filters">
+        <label class="search-field"><span class="filter-label">Rechercher</span><span class="search-input-wrap"><svg aria-hidden="true" viewBox="0 0 24 24"><circle cx="10.8" cy="10.8" r="6.5"></circle><path d="m16 16 4.2 4.2"></path></svg><input id="product-search" type="search" placeholder="Nom, référence, usage" autocomplete="off"></span></label>
+        <fieldset class="kind-filter"><legend class="filter-label">Type de produit</legend>
+          <label><input type="radio" name="kind" value="all" checked><span>Tout le catalogue</span><span class="filter-check"></span></label>
+          <label><input type="radio" name="kind" value="machine"><span>Machines</span><span class="filter-check"></span></label>
+          <label><input type="radio" name="kind" value="material"><span>Matériaux</span><span class="filter-check"></span></label>
+        </fieldset>
+        <label class="category-filter"><span class="filter-label">Famille</span><select id="category-filter"><option value="">Toutes les familles</option></select></label>
+        <label class="category-filter"><span class="filter-label">Trier par</span><select id="sort-filter"><option value="name">Nom, A à Z</option><option value="category">Famille</option></select></label>
+        <button class="reset-filter" id="reset-filters" type="button">Réinitialiser les filtres <span aria-hidden="true">↺</span></button>
+      </aside>
+      <div class="catalog-results">
+        <div class="results-toolbar"><p id="results-count" aria-live="polite">143 références</p><span class="results-code">CAT / 001–143</span></div>
+        <div class="product-grid catalog-grid" id="catalog-products" aria-live="polite"><p class="loading-note">Chargement du catalogue…</p></div>
+        <button class="load-more btn btn-navy btn-xl" id="load-more" type="button" hidden>Afficher plus</button>
+        <p class="empty-state" id="empty-state" hidden>Aucun résultat. Modifiez vos filtres.</p>
+      </div>
+    </section>
+  </main>
+  <div id="site-footer"></div>
+</body>
+</html>

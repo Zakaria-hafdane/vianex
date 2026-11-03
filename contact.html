@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Contact | VIANEX — Tanger</title>
+  <meta name="description" content="Contactez VIANEX à Tanger : demande de devis, email, téléphone, WhatsApp et adresse en Zone Industrielle Gzenaya.">
+  <link rel="icon" type="image/png" href="assets/home/favicon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Montserrat:wght@600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/site.css?v=42">
+  <script>document.documentElement.classList.add('js');</script>
+  <script src="https://unpkg.com/lucide@0.469.0/dist/umd/lucide.min.js" defer></script>
+  <script src="js/site.js?v=42" defer></script>
+</head>
+<body data-page="contact">
+  <a class="skip-link" href="#main-content">Aller au contenu</a>
+  <div id="site-header"></div>
+  <main id="main-content" class="page-main">
+    <section class="catalog-heading">
+      <div class="container">
+        <p class="eyebrow">Contact</p>
+        <div class="catalog-title-row"><h1>Contactez-<br><em>nous</em></h1><p>Décrivez votre besoin, notre équipe commerciale revient vers vous rapidement.</p></div>
+        <div class="contact-quick">
+          <a href="tel:+212664779295"><i data-lucide="phone"></i> +212 664 779 295</a>
+          <a href="mailto:vianex.sarl@gmail.com"><i data-lucide="mail"></i> vianex.sarl@gmail.com</a>
+          <a class="js-wa" href="https://wa.me/212664779295" target="_blank" rel="noopener noreferrer"><i data-lucide="message-circle"></i> WhatsApp</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="section bg-surface contact-page-section">
+      <div class="container">
+        <div class="contact-grid">
+          <div class="contact-side">
+            <div class="info-card"><div class="info-icon"><i data-lucide="mail"></i></div><div><p class="info-label">Email</p><a class="info-value" href="mailto:vianex.sarl@gmail.com">vianex.sarl@gmail.com</a></div></div>
+            <div class="info-card"><div class="info-icon"><i data-lucide="phone"></i></div><div><p class="info-label">Téléphone</p><a class="info-value" href="tel:+212664779295">+212 664 779 295</a></div></div>
+            <div class="info-card"><div class="info-icon"><i data-lucide="map-pin"></i></div><div><p class="info-label">Adresse</p><a class="info-value" href="https://maps.app.goo.gl/HXFnm5qyad69JsRP8" target="_blank" rel="noopener noreferrer">Zone Industrielle Gzenaya, Tanger, Maroc</a></div></div>
+            <div class="info-card"><div class="info-icon"><i data-lucide="clock"></i></div><div><p class="info-label">Horaires</p><p class="info-value">Lundi – Vendredi, 09:00 – 18:00</p></div></div>
+            <a class="btn btn-navy btn-xl btn-block js-wa" href="https://wa.me/212664779295" target="_blank" rel="noopener noreferrer"><i data-lucide="message-circle"></i> Discuter sur WhatsApp</a>
+            <div class="map-wrap">
+              <iframe title="Localisation VIANEX — Tanger" src="https://www.google.com/maps?q=35.7158947,-5.8960064&amp;z=15&amp;output=embed" loading="lazy"></iframe>
+            </div>
+          </div>
+          <div>
+            <form class="quote-form" id="quote-form" novalidate>
+              <label>Nom complet<input name="name" type="text" class="field"><span class="field-err" data-err="name"></span></label>
+              <label>Société<input name="company" type="text" class="field"><span class="field-err" data-err="company"></span></label>
+              <label>Email professionnel<input name="email" type="email" class="field"><span class="field-err" data-err="email"></span></label>
+              <label>Téléphone<input name="phone" type="tel" class="field"><span class="field-err" data-err="phone"></span></label>
+              <label class="span-2">Catégorie de produits
+                <select name="category" class="field">
+                  <option value="" disabled selected>Sélectionnez une catégorie</option>
+                  <option>Solutions réseau Cisco</option>
+                  <option>Emballage industriel</option>
+                  <option>Machines et équipements d'emballage</option>
+                  <option>EPI — Protection individuelle</option>
+                  <option>Fournitures industrielles</option>
+                  <option>Clips et pièces en caoutchouc moulé</option>
+                  <option>Autre demande</option>
+                </select>
+                <span class="field-err" data-err="category"></span>
+              </label>
+              <label class="span-2">Message<textarea name="message" rows="5" class="field" placeholder="Produits, quantités, délais souhaités…"></textarea><span class="field-err" data-err="message"></span></label>
+              <!-- Spam trap: real visitors never see or fill this -->
+              <input type="checkbox" name="botcheck" class="hp-field" tabindex="-1" autocomplete="off" aria-hidden="true">
+              <div class="form-actions span-2">
+                <button type="submit" class="btn btn-cta btn-xl" id="quote-submit">Envoyer ma demande <i data-lucide="arrow-right"></i></button>
+                <button type="button" class="btn btn-whatsapp btn-xl" id="quote-whatsapp"><i data-lucide="message-circle"></i> Envoyer par WhatsApp</button>
+              </div>
+              <p class="form-status span-2" id="form-status" role="status" aria-live="polite" hidden></p>
+            </form>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <div id="site-footer"></div>
+</body>
+</html>
