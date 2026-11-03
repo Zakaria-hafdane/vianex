@@ -20,7 +20,7 @@
       "applicateur-manuel-film-etirable-45cm",
       "applicateur-manuel-film-etirable-50cm"
     ],
-    "image": "images/aplicador_manual_film_estirable_plastico_diametro_interior_50mm_economico.jpg"
+    "image": "images/products/aplicador_manual_film_estirable_plastico_diametro_interior_50mm_economico.png"
   },
   {
     "slug": "betterpack-333eplus",
@@ -35,7 +35,7 @@
       "40 bandes/min",
       "Im"
     ],
-    "image": "images/humecteur-papier-gomme-semi-auto-avec-papier.jpg"
+    "image": "images/products/humecteur-papier-gomme-semi-auto-avec-papier.png"
   },
   {
     "slug": "betterpack-555e",
@@ -50,7 +50,7 @@
       "Compteur de production",
       "Mémoire des régla"
     ],
-    "image": "images/humecteur-papier-gomme-semi-auto-avec-papier.jpg"
+    "image": "images/products/humecteur-papier-gomme-semi-auto-avec-papier.png"
   },
   {
     "slug": "boite-carton",
@@ -79,7 +79,7 @@
       "boite-carton-personnalisee",
       "caisse-palette-carton"
     ],
-    "image": "images/boite-carton-categorie.png"
+    "image": "images/products/boite-carton-categorie.png"
   },
   {
     "slug": "boucles-metalliques-13mm",
@@ -97,7 +97,7 @@
       "Accessoire feuillard 13mm",
       "Logistique et transport"
     ],
-    "image": "images/feuillard-metallique-rouleau-2.jpeg"
+    "image": "images/products/feuillard-metallique-rouleau-2.png"
   },
   {
     "slug": "calage-nid-abeille-kraft",
@@ -115,7 +115,7 @@
       "Intercalaires entre couches",
       "Alternative carton alvéolaire"
     ],
-    "image": "images/calage-protection-categorie.png"
+    "image": "images/products/calage-protection-categorie.png"
   },
   {
     "slug": "chariot-dispenser-film-etirable",
@@ -137,7 +137,7 @@
       "Mobilité totale grâce aux roulettes pivotantes",
       "Entretien minimal — robustesse longue durée"
     ],
-    "image": "images/chariot-devidoir-feuillard.jpeg"
+    "image": "images/products/chariot-devidoir-feuillard.png"
   },
   {
     "slug": "chariot-manutention-600kg",
@@ -155,7 +155,7 @@
       "Entrepôt et atelier",
       "Manutention légère quotidienne"
     ],
-    "image": "images/chariot-devidoir-feuillard.jpeg"
+    "image": "images/products/chariot-devidoir-feuillard.png"
   },
   {
     "slug": "chips-calage-polystyrene",
@@ -173,7 +173,7 @@
       "E-commerce et expédition",
       "Objets irréguliers et fragiles"
     ],
-    "image": "images/calage-protection-categorie.png"
+    "image": "images/products/calage-protection-categorie.png"
   },
   {
     "slug": "coussin-air",
@@ -195,7 +195,7 @@
       "coussin-air-200x100mm",
       "coussin-air-200x300mm"
     ],
-    "image": "images/coussin-air-remplissage-calage-PR00AIA705.jpeg"
+    "image": "images/products/coussin-air-remplissage-calage-pr00aia705.png"
   },
   {
     "slug": "devidoir-ergonomique",
@@ -217,7 +217,7 @@
       "Compatible avec tous les films manuels 500 mm : standard, renforcé, noir, anti-UV",
       "Entretien zéro — aucun consommable"
     ],
-    "image": "img/Film et palettisation/bobine-film-mini-sans-mandrin-applicateur-3.jpeg"
+    "image": "images/products/bobine-film-mini-sans-mandrin-applicateur-3.png"
   },
   {
     "slug": "etiqueteuse-manuelle-palette",
@@ -235,7 +235,7 @@
       "Application bons de livraison",
       "Marquage produits et colis"
     ],
-    "image": "images/kit-cerclage-spk.jpeg"
+    "image": "images/products/kit-cerclage-spk.png"
   },
   {
     "slug": "etiquette",
@@ -260,7 +260,7 @@
       "etiquette-thermique-100x150",
       "etiquette-transparente-105x148"
     ],
-    "image": "images/enveloppes-porte-documents-blanc-2.jpeg"
+    "image": "images/products/enveloppes-porte-documents-blanc-2.png"
   },
   {
     "slug": "feuillard-acier-16mm",
@@ -278,7 +278,7 @@
       "Bois, granite, matériaux lourds",
       "Export longue distance"
     ],
-    "image": "images/feuillard-metallique-rouleau-2.jpeg"
+    "image": "images/products/feuillard-metallique-rouleau-2.png"
   },
   {
     "slug": "feuillard-pet-13mm",
@@ -296,7 +296,7 @@
       "Stockage longue durée",
       "Industrie bois, pierre, métal"
     ],
-    "image": "images/feuillard-polyester-vert-pet-fond-gris.jpeg"
+    "image": "images/products/feuillard-polyester-vert-pet-fond-gris.png"
   },
   {
     "slug": "feuillard-pp",
@@ -319,7 +319,7 @@
       "feuillard-pp-12mm",
       "feuillard-pp-16mm"
     ],
-    "image": "images/feuillard-pp-polypropylene-fond-gris.jpeg"
+    "image": "images/products/feuillard-pp-polypropylene-fond-gris.png"
   },
   {
     "slug": "film-etirable-biodegradable-pla",
@@ -341,7 +341,7 @@
       "Compostable — réducteur de déchets plastiques en décharge",
       "Certifié conforme aux normes européennes de compostabilité"
     ],
-    "image": "img/Film et palettisation/bobine-film-etirable-manuel-biodegradable-1.jpeg"
+    "image": "images/products/bobine-film-etirable-manuel-biodegradable-1.png"
   },
   {
     "slug": "film-etirable-imprime-personnalise",
@@ -363,7 +363,7 @@
       "Outil anti-contrefaçon pour les produits de marque",
       "Aucun surcoût d'étiquetage supplémentaire"
     ],
-    "image": "images/film-impreso.png"
+    "image": "images/products/film-impreso.png"
   },
   {
     "slug": "film-etirable-machine-17my",
@@ -385,7 +385,7 @@
       "Coût d'emballage par palette nettement inférieur",
       "Compatible avec les principales marques de banderoleuses du marché"
     ],
-    "image": "img/Film et palettisation/film-etirable-preetire-42cm-367x367.jpeg"
+    "image": "images/products/film-etirable-preetire-42cm-367x367.png"
   },
   {
     "slug": "film-etirable-machine-power-stretch",
@@ -407,7 +407,7 @@
       "Protection renforcée contre les chocs et vibrations lors du transport",
       "Économie globale grâce à la réduction du nombre de tours de film"
     ],
-    "image": "img/Film et palettisation/film-etirable-bobine-film-carton-367x367.jpeg"
+    "image": "images/products/film-etirable-bobine-film-carton-367x367.png"
   },
   {
     "slug": "film-etirable-noir-23my",
@@ -429,7 +429,7 @@
       "Identification rapide des palettes sécurisées dans un entrepôt",
       "Même facilité d'utilisation que le film standard"
     ],
-    "image": "img/Film et palettisation/bobines-film-etirable-noir-manuel-367x367.jpeg"
+    "image": "images/products/bobines-film-etirable-noir-manuel-367x367.png"
   },
   {
     "slug": "film-etirable-pre-etire-8my",
@@ -447,7 +447,7 @@
       "Logistique et transport",
       "Réduction des coûts emballage"
     ],
-    "image": "images/film-etirable-automatique-categories.jpeg"
+    "image": "images/products/film-etirable-automatique-categories.png"
   },
   {
     "slug": "film-etirable-renforce-30my",
@@ -469,7 +469,7 @@
       "Excellente adhérence film sur film sans colle",
       "Compatible avec tous les applicateurs manuels 500 mm"
     ],
-    "image": "img/Film et palettisation/bobine-film-etirable-blanc-manuel-5-367x367.jpeg"
+    "image": "images/products/bobine-film-etirable-blanc-manuel-5-367x367.png"
   },
   {
     "slug": "film-etirable-standard-23my",
@@ -491,7 +491,7 @@
       "Résistance suffisante pour charges légères à moyennes",
       "Stockage facile, bobines légères et compactes"
     ],
-    "image": "img/Film et palettisation/bobine-film-etirable-blanc-manuel-4-367x367.jpeg"
+    "image": "images/products/bobine-film-etirable-blanc-manuel-4-367x367.png"
   },
   {
     "slug": "film-etirable-uv-protection",
@@ -513,7 +513,7 @@
       "Réduction des reprises de banderolage pour les palettes longue durée",
       "Même manipulation qu'un film standard — aucune formation spécifique"
     ],
-    "image": "img/Film et palettisation/bobines-film-etirable-bleu-367x367.jpeg"
+    "image": "images/products/bobines-film-etirable-bleu-367x367.png"
   },
   {
     "slug": "film-mousse-polyethylene",
@@ -531,7 +531,7 @@
       "Meubles et mobilier",
       "Automobiles et aéronautique"
     ],
-    "image": "images/mousse-expanse-cartons.jpeg"
+    "image": "images/products/mousse-expanse-cartons.png"
   },
   {
     "slug": "film-retractable-pof-polyolefine",
@@ -549,7 +549,7 @@
       "Emballage produits frais",
       "Alternative éco au PVC"
     ],
-    "image": "images/bobine-film-retractable-pof-30-cm-2.jpeg"
+    "image": "images/products/bobine-film-retractable-pof-30-cm-2.png"
   },
   {
     "slug": "film-retractable-pre-decoupe",
@@ -567,7 +567,7 @@
       "Coiffage de palettes",
       "Présentation et protection"
     ],
-    "image": "images/film-retractable-categorie.jpg"
+    "image": "images/products/film-retractable-categorie.png"
   },
   {
     "slug": "film-retractable-pvc-300mm",
@@ -585,7 +585,7 @@
       "Protection produits unitaires",
       "Présentation soignée"
     ],
-    "image": "images/bobine-film-retractable-1.jpeg"
+    "image": "images/products/bobine-film-retractable-1.png"
   },
   {
     "slug": "film-vci-controlox",
@@ -606,7 +606,7 @@
       "film-vci-controlox-100m",
       "film-vci-controlox-200m"
     ],
-    "image": "images/film-etirable-VCI.jpeg"
+    "image": "images/products/film-etirable-vci.png"
   },
   {
     "slug": "film-vci-noir-100m",
@@ -624,7 +624,7 @@
       "Pièces photosensibles",
       "Stockage sous faible luminosité"
     ],
-    "image": "images/film-bulle-vci-anticorrosion.jpeg"
+    "image": "images/products/film-bulle-vci-anticorrosion.png"
   },
   {
     "slug": "gaine-retractable-pe",
@@ -646,7 +646,7 @@
       "gaine-retractable-pe-100mm",
       "gaine-retractable-pe-200mm"
     ],
-    "image": "images/film-retractable-semi-tube.jpeg"
+    "image": "images/products/film-retractable-semi-tube.png"
   },
   {
     "slug": "gaine-vci-200mm",
@@ -664,7 +664,7 @@
       "Tubes et canalisations",
       "Stockage longue durée pièces longues"
     ],
-    "image": "images/demitube-plasttique-vci-100cm-2.jpeg"
+    "image": "images/products/demitube-plasttique-vci-100cm-2.png"
   },
   {
     "slug": "graco-invisipac-hm25c",
@@ -682,7 +682,7 @@
       "Fermeture de boîtes en fin de ligne",
       "Industries agroalimentaires et pharmaceutiques"
     ],
-    "image": "images/Sistema_aplicador_cola_cajas-1.jpg"
+    "image": "images/products/sistema_aplicador_cola_cajas-1.png"
   },
   {
     "slug": "graco-invisipac-hm50c",
@@ -700,7 +700,7 @@
       "Fermeture de cartons grande série",
       "Secteur pharmaceutique et FMCG"
     ],
-    "image": "images/systeme-application-colle-graco-hot-melt-thermofusible.jpeg"
+    "image": "images/products/systeme-application-colle-graco-hot-melt-thermofusible.png"
   },
   {
     "slug": "hsm-compacteur-c200",
@@ -715,7 +715,7 @@
       "Conteneur 1100L",
       "Vidage automatique."
     ],
-    "image": "img/Presses à balles/presse-compacteur-v-press-503-1.jpeg"
+    "image": "images/products/presse-compacteur-v-press-503-1.png"
   },
   {
     "slug": "hsm-compacteur-c500",
@@ -730,7 +730,7 @@
       "Pour grande distribution et industrie",
       "Report de données IoT."
     ],
-    "image": "img/Presses à balles/presse-compacteur-v-press-818-plus-1-367x367.jpeg"
+    "image": "images/products/presse-compacteur-v-press-818-plus-1-367x367.png"
   },
   {
     "slug": "hsm-h-press-200",
@@ -745,7 +745,7 @@
       "Balles de 300kg",
       "Idéale industrie continue."
     ],
-    "image": "img/Presses à balles/v-press-60-hsm.jpeg"
+    "image": "images/products/v-press-60-hsm.png"
   },
   {
     "slug": "hsm-profipack-c400",
@@ -763,7 +763,7 @@
       "Entrepôts grande distribution",
       "Remplacement calage plastique par carton recyclé"
     ],
-    "image": "images/broyeur-cartons-industries-profipack.jpg"
+    "image": "images/products/broyeur-cartons-industries-profipack.png"
   },
   {
     "slug": "hsm-profipack-p425",
@@ -781,7 +781,7 @@
       "Centres de distribution industriels",
       "E-commerce grande échelle"
     ],
-    "image": "images/broyeur-carton-industriel-profipack425-2.jpeg"
+    "image": "images/products/broyeur-carton-industriel-profipack425-2.png"
   },
   {
     "slug": "hsm-v-press-1160",
@@ -796,7 +796,7 @@
       "70kg plastique",
       "Compacteur idéal grande surf"
     ],
-    "image": "img/Presses à balles/presse-compacteur-v-press-1160-eco-367x367.jpeg"
+    "image": "images/products/presse-compacteur-v-press-1160-eco-367x367.png"
   },
   {
     "slug": "hsm-v-press-504",
@@ -812,7 +812,7 @@
       "230V",
       "Pour PME."
     ],
-    "image": "img/Presses à balles/v-press-504.jpeg"
+    "image": "images/products/v-press-504.png"
   },
   {
     "slug": "manchon-retractable-pe",
@@ -830,7 +830,7 @@
       "Bouteilles, boîtes, conserves",
       "Présentation et protection"
     ],
-    "image": "images/quatre-bobine-retractable.jpg"
+    "image": "images/products/quatre-bobine-retractable.png"
   },
   {
     "slug": "marsh-td2100",
@@ -845,7 +845,7 @@
       "Idéal pour faible volume",
       "Compatible papier kraft"
     ],
-    "image": "images/humecteur-papier-gommé-manuel.jpg"
+    "image": "images/products/humecteur-papier-gomm--manuel.png"
   },
   {
     "slug": "marsh-td2200",
@@ -860,7 +860,7 @@
       "20 bandes/min",
       "Économique."
     ],
-    "image": "images/humecteur-papier-gomme-semi-auto-avec-papier.jpg"
+    "image": "images/products/humecteur-papier-gomme-semi-auto-avec-papier.png"
   },
   {
     "slug": "mousse-polyethylene-2mm",
@@ -878,7 +878,7 @@
       "Protection vitres et miroirs",
       "Séparation couches palettes"
     ],
-    "image": "images/mousse-expanse-cartons.jpeg"
+    "image": "images/products/mousse-expanse-cartons.png"
   },
   {
     "slug": "papier-bulle-50cm",
@@ -896,7 +896,7 @@
       "Rembourrage colis",
       "Vitres, céramiques, électronique"
     ],
-    "image": "images/enveloppe-matelassee-bulles-17x22-1.jpeg"
+    "image": "images/products/enveloppe-matelassee-bulles-17x22-1.png"
   },
   {
     "slug": "papier-kraft-calage-70g",
@@ -914,7 +914,7 @@
       "Calage léger à moyen",
       "Rembourrage recyclable"
     ],
-    "image": "images/machines-coussins-papier-kraft-8001.png"
+    "image": "images/products/machines-coussins-papier-kraft-8001.png"
   },
   {
     "slug": "papier-kraft-vci-90g",
@@ -932,7 +932,7 @@
       "Emballage de pièces isolées",
       "Alternative éco aux films plastiques VCI"
     ],
-    "image": "images/papier-kraft-anticorrosion-VCI-controlox.jpeg"
+    "image": "images/products/papier-kraft-anticorrosion-vci-controlox.png"
   },
   {
     "slug": "pince-cerclage-manuelle",
@@ -950,7 +950,7 @@
       "Sans source d'énergie",
       "Entrepôt et expédition"
     ],
-    "image": "images/chariot-devidoir-feuillard.jpeg"
+    "image": "images/products/chariot-devidoir-feuillard.png"
   },
   {
     "slug": "plateau-tournant-manuel",
@@ -972,7 +972,7 @@
       "Rotation fluide et silencieuse grâce aux roulements à billes",
       "Robustesse longue durée — structure acier galvanisé"
     ],
-    "image": "img/Film et palettisation/bobine-transparente-applicateur-367x367.jpeg"
+    "image": "images/products/bobine-transparente-applicateur-367x367.png"
   },
   {
     "slug": "pochette-matelassee-b5",
@@ -990,7 +990,7 @@
       "Documents, photos, livres",
       "E-commerce objets délicats"
     ],
-    "image": "images/enveloppe-matelassee-bulles-17x22-1.jpeg"
+    "image": "images/products/enveloppe-matelassee-bulles-17x22-1.png"
   },
   {
     "slug": "porte-documents-adhesif",
@@ -1012,7 +1012,7 @@
       "porte-documents-adhesif-c5",
       "porte-documents-adhesif-c4"
     ],
-    "image": "images/enveloppe-blanche-porte-documents.jpeg"
+    "image": "images/products/enveloppe-blanche-porte-documents.png"
   },
   {
     "slug": "rolls-plateau-roulant",
@@ -1030,7 +1030,7 @@
       "Atelier et production",
       "Logistique courte distance"
     ],
-    "image": "images/table-preparation-commande-spk-2.jpeg"
+    "image": "images/products/table-preparation-commande-spk-2.png"
   },
   {
     "slug": "ruban-double-face-50mm",
@@ -1048,7 +1048,7 @@
       "Fixation moquette et mousses",
       "Assemblage cartons secondaires"
     ],
-    "image": "images/ruban-adhesif-double-face-categories.jpeg"
+    "image": "images/products/ruban-adhesif-double-face-categories.png"
   },
   {
     "slug": "ruban-kraft-gomme-70mm",
@@ -1066,7 +1066,7 @@
       "E-commerce éco-responsable",
       "Joints et renforts cartons"
     ],
-    "image": "images/ruban-papier-krepp-peintre-masquage.jpeg"
+    "image": "images/products/ruban-papier-krepp-peintre-masquage.png"
   },
   {
     "slug": "ruban-kraft-papier-personnalise",
@@ -1085,7 +1085,7 @@
       "Branding à l'expédition",
       "Kraft brun ou blanc"
     ],
-    "image": "images/montage-rubans-adhesifs-imprimes-personnalise-categorie.jpeg"
+    "image": "images/products/montage-rubans-adhesifs-imprimes-personnalise-categorie.png"
   },
   {
     "slug": "ruban-large-75mm",
@@ -1103,7 +1103,7 @@
       "Fixation calages et protections",
       "Renfort joints boîtes lourdes"
     ],
-    "image": "images/applicateur-ruban-adhesif-categories.jpeg"
+    "image": "images/products/applicateur-ruban-adhesif-categories.png"
   },
   {
     "slug": "ruban-pp-acrylique-48mm-beige",
@@ -1121,7 +1121,7 @@
       "Fermeture cartons courants",
       "Conforme normes EU"
     ],
-    "image": "images/ruban-adhesif-pvc-categorie.jpeg"
+    "image": "images/products/ruban-adhesif-pvc-categorie.png"
   },
   {
     "slug": "ruban-pp-acrylique-48mm-transparent",
@@ -1139,7 +1139,7 @@
       "Stockage 12 mois",
       "Conforme normes EU"
     ],
-    "image": "images/ruban-adhesif-acrylique-transp.jpeg"
+    "image": "images/products/ruban-adhesif-acrylique-transp.png"
   },
   {
     "slug": "ruban-pp-hot-melt-48mm",
@@ -1157,7 +1157,7 @@
       "Entrepôts frigorifiques",
       "Industrie et e-commerce"
     ],
-    "image": "images/ruban-adhesif-renforce-2.jpeg"
+    "image": "images/products/ruban-adhesif-renforce-2.png"
   },
   {
     "slug": "ruban-pp-solvant-48mm",
@@ -1175,7 +1175,7 @@
       "Agroalimentaire",
       "Fermeture cartons lourds"
     ],
-    "image": "images/ruban-adhesif-variete.jpeg"
+    "image": "images/products/ruban-adhesif-variete.png"
   },
   {
     "slug": "ruban-pvc-premium-50mm",
@@ -1193,7 +1193,7 @@
       "Industries chimique et auto",
       "Fermeture étanche"
     ],
-    "image": "images/ruban-adhesif-pvc-categorie.jpeg"
+    "image": "images/products/ruban-adhesif-pvc-categorie.png"
   },
   {
     "slug": "ruban-signalisation-50mm",
@@ -1211,7 +1211,7 @@
       "Marquage sol temporaire",
       "Identification colis spéciaux"
     ],
-    "image": "images/applicateur-rubans-adhesifs-renforce-2.jpeg"
+    "image": "images/products/applicateur-rubans-adhesifs-renforce-2.png"
   },
   {
     "slug": "sac-kraft-sos",
@@ -1229,7 +1229,7 @@
       "Boulangerie et traiteur",
       "Pharmacie et herboristerie"
     ],
-    "image": "images/sac-ldpe-plastique-menu.jpeg"
+    "image": "images/products/sac-ldpe-plastique-menu.png"
   },
   {
     "slug": "sac-pe",
@@ -1255,7 +1255,7 @@
       "sac-zipper-pe",
       "sac-pe-gaine-rouleau"
     ],
-    "image": "images/sachet-plastique-2.jpeg"
+    "image": "images/products/sachet-plastique-2.png"
   },
   {
     "slug": "sachet-bulle-145x215",
@@ -1273,7 +1273,7 @@
       "E-commerce bijoux et accessoires",
       "Cadeaux et objets délicats"
     ],
-    "image": "images/enveloppe-matelassee-bulles-17x22-1.jpeg"
+    "image": "images/products/enveloppe-matelassee-bulles-17x22-1.png"
   },
   {
     "slug": "sachet-zip-vci",
@@ -1295,7 +1295,7 @@
       "sachet-zip-vci-200x300",
       "sachet-zip-vci-400x600"
     ],
-    "image": "images/sachet-vci-zip-anticorrosion-150x250-1.jpeg"
+    "image": "images/products/sachet-vci-zip-anticorrosion-150x250-1.png"
   },
   {
     "slug": "spk-1600-cercleuse-de-table",
@@ -1313,7 +1313,7 @@
       "Cerclage petites et moyennes séries",
       "Presse, imprimerie, industrie légère"
     ],
-    "image": "images/cercleuse-automatique-spk-1600-lateral.jpeg"
+    "image": "images/products/cercleuse-automatique-spk-1600-lateral.png"
   },
   {
     "slug": "spk-1650",
@@ -1328,7 +1328,7 @@
       "Soudure par friction",
       "PP 5-1"
     ],
-    "image": "img/Cercleuses/cercleuse-spk-1602.jpeg"
+    "image": "images/products/cercleuse-spk-1602.png"
   },
   {
     "slug": "spk-1700-air",
@@ -1344,7 +1344,7 @@
       "Table inox",
       "Idéale mili"
     ],
-    "image": "img/Cercleuses/cercleuse-Semi-automatique-Spk-1402-367x367.jpeg"
+    "image": "images/products/cercleuse-semi-automatique-spk-1402-367x367.png"
   },
   {
     "slug": "spk-1800-pro",
@@ -1359,7 +1359,7 @@
       "35 cycles/min",
       "Pour usage intensif 8h/jour."
     ],
-    "image": "img/Cercleuses/cercleuse-automatique-spk-1600-1.png"
+    "image": "images/products/cercleuse-automatique-spk-1600-1.png"
   },
   {
     "slug": "spk-2200-cercleuse-semi-automatique",
@@ -1377,7 +1377,7 @@
       "Logistique et distribution",
       "Industrie et production"
     ],
-    "image": "images/machine-cercleuse-palette-tete-superieure.jpeg"
+    "image": "images/products/machine-cercleuse-palette-tete-superieure.png"
   },
   {
     "slug": "spk-3600-cercleuse-automatique",
@@ -1395,7 +1395,7 @@
       "Intégration ligne automatisée",
       "Grande distribution et logistique"
     ],
-    "image": "images/machine-cercleuse-palette-tete-superieure.jpeg"
+    "image": "images/products/machine-cercleuse-palette-tete-superieure.png"
   },
   {
     "slug": "spk-7005",
@@ -1410,7 +1410,7 @@
       "Formats 100x150 à 300x400mm",
       "Film"
     ],
-    "image": "images/SPK-7005-remplissage-coussins-air_detalle.jpg"
+    "image": "images/products/spk-7005-remplissage-coussins-air_detalle.png"
   },
   {
     "slug": "spk-7010-plus",
@@ -1426,7 +1426,7 @@
       "IHM tactile",
       "Coupur"
     ],
-    "image": "images/SPK-7005-remplissage-coussins-air_detalle.jpg"
+    "image": "images/products/spk-7005-remplissage-coussins-air_detalle.png"
   },
   {
     "slug": "spk-a-3000",
@@ -1441,7 +1441,7 @@
       "PP 5-15mm",
       "Détection automatique"
     ],
-    "image": "img/Cercleuses/cercleuse-automatique-de-palettes-spk-2903.jpeg"
+    "image": "images/products/cercleuse-automatique-de-palettes-spk-2903.png"
   },
   {
     "slug": "spk-a-5000",
@@ -1457,7 +1457,7 @@
       "IHM tactile",
       "Gestion multi-progra"
     ],
-    "image": "img/Cercleuses/cercleuse-automatique-palettes-spk-2100.jpeg"
+    "image": "images/products/cercleuse-automatique-palettes-spk-2100.png"
   },
   {
     "slug": "spk-a-6000-pet",
@@ -1471,7 +1471,7 @@
       "50 cycles/min",
       "Charges jusqu'à 2000kg."
     ],
-    "image": "img/Cercleuses/cercleuse-laterale-automatique-spk-2000-367x367.jpeg"
+    "image": "images/products/cercleuse-laterale-automatique-spk-2000-367x367.png"
   },
   {
     "slug": "spk-acier-m200",
@@ -1486,7 +1486,7 @@
       "Clips en acier",
       "Pour charges"
     ],
-    "image": "img/Cercleuses/cercleuse-pneumatique-spk-271.jpeg"
+    "image": "images/products/cercleuse-pneumatique-spk-271.png"
   },
   {
     "slug": "spk-arm-banderoleuse-bras-tournant",
@@ -1504,7 +1504,7 @@
       "Palettes hautes et légères",
       "Industries pharmaceutiques et agroalimentaires"
     ],
-    "image": "img/Banderoleuses/banderoleuse-horizontale-pluripack-easy-367x367.jpg"
+    "image": "images/products/banderoleuse-horizontale-pluripack-easy-367x367.png"
   },
   {
     "slug": "spk-bs-100",
@@ -1518,7 +1518,7 @@
       "Ouverture-remplissage-fermeture",
       "15 sacs/min."
     ],
-    "image": "img/Ensacheuses/soudeuses-sacs-avec-table-C-420.jpeg"
+    "image": "images/products/soudeuses-sacs-avec-table-c-420.png"
   },
   {
     "slug": "spk-combi-2",
@@ -1532,7 +1532,7 @@
       "50 cycles/min",
       "Gain de temps 50% vs deux mac"
     ],
-    "image": "img/Cercleuses/cercleuse-horizontale-semi-automatique-spk-2800-367x367.jpeg"
+    "image": "images/products/cercleuse-horizontale-semi-automatique-spk-2800-367x367.png"
   },
   {
     "slug": "spk-compact-100",
@@ -1546,7 +1546,7 @@
       "Plateau 1200mm",
       "Vitesse 6 tr/mi"
     ],
-    "image": "img/Banderoleuses/maquina-envolvedora-controlwrap-.jpg"
+    "image": "images/products/maquina-envolvedora-controlwrap.png"
   },
   {
     "slug": "spk-ecover",
@@ -1558,7 +1558,7 @@
     "features": [
       "Pose automatique d'un film de couverture sur le dessus des palettes avant bander"
     ],
-    "image": "img/Banderoleuses/Ecover-photo-face-1.jpg"
+    "image": "images/products/ecover-photo-face-1.png"
   },
   {
     "slug": "spk-evo",
@@ -1573,7 +1573,7 @@
       "PP/PET 9-19mm",
       "Afficheur LC"
     ],
-    "image": "images/machine-cercleuse-palette-tete-superieure.jpeg"
+    "image": "images/products/machine-cercleuse-palette-tete-superieure.png"
   },
   {
     "slug": "spk-evo-cercleuse-batterie-lithium",
@@ -1591,7 +1591,7 @@
       "Entrepôts et chargement camions",
       "BTP, agriculture, industrie mobile"
     ],
-    "image": "images/CERCLEUSE-SPK_EVO-scaled-e1708961412217.jpg"
+    "image": "images/products/cercleuse-spk_evo-scaled-e1708961412217.png"
   },
   {
     "slug": "spk-fanfold",
@@ -1604,7 +1604,7 @@
       "Transforme le papier kraft en calage nid d'abeille résistant",
       "Remplace la mousse"
     ],
-    "image": "images/SPK-7005-remplissage-coussins-air_detalle.jpg"
+    "image": "images/products/spk-7005-remplissage-coussins-air_detalle.png"
   },
   {
     "slug": "spk-fc-200",
@@ -1618,7 +1618,7 @@
       "8 formats",
       "12 caisses/min."
     ],
-    "image": "images/formeuses-cartons-starbox-50-60.jpg"
+    "image": "images/products/formeuses-cartons-starbox-50-60.png"
   },
   {
     "slug": "spk-fc-350-auto",
@@ -1633,7 +1633,7 @@
       "Changement format motorisé",
       "Intégration ligne"
     ],
-    "image": "images/formeuses-cartons-starbox-50-60.jpg"
+    "image": "images/products/formeuses-cartons-starbox-50-60.png"
   },
   {
     "slug": "spk-fc-500",
@@ -1648,7 +1648,7 @@
       "Colle hot melt Graco intégrée",
       "IHM tactile."
     ],
-    "image": "images/formeuses-cartons-starbox-50-60.jpg"
+    "image": "images/products/formeuses-cartons-starbox-50-60.png"
   },
   {
     "slug": "spk-fe-150-manuel",
@@ -1662,7 +1662,7 @@
       "Réglage rapide",
       "Encombrement minim"
     ],
-    "image": "images/fermeuse-automatique-robotape-tbda.jpg"
+    "image": "images/products/fermeuse-automatique-robotape-tbda.png"
   },
   {
     "slug": "spk-fe-200",
@@ -1676,7 +1676,7 @@
       "Réglage largeur 200-500mm",
       "15 caisse"
     ],
-    "image": "images/fermeuse-automatique-robotape-tbda.jpg"
+    "image": "images/products/fermeuse-automatique-robotape-tbda.png"
   },
   {
     "slug": "spk-fe-220-gomme",
@@ -1690,7 +1690,7 @@
       "12 caisses/min",
       "100% recyclable."
     ],
-    "image": "images/fermeuse-automatique-robotape-tbda.jpg"
+    "image": "images/products/fermeuse-automatique-robotape-tbda.png"
   },
   {
     "slug": "spk-fe-300-hm",
@@ -1704,7 +1704,7 @@
       "25 caisses/min",
       "Format réglable motorisé."
     ],
-    "image": "images/fermeuse-automatique-robotape-tbda.jpg"
+    "image": "images/products/fermeuse-automatique-robotape-tbda.png"
   },
   {
     "slug": "spk-fe-400-combi",
@@ -1717,7 +1717,7 @@
       "Double fermeture ruban + hot melt pour sécurité maximale",
       "20 caisses/min."
     ],
-    "image": "images/fermeuse-automatique-robotape-tbda.jpg"
+    "image": "images/products/fermeuse-automatique-robotape-tbda.png"
   },
   {
     "slug": "spk-flowpack-500",
@@ -1731,7 +1731,7 @@
       "Servo-motorisée",
       "Changement format rapi"
     ],
-    "image": "img/Ensacheuses/soudeuse-sacs-C-420.jpeg"
+    "image": "images/products/soudeuse-sacs-c-420.png"
   },
   {
     "slug": "spk-foam-200",
@@ -1743,7 +1743,7 @@
     "features": [
       "Coupe la mousse PE en feuilles calibrées pour calage précis de pièces fragiles."
     ],
-    "image": "images/SPK-7005-remplissage-coussins-air_detalle.jpg"
+    "image": "images/products/spk-7005-remplissage-coussins-air_detalle.png"
   },
   {
     "slug": "spk-h-150-compact",
@@ -1757,7 +1757,7 @@
       "Anneau 600mm",
       "Dédiée aux produits de f"
     ],
-    "image": "img/Banderoleuses/banderoleuse-horizontale-pluripack-automatique.jpg"
+    "image": "images/products/banderoleuse-horizontale-pluripack-automatique.png"
   },
   {
     "slug": "spk-h-200",
@@ -1773,7 +1773,7 @@
       "Anneau 800mm",
       "Vitesse réglable"
     ],
-    "image": "img/Banderoleuses/banderoleuse-horizontale-compacta-spg-1.jpg"
+    "image": "images/products/banderoleuse-horizontale-compacta-spg-1.png"
   },
   {
     "slug": "spk-h-250-baggage",
@@ -1788,7 +1788,7 @@
       "Interface simple",
       "Tarification au cy"
     ],
-    "image": "img/Banderoleuses/envolvedora-de-maletas-controlwrap-advanced.jpg"
+    "image": "images/products/envolvedora-de-maletas-controlwrap-advanced.png"
   },
   {
     "slug": "spk-h-350",
@@ -1803,7 +1803,7 @@
       "Détection automatique de longueur",
       "Coupe-f"
     ],
-    "image": "img/Banderoleuses/banderoleuse-horizontale-compacta-tires-1-367x367.jpg"
+    "image": "images/products/banderoleuse-horizontale-compacta-tires-1-367x367.png"
   },
   {
     "slug": "spk-h-500",
@@ -1818,7 +1818,7 @@
       "Convoyeurs motorisés",
       "IHM tactile 7 pouce"
     ],
-    "image": "img/Banderoleuses/banderoleuse-horizontale-compacta.jpg"
+    "image": "images/products/banderoleuse-horizontale-compacta-2.png"
   },
   {
     "slug": "spk-h-800-industrial",
@@ -1832,7 +1832,7 @@
       "Pour charges lourdes jusqu'à 2000kg",
       "Vitesse anneau 100 tr/min."
     ],
-    "image": "img/Banderoleuses/banderoleuse-horizontale-spiror-367x367.jpg"
+    "image": "images/products/banderoleuse-horizontale-spiror-367x367.png"
   },
   {
     "slug": "spk-horizontal-banderoleuse",
@@ -1850,7 +1850,7 @@
       "Bois, fenêtres, portes",
       "Textiles et tapis en rouleau"
     ],
-    "image": "images/banderoleuse-horizontale-compacta.jpg"
+    "image": "images/products/banderoleuse-horizontale-compacta.png"
   },
   {
     "slug": "spk-hs-300",
@@ -1866,7 +1866,7 @@
       "30 pcs/min",
       "Film PE/OPP."
     ],
-    "image": "img/Ensacheuses/formeuse-de-sacs-simplicita-baggy.jpeg"
+    "image": "images/products/formeuse-de-sacs-simplicita-baggy.png"
   },
   {
     "slug": "spk-macroplat",
@@ -1879,7 +1879,7 @@
       "Accessoire adaptable sur banderoleuse existante",
       "Perfore le film pour ventilatio"
     ],
-    "image": "images/banderoleuse-macroplat.jpg"
+    "image": "images/products/banderoleuse-macroplat.png"
   },
   {
     "slug": "spk-orbital-400",
@@ -1892,7 +1892,7 @@
       "Idéale pour palettes instables ou fragiles",
       "Bras tourne autour de la palette fix"
     ],
-    "image": "img/Banderoleuses/banderoleuse-horizontale-orbit-r-lateral-367x367.jpg"
+    "image": "images/products/banderoleuse-horizontale-orbit-r-lateral-367x367.png"
   },
   {
     "slug": "spk-orbital-600",
@@ -1907,7 +1907,7 @@
       "45 cycles/h",
       "Compatible avec ligne a"
     ],
-    "image": "img/Banderoleuses/Ecowrap-XL-Controlpack.jpg"
+    "image": "images/products/ecowrap-xl-controlpack.png"
   },
   {
     "slug": "spk-palettiseur-1",
@@ -1921,7 +1921,7 @@
       "600 colis/h",
       "Programmation multi-co"
     ],
-    "image": "images/stockage_palette_entrepot-250x250.png"
+    "image": "images/products/stockage_palette_entrepot-250x250.png"
   },
   {
     "slug": "spk-palettiseur-2",
@@ -1935,7 +1935,7 @@
       "Vitesse 1400mm/s",
       "Polyvalent tous formats de co"
     ],
-    "image": "images/stockage_palette_entrepot-250x250.png"
+    "image": "images/products/stockage_palette_entrepot-250x250.png"
   },
   {
     "slug": "spk-paper-fill",
@@ -1949,7 +1949,7 @@
       "5m/min",
       "100% recyclable."
     ],
-    "image": "images/SPK-7005-remplissage-coussins-air_detalle.jpg"
+    "image": "images/products/spk-7005-remplissage-coussins-air_detalle.png"
   },
   {
     "slug": "spk-pneumatique-p100",
@@ -1964,7 +1964,7 @@
       "30 cycles/min",
       "Idéale milieux avec réseau d"
     ],
-    "image": "img/Cercleuses/cercleuse-pneumatique-spk-244.jpeg"
+    "image": "images/products/cercleuse-pneumatique-spk-244.png"
   },
   {
     "slug": "spk-r-310",
@@ -1979,7 +1979,7 @@
       "0-12 tr/min",
       "Film pré-étiré"
     ],
-    "image": "img/Banderoleuses/masterplat-plus-frontal_.jpg"
+    "image": "images/products/masterplat-plus-frontal_.png"
   },
   {
     "slug": "spk-r-320",
@@ -1994,7 +1994,7 @@
       "Pré-étirage motorisé 270%",
       "Potence réglable en hauteu"
     ],
-    "image": "img/Banderoleuses/masterplat-plus-frontal_.jpg"
+    "image": "images/products/masterplat-plus-frontal_.png"
   },
   {
     "slug": "spk-r-500-auto",
@@ -2008,7 +2008,7 @@
       "35-40 palettes/heure",
       "Conv"
     ],
-    "image": "img/Banderoleuses/masterplat-plus-frontal_.jpg"
+    "image": "images/products/masterplat-plus-frontal_.png"
   },
   {
     "slug": "spk-r-700-auto",
@@ -2023,7 +2023,7 @@
       "Intégration convoyeur",
       "Programmation cycles v"
     ],
-    "image": "img/Banderoleuses/Ecoplat-base-plataforma-1500-mm.jpg"
+    "image": "images/products/ecoplat-base-plataforma-1500-mm.png"
   },
   {
     "slug": "spk-ring-2000",
@@ -2037,7 +2037,7 @@
       "60 cycles/h",
       "Format"
     ],
-    "image": "img/Banderoleuses/envolvedora-horizontal-compacta.jpg"
+    "image": "images/products/envolvedora-horizontal-compacta.png"
   },
   {
     "slug": "spk-robot-cercleuse",
@@ -2050,7 +2050,7 @@
       "Robot autonome se déplaçant entre les postes",
       "Cerclage sur mesure sans convoyeur"
     ],
-    "image": "img/Cercleuses/cercleuse-banderoleuse-Wrapster-367x367.jpeg"
+    "image": "images/products/cercleuse-banderoleuse-wrapster-367x367.png"
   },
   {
     "slug": "spk-robot-connect",
@@ -2063,7 +2063,7 @@
       "Robot avec module WiFi SPK Connect pour suivi à distance",
       "Statistiques et alerte"
     ],
-    "image": "images/spk_connect_controle_distance_banderoleuse_palette-250x250.png"
+    "image": "images/products/spk_connect_controle_distance_banderoleuse_palette-250x250.png"
   },
   {
     "slug": "spk-robot-evo",
@@ -2076,7 +2076,7 @@
       "Robot portable qui tourne autour de la palette",
       "Batterie lithium 8h d'autonomie"
     ],
-    "image": "img/Banderoleuses/Robot-banderoleuse-S7.jpg"
+    "image": "images/products/robot-banderoleuse-s7.png"
   },
   {
     "slug": "spk-rotate-banderoleuse-plateau-tournant",
@@ -2095,7 +2095,7 @@
       "Production industrielle",
       "E-commerce et transport"
     ],
-    "image": "images/banderoleuse-film-macro-robopac.jpeg"
+    "image": "images/products/banderoleuse-film-macro-robopac.png"
   },
   {
     "slug": "spk-tf-150-compact",
@@ -2110,7 +2110,7 @@
       "6 cycles/min",
       "Idéale boutiques et PME."
     ],
-    "image": "img/Thermofilmeuses/thermofilmeuse-manuelle-spk-1554.jpeg"
+    "image": "images/products/thermofilmeuse-manuelle-spk-1554.png"
   },
   {
     "slug": "spk-tf-200-i-bar",
@@ -2124,7 +2124,7 @@
       "Format libre",
       "Idéale pour petits volu"
     ],
-    "image": "img/Thermofilmeuses/thermofilmeuse-automatique-spk-3554-tbd.jpg"
+    "image": "images/products/thermofilmeuse-automatique-spk-3554-tbd.png"
   },
   {
     "slug": "spk-tf-300-l",
@@ -2138,7 +2138,7 @@
       "Film PE/POF/PVC jusqu'à 600mm largeur",
       "8-12 cycl"
     ],
-    "image": "img/Thermofilmeuses/thermofilmeuse-manuelle-spk-1554.jpeg"
+    "image": "images/products/thermofilmeuse-manuelle-spk-1554.png"
   },
   {
     "slug": "spk-tf-350-side-seal",
@@ -2152,7 +2152,7 @@
       "30 produits/min",
       "Format réglable mot"
     ],
-    "image": "img/Thermofilmeuses/soudeuse-en-l-SPK-2907A-2.png"
+    "image": "images/products/soudeuse-en-l-spk-2907a-2.png"
   },
   {
     "slug": "spk-tf-400-l",
@@ -2167,7 +2167,7 @@
       "Contrôle température digital",
       "Format jusqu'à 700mm"
     ],
-    "image": "img/Thermofilmeuses/thermofilmeuse-automatique-spk-3554-tbd.jpg"
+    "image": "images/products/thermofilmeuse-automatique-spk-3554-tbd.png"
   },
   {
     "slug": "spk-tf-500-auto",
@@ -2182,7 +2182,7 @@
       "Photocellule détection produit",
       "IHM tactile"
     ],
-    "image": "img/Thermofilmeuses/tunnel-retraction-spk-9503-lx.png"
+    "image": "images/products/tunnel-retraction-spk-9503-lx.png"
   },
   {
     "slug": "spk-tf-600-flow",
@@ -2196,7 +2196,7 @@
       "80 sachets/min",
       "Film PE multicou"
     ],
-    "image": "img/Thermofilmeuses/soudeuse-en-l-SPK-2907A-2.png"
+    "image": "images/products/soudeuse-en-l-spk-2907a-2.png"
   },
   {
     "slug": "spk-tf-700-auto",
@@ -2211,7 +2211,7 @@
       "Multi-formats",
       "Changement de bobine rapide 3 min."
     ],
-    "image": "img/Thermofilmeuses/fardeleuse-spk-4603-a.jpg"
+    "image": "images/products/fardeleuse-spk-4603-a.png"
   },
   {
     "slug": "spk-tf-800-tunnel",
@@ -2224,7 +2224,7 @@
       "Tunnel 1200mm de large à associer à votre scelleuse existante",
       "Température 0-300"
     ],
-    "image": "img/Thermofilmeuses/tunnel-retraction-spk-9503-lx.png"
+    "image": "images/products/tunnel-retraction-spk-9503-lx.png"
   },
   {
     "slug": "spk-tf-900-coex",
@@ -2239,7 +2239,7 @@
       "20 cycles/min",
       "Nettoyage faci"
     ],
-    "image": "img/Thermofilmeuses/fardeleuse-spk-4603-a.jpg"
+    "image": "images/products/fardeleuse-spk-4603-a.png"
   },
   {
     "slug": "spk-tray-100",
@@ -2253,7 +2253,7 @@
       "20 pièces/min",
       "4 formats."
     ],
-    "image": "images/formeuses-cartons-starbox-50-60.jpg"
+    "image": "images/products/formeuses-cartons-starbox-50-60.png"
   },
   {
     "slug": "spk-void-fill",
@@ -2267,7 +2267,7 @@
       "Idéale e-commerce fort volume",
       "30m/min."
     ],
-    "image": "images/SPK-7005-remplissage-coussins-air_detalle.jpg"
+    "image": "images/products/spk-7005-remplissage-coussins-air_detalle.png"
   },
   {
     "slug": "spk-vs-200",
@@ -2282,7 +2282,7 @@
       "20-40 sachets/min",
       "Doseur volu"
     ],
-    "image": "img/Ensacheuses/ensacheuse-Simplicita-Bag-Smart-400H.jpeg"
+    "image": "images/products/ensacheuse-simplicita-bag-smart-400h.png"
   },
   {
     "slug": "spk-vs-400-auto",
@@ -2297,7 +2297,7 @@
       "Format de sachet motorisé",
       "Doseur pondéral int"
     ],
-    "image": "img/Ensacheuses/ensacheuse-verticale-spk-x-bag.jpeg"
+    "image": "images/products/ensacheuse-verticale-spk-x-bag.png"
   },
   {
     "slug": "spk-zip-200",
@@ -2311,7 +2311,7 @@
       "Refermeables",
       "Idéale alimentaire haut de gamme et cosmétiq"
     ],
-    "image": "img/Ensacheuses/thermosoudeuse-plateau-inox-5.jpeg"
+    "image": "images/products/thermosoudeuse-plateau-inox-5.png"
   },
   {
     "slug": "table-elevatrice-500kg",
@@ -2330,7 +2330,7 @@
       "Préparation de commandes",
       "Logistique entrepôt"
     ],
-    "image": "images/table-preparation-commande-spk-2.jpeg"
+    "image": "images/products/table-preparation-commande-spk-2.png"
   },
   {
     "slug": "tendeur-feuillard-manuel",
@@ -2348,7 +2348,7 @@
       "Palettes et fardeaux",
       "Logistique et distribution"
     ],
-    "image": "images/chariot-devidoir-feuillard.jpeg"
+    "image": "images/products/chariot-devidoir-feuillard.png"
   },
   {
     "slug": "transpalette-manuel-2500kg",
@@ -2366,7 +2366,7 @@
       "Déplacement charges lourdes",
       "Compatible europalettes 800x1200mm"
     ],
-    "image": "images/transpalette-categorie.jpg"
+    "image": "images/products/transpalette-categorie.png"
   },
   {
     "slug": "transpalette-peseur-2500kg",
@@ -2384,7 +2384,7 @@
       "Expéditions nécessitant facturation au poids",
       "Entrepôts et quais de chargement"
     ],
-    "image": "images/transpalette-categorie.jpg"
+    "image": "images/products/transpalette-categorie.png"
   },
   {
     "slug": "vianex-line-100",
@@ -2398,7 +2398,7 @@
       "Cadence 500 colis/h",
       "Gestion"
     ],
-    "image": "img/Lignes d’emballage automatiques/plan-pack-and-box.jpg"
+    "image": "images/products/plan-pack-and-box.png"
   },
   {
     "slug": "vianex-line-200",
@@ -2410,6 +2410,6 @@
     "features": [
       "Ligne complète : formage carton + remplissage + fermeture + étiquetage + paletti"
     ],
-    "image": "img/Lignes d’emballage automatiques/PACK-BOX-5-150x150.jpg"
+    "image": "images/products/pack-box-5-150x150.png"
   }
 ]
