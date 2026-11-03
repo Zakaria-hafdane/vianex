@@ -565,3 +565,8 @@ textarea.field{resize:vertical;}
   .footer-bottom{margin-top:2.5rem;padding-top:1.5rem;}
 }
 .about-media img{width:100%;}
+/* Catalogue tile showing a cut-out product instead of a photo */
+.kind-tile-product{background:radial-gradient(circle at 50% 35%,#fff 0,var(--surface) 70%);}
+.kind-tile-product img{object-fit:contain;padding:.5rem .5rem 3.75rem;}
+.kind-tile-product::after{background:linear-gradient(180deg,transparent 55%,color-mix(in oklab,var(--navy-deep) 92%,transparent) 100%);}
+@media(max-width:767px){.kind-tile-product img{padding:.5rem .5rem 3rem;}}
