@@ -1,5 +1,6 @@
 /* VIANEX theme — navy #10263F, orange #F28B25, Montserrat + Inter */
 :root{
+  color-scheme:only light;
   --radius:.375rem;
   --navy:oklch(0.27 0.055 252);
   --navy-deep:oklch(0.21 0.045 252);
