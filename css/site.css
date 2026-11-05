@@ -306,6 +306,13 @@ textarea.field{resize:vertical;}
 @media(min-width:768px){.catalog-title-row h1{font-size:3.75rem;}}
 
 .catalog-browser{display:grid;gap:2.5rem;padding-top:3rem;padding-bottom:6rem;}
+.catalog-download{grid-column:1/-1;display:grid;grid-template-columns:6rem minmax(0,1fr) auto;align-items:center;gap:1.5rem;border:1px solid var(--border);border-radius:var(--radius);background:var(--surface);padding:1.25rem 1.5rem;}
+.catalog-download-cover{position:relative;display:grid;place-items:center;aspect-ratio:.78;border-radius:calc(var(--radius) - 2px);background:var(--navy);color:var(--navy-foreground);box-shadow:var(--shadow-card);}
+.catalog-download-cover .lucide{width:2.25rem;height:2.25rem;color:var(--primary);}
+.catalog-download-cover span{position:absolute;right:.4rem;bottom:.4rem;border-radius:2px;background:var(--primary);padding:.1rem .35rem;color:var(--primary-foreground);font-family:var(--font-display);font-size:.65rem;font-weight:700;letter-spacing:.08em;}
+.catalog-download-copy h2{font-family:var(--font-display);font-size:1.125rem;font-weight:700;color:var(--navy);}
+.catalog-download-copy p{margin-top:.25rem;color:var(--muted-foreground);font-size:.9rem;line-height:1.5;}
+.catalog-download-button{flex-shrink:0;}
 .catalog-filters{align-self:start;}
 .filter-label{display:block;margin-bottom:.625rem;font-family:var(--font-display);font-size:.7rem;font-weight:700;letter-spacing:.15em;text-transform:uppercase;color:var(--navy);}
 .search-field,.category-filter{display:block;margin-bottom:1.5rem;}
@@ -428,6 +435,8 @@ textarea.field{resize:vertical;}
   .catalog-title-row h1{font-size:2.125rem;line-height:1.1;}
   .catalog-title-row>p{max-width:none;margin-top:.875rem;font-size:1rem;line-height:1.6;}
   .catalog-rule{margin-top:1.5rem;padding-top:.75rem;}
+  .catalog-download{grid-template-columns:4.5rem minmax(0,1fr);gap:1rem;padding:1rem;}
+  .catalog-download-button{grid-column:1/-1;width:100%;padding:0 1rem;}
   .contact-quick{margin-top:1.5rem;flex-direction:column;gap:.75rem;}
   .wa-float{bottom:1rem;right:1rem;padding:.8rem;}
   .wa-float .lucide{width:1.375rem;height:1.375rem;}
